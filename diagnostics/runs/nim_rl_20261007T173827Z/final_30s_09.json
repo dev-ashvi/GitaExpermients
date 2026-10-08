@@ -1,0 +1,23 @@
+{
+  "timestamp_utc_start": "2026-10-07T19:15:01.982491Z",
+  "timestamp_utc_end": "2026-10-07T19:15:02.136963Z",
+  "latency_ms": 154,
+  "http_status": 429,
+  "prompt_tokens": null,
+  "completion_tokens": null,
+  "total_tokens": null,
+  "finish_reason": null,
+  "model_returned": null,
+  "response_id": null,
+  "response_headers": {
+    "Date": "Wed, 07 Oct 2026 19:15:02 GMT",
+    "Content-Type": "application/problem+json",
+    "Content-Length": "42",
+    "Connection": "close",
+    "Vary": "Origin"
+  },
+  "highlighted_headers": {},
+  "response_body_preview": "{\"status\":429,\"title\":\"Too Many Requests\"}",
+  "content_chars": 326047,
+  "final_30s_index": 9
+}

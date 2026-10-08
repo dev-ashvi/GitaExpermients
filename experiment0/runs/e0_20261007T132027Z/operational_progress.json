@@ -1,0 +1,11 @@
+{
+  "episodes_attempted": 1,
+  "episodes_completed": 19,
+  "episodes_failed_operational": 1,
+  "provider_failures": 1,
+  "last_episode_id": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28",
+  "last_schedule_index": 19,
+  "status": "STOPPED_FOR_REVIEW",
+  "elapsed_sec": 103.5,
+  "updated_utc": "2026-10-07T16:44:08.131063Z"
+}

@@ -1,0 +1,267 @@
+{
+  "audit_type": "operational_cost_runtime_only",
+  "run_id": "e0_20261007T132027Z",
+  "generated_utc": "2026-10-07T19:46:08.313344Z",
+  "blinding": {
+    "no_scientific_metrics_computed": true,
+    "no_c1_c2_comparison": true,
+    "no_response_text_inspected_or_reported": true,
+    "run_not_resumed": true,
+    "frozen_scientific_artifacts_not_modified": true,
+    "condition_labels_ignored": true
+  },
+  "methodology": {
+    "completed_episodes": "schedule indices 0-18 only (19 episodes, 25 turns each)",
+    "call_counting": "Exact structural counts: per turn 1 Actor initial + regeneration_count Actor revisions; 1 Witness RAW + regeneration_count Witness re-evals. Witness FINAL is the last Witness call (not an extra API call).",
+    "token_recording": "Ledger stores actor_input/output_tokens for the last Actor call of the turn, and provider_meta tokens for the last provider call of the turn (typically last Witness). Turns with regeneration_count>0 undercount prior Actor/Witness calls in token totals. Primary totals use recorded fields; an imputation estimate for missing pairs is shown separately.",
+    "turns_with_regeneration": 17,
+    "total_turns": 475
+  },
+  "A_completed_run_totals": {
+    "completed_episodes": 19,
+    "total_model_calls_structural": 984,
+    "actor_calls_including_revisions": 492,
+    "actor_initial_calls": 475,
+    "actor_revision_calls": 17,
+    "witness_calls_total": 492,
+    "witness_raw_calls": 475,
+    "witness_reeval_calls_leading_to_final": 17,
+    "witness_final_extra_calls": 0,
+    "other_model_calls": 0,
+    "recorded_input_tokens_actor_plus_last_call": 164158233,
+    "recorded_output_tokens_actor_plus_last_call": 347567,
+    "recorded_total_tokens": 164505800,
+    "recorded_actor_input_tokens": 83657043,
+    "recorded_actor_output_tokens": 312601,
+    "recorded_last_call_input_tokens_typically_witness": 80501190,
+    "recorded_last_call_output_tokens_typically_witness": 34966,
+    "recorded_actor_latency_ms_sum": 3630128,
+    "recorded_last_call_latency_ms_sum": 1205638,
+    "recorded_latency_ms_sum_actor_plus_last_call": 4835766,
+    "estimated_missing_token_pairs_from_regen_turns": 17,
+    "estimated_missing_input_tokens_imputed": 5875137,
+    "estimated_missing_output_tokens_imputed": 12439,
+    "estimated_full_input_tokens_recorded_plus_imputed": 170033370,
+    "estimated_full_output_tokens_recorded_plus_imputed": 360006
+  },
+  "B_per_episode_distribution": {
+    "calls": {
+      "mean": 51.78947368421053,
+      "median": 52.0,
+      "min": 50,
+      "max": 54
+    },
+    "recorded_input_tokens": {
+      "mean": 8639907.0,
+      "median": 8645917.0,
+      "min": 8553546,
+      "max": 8688211
+    },
+    "recorded_output_tokens": {
+      "mean": 18293.0,
+      "median": 18808.0,
+      "min": 11043,
+      "max": 21090
+    },
+    "recorded_total_tokens": {
+      "mean": 8658200.0,
+      "median": 8665126.0,
+      "min": 8564589,
+      "max": 8709301
+    }
+  },
+  "C_actor_vs_witness": {
+    "actor": {
+      "calls_including_revisions": 492,
+      "recorded_input_tokens": 83657043,
+      "recorded_output_tokens": 312601,
+      "mean_recorded_input_per_episode": 4403002.263157895,
+      "mean_recorded_output_per_episode": 16452.684210526317,
+      "mean_calls_per_episode": 25.894736842105264
+    },
+    "witness": {
+      "calls_total": 492,
+      "raw_calls": 475,
+      "reeval_calls": 17,
+      "recorded_last_call_input_tokens_proxy": 80501190,
+      "recorded_last_call_output_tokens_proxy": 34966,
+      "mean_recorded_last_call_input_per_episode": 4236904.736842105,
+      "mean_recorded_last_call_output_per_episode": 1840.3157894736842,
+      "mean_calls_per_episode": 25.894736842105264,
+      "note": "Witness token columns use last-call provider_meta per turn (typically final Witness of that turn)."
+    },
+    "revision_related": {
+      "actor_revision_calls": 17,
+      "witness_reeval_calls": 17,
+      "note": "Identified only by regeneration_count; no scientific reason reported."
+    }
+  },
+  "D_fresh_n60_projection": {
+    "basis": "empirical mean of 19 completed episodes (recorded token attribution)",
+    "projected_calls_60": 3107.3684210526317,
+    "projected_input_tokens_60": 518394420.0,
+    "projected_output_tokens_60": 1097580.0,
+    "plus_20pct_engineering_allowance": {
+      "projected_input_tokens_60": 622073304.0,
+      "projected_output_tokens_60": 1317096.0
+    },
+    "observed_max_per_episode_times_60_envelope": {
+      "projected_input_tokens_60": 521292660,
+      "projected_output_tokens_60": 1265400,
+      "max_calls_envelope_60": 3240
+    },
+    "disclaimer": "Operational projections only \u2014 not scientific estimates."
+  },
+  "E_paid_serving_cost_scenarios": {
+    "formula": "cost = input_tokens_millions * input_price_per_million + output_tokens_millions * output_price_per_million",
+    "scenario_1_openrouter_same_model": {
+      "pricing": {
+        "model_id": "nvidia/nemotron-3-super-120b-a12b",
+        "source": "https://openrouter.ai/api/v1/models",
+        "verified_utc": "2026-10-07T19:46:08.311344Z",
+        "pricing_prompt_per_token": 8e-08,
+        "pricing_completion_per_token": 4.5e-07,
+        "input_usd_per_million": 0.08,
+        "output_usd_per_million": 0.45,
+        "verification_status": "VERIFIED_FROM_OPENROUTER_MODELS_API"
+      },
+      "costs_usd": {
+        "label": "OpenRouter nvidia/nemotron-3-super-120b-a12b (API-verified)",
+        "input_usd_per_million": 0.08,
+        "output_usd_per_million": 0.45,
+        "mean_projected_n60_usd": 41.9655,
+        "plus_20pct_allowance_usd": 50.3586,
+        "max_envelope_usd": 42.2728
+      }
+    },
+    "scenario_2_generic_sensitivity": [
+      {
+        "label": "$0.05/M in + $0.25/M out",
+        "input_usd_per_million": 0.05,
+        "output_usd_per_million": 0.25,
+        "mean_projected_n60_usd": 26.1941,
+        "plus_20pct_allowance_usd": 31.4329,
+        "max_envelope_usd": 26.381
+      },
+      {
+        "label": "$0.08/M in + $0.45/M out",
+        "input_usd_per_million": 0.08,
+        "output_usd_per_million": 0.45,
+        "mean_projected_n60_usd": 41.9655,
+        "plus_20pct_allowance_usd": 50.3586,
+        "max_envelope_usd": 42.2728
+      },
+      {
+        "label": "$0.10/M in + $0.50/M out",
+        "input_usd_per_million": 0.1,
+        "output_usd_per_million": 0.5,
+        "mean_projected_n60_usd": 52.3882,
+        "plus_20pct_allowance_usd": 62.8659,
+        "max_envelope_usd": 52.762
+      },
+      {
+        "label": "$0.30/M in + $0.65/M out",
+        "input_usd_per_million": 0.3,
+        "output_usd_per_million": 0.65,
+        "mean_projected_n60_usd": 156.2318,
+        "plus_20pct_allowance_usd": 187.4781,
+        "max_envelope_usd": 157.2103
+      }
+    ]
+  },
+  "F_free_nim_runtime_estimate": {
+    "pacing_only_lower_bounds": {
+      "30s": {
+        "spacing_sec": 30,
+        "pacing_only_lower_bound_sec": 93191.05263157895,
+        "pacing_only_lower_bound_hours": 25.89
+      },
+      "60s": {
+        "spacing_sec": 60,
+        "pacing_only_lower_bound_sec": 186382.1052631579,
+        "pacing_only_lower_bound_hours": 51.77
+      },
+      "90s": {
+        "spacing_sec": 90,
+        "pacing_only_lower_bound_sec": 279573.15789473685,
+        "pacing_only_lower_bound_hours": 77.66
+      }
+    },
+    "formula_pacing_only": "(projected_calls_60 - 1) * spacing_sec",
+    "approximate_wall_clock": {
+      "mean_recorded_inference_latency_per_episode_sec": 254.514,
+      "approx_60_episode_inference_latency_only_hours": 4.24,
+      "illustrative_wall_plus_start_spacing": {
+        "wall_plus_30s_start_spacing_hours": 30.13,
+        "wall_plus_60s_start_spacing_hours": 56.01,
+        "wall_plus_90s_start_spacing_hours": 81.9
+      },
+      "note": "Pacing-only is a lower bound ignoring compute time and retries. Wall+spacing adds recorded per-episode latency sums to spacing; still approximate. No pacing policy recommended here."
+    }
+  },
+  "G_aborted_run_sunk_usage": {
+    "completed_episodes_0_to_18": {
+      "structural_model_calls": 984,
+      "recorded_input_tokens": 164158233,
+      "recorded_output_tokens": 347567
+    },
+    "incomplete_episode_19_attempts": {
+      "note": "Incomplete schedule-index-19 attempts only. Not included in completed-episode averages or N=60 projections.",
+      "files": [
+        {
+          "file": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.jsonl",
+          "bytes": 65135,
+          "turns_logged": 6,
+          "model_calls_structural": 12,
+          "recorded_actor_input_tokens": 1020981,
+          "recorded_actor_output_tokens": 4800,
+          "recorded_last_call_input_tokens": 1017732,
+          "recorded_last_call_output_tokens": 420
+        },
+        {
+          "file": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791385190.jsonl.bak",
+          "bytes": 0,
+          "turns": 0
+        },
+        {
+          "file": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791385885.jsonl.bak",
+          "bytes": 57117,
+          "turns_logged": 6,
+          "model_calls_structural": 12,
+          "recorded_actor_input_tokens": 1016807,
+          "recorded_actor_output_tokens": 3638,
+          "recorded_last_call_input_tokens": 1016562,
+          "recorded_last_call_output_tokens": 420
+        },
+        {
+          "file": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791391344.jsonl.bak",
+          "bytes": 38793,
+          "turns_logged": 5,
+          "model_calls_structural": 10,
+          "recorded_actor_input_tokens": 844087,
+          "recorded_actor_output_tokens": 1926,
+          "recorded_last_call_input_tokens": 846023,
+          "recorded_last_call_output_tokens": 350
+        }
+      ],
+      "structural_model_calls": 34,
+      "recorded_actor_input_tokens": 2881875,
+      "recorded_actor_output_tokens": 10364,
+      "recorded_last_call_input_tokens": 2880317,
+      "recorded_last_call_output_tokens": 1190,
+      "recorded_input_tokens_sum_actor_plus_last_call": 5762192,
+      "recorded_output_tokens_sum_actor_plus_last_call": 11554,
+      "recorded_actor_latency_ms": 145243,
+      "recorded_last_call_latency_ms": 42361
+    },
+    "diagnostics_separate": "Isolated NIM pacing diagnostics under diagnostics/runs/nim_rl_* are NOT included in Experiment 0 episode totals."
+  },
+  "integrity_confirmation": {
+    "no_scientific_outcome_metric_computed": true,
+    "no_c1_c2_comparison_performed": true,
+    "no_response_text_inspected_or_reported": true,
+    "run_not_resumed": true,
+    "no_frozen_scientific_artifact_modified": true,
+    "original_ledgers_not_rewritten": true
+  }
+}

@@ -1,0 +1,1431 @@
+Original Investigation| Nutrition, Obesity, and Exercise
+Association of Low- and No-Calorie Sweetened Beverages as a Replacement
+for Sugar-Sweetened Beverages With Body Weight and Cardiometabolic Risk
+ASystematicReviewandMeta-analysis
+NémaD.McGlynn,MSc,RD;TauseefAhmadKhan,MBBS,PhD;LilyWang,BSc;RoselynZhang,MSc;LauraChiavaroli,PhD;FeiAu-Yeung,MSc;
+JenniferJ.Lee,MPH,RD;JarvisC.Noronha,MSc;ElenaM.Comelli,PhD;SoniaBlancoMejia,MSc,MD;AmnaAhmed,BSc;VasantiS.Malik,PhD;JamesO.Hil l,PhD;
+LawrenceA.Leiter,MD;ArnavAgarwal,MD;PerB.Jeppesen,PhD;DarioRahelić,MD,PhD;HanaKahleová,MD,PhD;JordiSalas-Salvadó,MD,PhD;
+CyrilW.C.Kendall,PhD;JohnL.Sievenpiper,MD,PhD
+Abstract
+IMPORTANCE Thereareconcernsthatlow-andno-caloriesweetenedbeverages(LNCSBs)donot
+haveestablishedbenefits,withmajordietaryguidelinesrecommendingtheuseofwaterandnot
+LNCSBstoreplacesugar-sweetenedbeverages(SSBs).WhetherLNCSBasasubstitutecanyield
+similarimprovementsincardiometabolicriskfactorsvswaterintheirintendedsubstitutionforSSBs
+isunclear.
+OBJECTIVE ToassesstheassociationofLNCSBs(using3prespecifiedsubstitutionsofLNCSBsfor
+SSBs,waterforSSBs,andLNCSBsforwater)withbodyweightandcardiometabolicriskfactorsin
+adultswithandwithoutdiabetes.
+DATA SOURCESMedline,Embase,andtheCochraneCentralRegisterofControlledTrialswere
+searchedfrominceptionthroughDecember26,2021.
+STUDY SELECTIONRandomizedclinicaltrials(RCTs)withatleast2weeksofinterventions
+comparingLNCSBs,SSBs,and/orwaterwereincluded.
+DATA EXTRACTION AND SYNTHESISDatawereextractedandriskofbiaswasassessedby2
+independentreviewers.Anetworkmeta-analysiswasperformedwithdataexpressedasmean
+difference(MD)orstandardizedmeandifference(SMD)with95%CIs.TheGRADE(Gradingof
+RecommendationsAssessment,DevelopmentandEvaluation)systemwasusedtoassessthe
+certaintyoftheevidence.
+MAIN OUTCOMES AND MEASURESTheprimaryoutcomewasbodyweight.Secondaryoutcomes
+wereothermeasuresofadiposity,glycemiccontrol,bloodlipids,bloodpressure,measuresof
+nonalcoholicfattyliverdisease,anduricacid.
+RESULTS Atotalof17RCTswith24trialcomparisonswereincluded,involving1733adults(mean
+[SD]age,33.1[6.6]years;1341women[77.4%])withoverweightorobesitywhowereatriskforor
+haddiabetes.Overall,LNCSBswereasubstituteforSSBsin12RCTs(n = 601participants),waterwas
+asubstituteforSSBsin3RCTs(n = 429),andLNCSBswereasubstituteforwaterin9RCTs(n = 974).
+SubstitutionofLNCSBsforSSBswasassociatedwithreducedbodyweight(MD,−1.06kg;95%CI,
+−1.71to–0.41kg),bodymassindex(MD,−0.32;95%CI,−0.58to–0.07),percentageofbodyfat(MD,
+−0.60%;95%CI,−1.03%to–0.18%),andintrahepatocellularlipid(SMD,−0.42;95%CI,−0.70to
+–0.14).SubstitutingwaterforSSBswasnotassociatedwithanyoutcome.Therewasalsono
+associationfoundbetweensubstitutingLNCSBsforwaterwithanyoutcomeexceptglycated
+(continued)
+Key Points
+Question Arelow-andno-calorie
+sweetenedbeverages(LNCSBs)asthe
+intendedsubstituteforsugar-
+sweetenedbeverages(SSBs)associated
+withimprovedbodyweightand
+cardiometabolicriskfactorssimilarto
+waterreplacement?
+Findings Inthissystematicreviewand
+meta-analysisof17randomizedclinical
+trials,LNCSBsasasubstituteforSSBs
+wereassociatedwithreducedbody
+weight,bodymassindex,percentageof
+bodyfat,andintrahepatocellularlipid,
+providingbenefitsthatweresimilarto
+thoseofwater,thestandard-of-care
+substitution.
+Meaning Thefindingsofthisstudy
+suggestthatoverthemoderateterm,
+LNCSBsareaviablealternativetowater
+asareplacementstrategyinadultswith
+overweightorobesitywhoareatrisk
+fororhavediabetes.
++ Supplemental content
+Authoraffiliationsandarticleinformationare
+listedattheendofthisarticle.
+Open Access.ThisisanopenaccessarticledistributedunderthetermsoftheCC-BYLicense.
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 1/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+Abstract (continued)
+hemoglobinA1c (MD,0.21%;95%CI,0.02%to0.40%)andsystolicbloodpressure(MD,−2.63mm
+Hg;95%CI,−4.71to−0.55mmHg).Thecertaintyoftheevidencewasmoderate(substitutionof
+LNCSBsforSSBs)andlow(substitutionsofwaterforSSBsandLNCSBsforwater)forbodyweight
+andwasgenerallymoderateforallotheroutcomesacrossallsubstitutions.
+CONCLUSIONS AND RELEVANCEThissystematicreviewandmeta-analysisfoundthatusing
+LNCSBsasanintendedsubstituteforSSBswasassociatedwithsmallimprovementsinbodyweight
+andcardiometabolicriskfactorswithoutevidenceofharmandhadasimilardirectionofbenefitas
+watersubstitution.TheevidencesupportstheuseofLNCSBsasanalternativereplacementstrategy
+forSSBsoverthemoderateterminadultswithoverweightorobesitywhoareatriskfororhave
+diabetes.
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092
+Introduction
+Sugarconsumptionhasemergedasanimportantpublichealthconcern.Theevidenceonthis
+concernderiveslargelyfromconsumptionofsugar-sweetenedbeverages(SSBs),withexcessintake
+ofSSBsassociatedwithweightgainanddownstreamcardiometaboliccomplications.
+1-4 Sugar-
+sweetenedbeverageshavebeenidentifiedasanimportantpublichealthtarget. 5,6Itisunclear
+whetherlow-andno-caloriesweetenedbeverages(LNCSBs)asareplacementstrategyforSSBs
+providetheintendedbenefits.Recentsystematicreviewsandmeta-analyses
+7 haveshownan
+associationbetweenLNCSBsandahigherriskoftheconditionsthattheyareintendedtoprevent,
+suchasweightgain,diabetes,andcardiovasculardisease,inprospectivecohortstudies
+8 andhave
+reportedinconsistentfindingsforweightlossandimprovementsindownstreamcardiometabolic
+riskfactorsinrandomizedclinicaltrials(RCTs).
+7,8Biologicalmechanismsinvolvingimpairedsensory
+andendocrinesignalingthatwasmediatedbythesweettastereceptor 9,10andchangestothe
+microbiome10,11havebeenimplicatedinsupportoftheseobservations.
+Methodologicalconsiderations,h owever,have beenraisedthatlimittheinferencesthatcanbe
+drawnfromthesedata.Theavailableprospectivecohortstudiesareathighriskforreverse
+causality.
+12-14Furthermore,thesynthesesofRCTsdonotfullyaccountforthecaloriesavailabletobe
+displacedbyLNCSBs,withcaloric(eg,SSBs)andnoncaloric(eg,waterandplacebo)comparators
+thatarepooledtogetherorwithnoncaloriccomparatorsthatareusedasthesolecomparator,
+leadingtoanunderestimationoftheoutcomeofLNCSBs.
+12-14
+Theprevailinguncertaintieshaveledtomixedrecommendationsfromauthoritativebodies.
+NeithertheDietaryGuidelinesforAmericansnorCanada’sFoodGuidesupportstheuseofLNCSBs,
+andinsteadbothrecommendreplacingSSBswithwater.
+5,6TheAmericanHeartAssociationsupports
+anarrowindicationforLNCSBs,recommendingthatLNCSBsshouldbeusedasareplacementby
+onlyadultswhoarehabitualconsumersofSSBs,butemphasizingtheuseofwateroran
+unsweetenedalternative.
+15 Similarly,diabetesassociationsintheUK,US,andCanadasupport
+LNCSBsinsofarastheyareusedtodisplacecaloriesfromsugarsandSSBs. 16-18TheEuropean
+AssociationfortheStudyofDiabeteshasnotmadeanyspecificrecommendationsaboutlow-and
+no-caloriesweeteners(LNCSs)orLNCSBs.
+19 ToupdatetherecommendationsoftheEuropean
+AssociationfortheStudyofDiabetes,theDiabetesandNutritionStudyGroupcommissionedthe
+presentsystematicreviewandmeta-analysistosummarizetheevidencefromRCTsofthe
+associationofLNCSBs,themostimportantsourceofLNCSsinadietandasinglefoodmatrix,with
+intermediatecardiometabolicoutcomes.
+20Becauseoftheimportanceofthecomparatorindrawing
+inferencesaboutLNCSBs,weconductednetworkmeta-analysesratherthantraditionalpairwise
+meta-analysestoassesstheassociationofLNCSBswithbodyweightandcardiometabolicriskfactors
+inadultswithandwithoutdiabetes.Weused3prespecifiedsubstitutions:LNCSBsforSSBs
+JAMA Network Open |Nutrition, Obesity, and Exercise
+Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 2/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+(intendedsubstitutionwithcaloricdisplacement),waterforSSBs(standard-of-caresubstitutionwith
+caloricdisplacement),andLNCSBsforwater(referencesubstitutionwithoutcaloricdisplacement).
+Methods
+Thissystematicreviewandnetworkmeta-analysiswasconductedaccordingtothe Cochrane
+Handbook for Systematic Reviews of Interventions21andthePreferredReportingItemsforSystematic
+ReviewsandMeta-analyses( PRISMA)reportingguideline. 22 Theprotocolisregisteredat
+ClinicalTrials.gov(NCT02879500).
+Data Sources, Searches, and Study Selection
+WesearchedMedline,Embase,andtheCochraneCentralRegisterofControlledTrialsfrominception
+throughDecember26,2021.Briefly,forthissearch,weusedvariationsoftheexposureterms
+(LNCSBsandSSBs),outcometerms(adiposity,glycemia,bloodlipids,bloodpressure[BP],
+nonalcoholicfattyliverdisease[NAFLD],anduricacid),andstudydesignterms(randomized
+controlledtrial,randomized,andplacebo).ThefullsearchstrategyispresentedineTables1to3inthe
+Supplement.Manualsearchesofthereferencelistsofincludedstudiesandreviewswerealso
+performed.
+eTable4inthe SupplementshowsthePICOTS(Population,Intervention,Comparator,
+Outcome,Time,andStudy)framework.
+22 WeincludedRCTsofatleast2weeksthatinvestigatedthe
+associationofLNCSBs,SSBs,and/orwaterwithcardiometabolicriskfactors.Weexcludedtrialsthat
+hadmultimodalinterventions,didnotusecomparatorgroupscontainingatleast1oftheother
+beverageinterventions,includedchildrenandpregnantorbreastfeedingwomen,ordidnotprovide
+viableoutcomedata.TrialsofLNCSsinfortifiedornutrient-densebeverages(eg,milkandjuice)were
+alsoexcludedbecauseofthepresenceofothernutrients.
+Data Extraction, Risk of Bias Assessment, and Outcomes
+Twoindependentreviewers(N.D.M.andR.Z.)extractedrelevantdatafromeachincludedreport
+(eMethodsinthe Supplement).Additionalinformationwasrequestedfromstudyauthorswhen
+necessary.Raceandethnicitydatawerenotcollectedbecausetheavailabledatawerenotpresented
+bythesevariables.
+Thesameindependentreviewers(N.D.M.andR.Z.)assessedriskofbiasforeachincludedRCT
+usingtheCochranerisk-of-biastool.
+23 Fivedomainsofbiaswereassessed:sequencegeneration,
+allocationconcealment,blindingofparticipantsandpersonnel,incompleteoutcomedata,and
+selectivereporting.Disagreementsbetweenthereviewerswereresolvedbyconsensus.
+Theprimaryoutcomewasbodyweight.Secondaryoutcomeswereothermeasuresofadiposity
+(bodymassindex[BMI],whichwascalculatedasweightinkilogramsdividedbyheightinmeters
+squared;percentageofbodyfat;andwaistcircumference),glycemiccontrol(glycatedhemoglobin
+A
+1c [HbA1c],fastingplasmaglucose,2-hourpostprandialglucoseduringa75-goralglucosetolerance
+test,fastingplasmainsulin[FPI],andhomeostaticmodelassessmentofinsulinresistance),blood
+lipids(low-densitylipoproteincholesterol,non–high-densitylipoproteincholesterol,triglycerides,
+high-densitylipoproteincholesterol,andtotalcholesterol),BP(systolicBPanddiastolicBP),
+measuresofNAFLD(intrahepatocellularlipid[IHCL],alanineaminotransferase,andaspartate
+aminotransferase),anduricacid.Changedifferenceswerepreferredoverenddifferences.Missing
+variancedatawerecalculatedusingestablishedformulas.
+21
+Data Synthesis and Grading the Evidence
+Thisnetworkmeta-analysiswasbasedonafrequentistframeworkandwasconductedusingthe
+networksuiteofcommandsinStata,version15(StataCorpLLC).Weusedchangefrombaseline
+valuesfromeachstudytocalculatethemeandifferences(MDs)betweentreatmentsforeach
+substitution(LNCSBsforSSBs,waterforSSBs,andLNCSBsforwater);otherwise,weused
+JAMA Network Open |Nutrition, Obesity, and Exercise
+Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 3/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+postinterventionvalues(eMethodsandeData1-20inthe Supplement).Weperformedrandom-
+effectsnetworkmeta-analysesforeachoutcometocomparethe3interventions(LNCSBs,SSBs,and
+water)simultaneously.Inconsistencywasassessedinthedirect,indirect,andnetworkestimates.We
+assessedinterstudyheterogeneityinthedirect(pairwise)estimatesusingtheCochran Q statistic
+withquantificationbythe I
+2statistic,where I2/H1135050%and P < .10wereconsideredtobesubstantial
+interstudyheterogeneity.Wemeasuredincoherenceinthenetworkestimatesusingbothlocal(loop-
+specificandside-splitting)andglobal(design-by-treatmentinteractionmodel)approaches.
+24-26If
+10ormoretrialswereavailable,weconductedapriorisubgroupanalysesbyage,studyduration,
+typeofdesign,diseasestatus,riskofbias,andfundingsource.Indirectnesswasassessedinthe
+indirectcomparisonsbyevaluationofintransitivityacrossthepairwisecomparisonscomprisingthe
+indirectestimatesforthestudycharacteristicsofage,studylength,samplesize,andpercentageof
+maleparticipants.Publicationbiaswasassessedif10ormoretrialcomparisonswereavailable;we
+usedcomparison-adjustedfunnelplotstoassessfunnelplotasymmetry.
+24
+WeassessedthecertaintyoftheevidenceusingtheGradingofRecommendationsAssessment,
+DevelopmentandEvaluation(GRADE)system. 20,27-30NetworkestimatesofRCTsandthedirectand
+indirectestimatesthatcomposedthesenetworkestimatesstartedatahighcertaintyofevidence
+butweredowngradedbyestablishedcriteriaforriskofbias,inconsistency(incoherence),
+indirectness,imprecision,andpublicationbias(eMethodsinthe Supplement).
+Results
+Figure 1showstheflowoftheliteraturesearchandselection,andeFigures27to46inthe
+Supplementshowthenetworkdiagramforeachoutcome.Weidentified4541reports,ofwhich13
+Figure 1. Literature Search for Randomized Clinical Trials of Low- and No-Calorie Sweetened Beverages
+10 329 Reports identified through database searching
+6128 Remained after removal of duplicates
+303 Assessed for full review
+17 Included in study
+5825 Excluded by title and abstract
+680 Nonhuman studies
+161 Review papers, conference highlights,
+guidelines, or protocol papers
+1027 Observational studies
+25 Commentaries, editorials, or letters
+25 Meta-analyses
+3372 With inadequate intervention
+24 Systematic reviews
+426 Drug studies
+11 With inadequate comparator
+25 With dietary pattern
+43 With unsuitable end points
+6 Acute randomized clinical trials
+286 Excluded by full review
+8 Cross-sectional studies
+170 With inadequate intervention
+9  Observational studies
+15 Review papers, conference highlights,
+guidelines, or protocol papers
+20 With inadequate comparator
+1 Irretrievable 
+43 With unsuitable end points
+19 Acute randomized clinical trials
+25 With dietary pattern 
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 4/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+mettheeligibilitycriteria.Anadditional4reportswerefoundthroughmanualsearching.Atotalof17
+RCTswith24trialcomparisonswereincludedthatassessedtheassociationofthe3prespecified
+substitutionswithbodyweight,othermeasuresofadiposity,andcardiometabolicrisk.
+31-47These
+RCTsinvolved1733adultparticipants(mean[SD]age,33.1[6.6]years;1341women[77.4%]and392
+men[22.6%])withoverweightorobesitywhowereatriskfororhaddiabetes.
+TheTableandeTable5inthe Supplementprovidekeytrialcharacteristics.
+31-47Overall,theRCTs
+hadamediumsamplesize,withamedian(range)numberof 72(27-308)participants,andinvolved
+morewomenthanmen(23%mento77%women).Mostparticipantswereyounger(median[range]
+age,34[23-48]years)andhadoverweightorobesity(median[range]BMI,31[22-36]),with9
+trials
+31-36,38-42,44-46thatincludedonlyparticipantswithoverweightand/orobesityand1trial 40 that
+includedparticipantswithtype2diabetes.
+Only8trials(11comparisons) 31,32,35,37,38,43-45,47reportedthetypeofLNCSusedintheLNCSBs:
+7comparisonsforaspartameand1comparisoneachforaspartameandacesulfamepotassiumblend,
+saccharin,rebaudiosideA,andsucralose.Overall,LNCSBswereasubstituteforSSBsin12trials
+(n = 601participants),
+33-35,38,43-45,47waterwasasubstituteforSSBsin3trials(n = 429), 33,35,36,41
+andLNCSBswereasubstituteforwaterin9trials(n = 974). 31,33,35,37,39,40,42,46Themedian(range)
+dosageswere1000(250-2000)mLperdayforLNCSBs,1000(250-1750)mLperdayforSSBs,and
+580(250-2000)mLperdayforwater.
+Fifteentrials
+32-46hadaparalleldesign,and2trials 31,47hadacrossoverdesign.MostRCTswere
+conductedinEurope(n = 8)andNorthAmerica(n = 6).Themedian(range)durationoffollow-up
+was12(3-52)weeks.Eighttrials
+33,34,38-40,43,44,47werefundedbyagencies(government,not-for-
+profithealthagency,oruniversitysources),4trials 36,37,42,46werefundedbyindustry,and5
+trials31,32,35,41,45werefundedbyacombinationofagencyandindustry.Wecontactedtheauthors
+of7studies 31,32,34,35,38,44,45foradditionaldata,andtheauthorsof2studies 34,38provided
+additionaldata.
+eFigures1and2inthe SupplementprovidetheCochranerisk-of-biastoolassessments.
+Eighttrialcomparisons 32,34,35,37,41,43,44,47receivedanunclearrisk-of-biasrating,and11
+comparisons31,33,36,38-40,42,46wereratedashavingalowriskofbias.NoRCTswereidentifiedas
+havingahighriskofbias,withnoevidenceofserioussummaryriskofbiasacrossthetrials.
+Associations of the Prespecified Substitutions
+Figure 2showsthenetworkmeta-analysesoftheassociationoftheintendedsubstitutionofLNCSBs
+forSSBswithbodyweight,othermeasuresofadiposity,andcardiometabolicriskfactors.This
+substitutionwasassociatedwithreducedbodyweight(MD,−1.06kg;95%CI,−1.71to–0.41kg)and
+lowerBMI(MD,−0.32;95%CI,−0.58to–0.07),percentageofbodyfat(MD,−0.60%;95%CI,
+−1.03%to–0.18%),andIHCL(standardizedMD[SMD],−0.42;95%CI,−0.70to–0.14).Noother
+outcomeshadsignificantdifferences.
+Figure 3showsthenetworkmeta-analysesoftheassociationofthestandard-of-care
+substitutionofwaterforSSBswithbodyweight,othermeasuresofadiposity,andcardiometabolic
+riskfactors.Neithertheprimaryoutcomeofbodyweight(MD,−0.01kg;95%CI,−0.95to0.98kg)
+noranyofthesecondaryoutcomesshowedsignificantdifferences,althoughthedirectionof
+associationfavoredwaterformostoftheoutcomes.
+Figure 4showsthenetworkanalysesoftheassociationofthereferencesubstitutionofLNCSBs
+forwaterwithbodyweight,othermeasuresofadiposity,andcardiometabolicriskfactors.Greater
+reductioninbodyweight(MD,−1.07kg;95%CI,−1.95to−0.19kg)wasassociatedwithLCSBs
+comparedwithwater.Amongsecondaryoutcomes,watercomparedwithLNCSBswasassociated
+withlowerlevelofHbA
+1c (MD,0.21%;95%CI,0.02%to0.40%),andLNCSBscomparedwithwater
+wereassociatedwithagreaterdecreaseinsystolicBP(MD,−2.63mmHg;95%CI,−4.71to−0.55
+mmHg).Nosecondaryoutcomeswereaffected.
+JAMA Network Open |Nutrition, Obesity, and Exercise
+Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 5/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+Table. Trial Characteristics
+Source and country
+Total No. of
+participants Population
+Age,
+mean (SD), y
+No. of participants
+by sex (%) LNCS type
+Beverage dosage, mL/d
+Design
+Duration,
+wk
+Funding
+sourceLNCSB Water SSB
+Bonnet et al,31
+2018; France
+50 Overweight or
+healthy
+weight,
+otherwise
+healthy, non-
+or low-LNCS
+consumers
+31.1 (10.3) Male: 22 (44)
+Female: 28 (56)
+Aspartame
+or
+acesulfame
+potassium
+660 660 NA Crossover 12 Agency
+or
+industry
+Bruun et al,
+32
+2015; Denmarka
+35 Overweight or
+obese,
+otherwise
+healthy
+39 (1.1) Male: 14 (40)
+Female: 21 (60)
+Aspartame 1000 1000 1000 Parallel 26 Agency
+or
+industry
+Campos et al,
+34
+2015; Switzerland
+27 Overweight or
+obese,
+otherwise
+healthy,
+regular SSB
+consumers
+NR Male: 14 (52)
+Female: 13 (48)
+NR 1300 NA 1300 Parallel 12 Agency
+Ebbeling et al,
+33
+2020; US
+203 Overweight or
+obese,
+otherwise
+healthy,
+regular SSB
+consumers
+27 (5.6) Male: 121 (60)
+Female: 82 (40)
+NR 355 355 355 Parallel 52 Agency
+Engel et al,
+35
+2018; Denmarka
+45 Overweight or
+obese,
+otherwise
+healthy
+38.6 (7.6) Male: 16 (36)
+Female: 29 (64)
+Aspartame 1000 1000 1000 Parallel 26 Agency
+or
+industry
+Hernández-Cordero
+et al,
+36 2014;
+Mexico
+240 Overweight or
+obese,
+otherwise
+healthy,
+regular SSB
+consumers
+33.3 (6.7) Male: 0
+Female: 240 (100)
+NR NA ≥250 ≥250 Parallel 39 Industry
+Higgins et al,
+37
+2018; US
+93 Healthy
+weight,
+healthy, non-
+or low-LNCS
+consumers
+22.9 (1.0) Male: 43 (46)
+Female: 50 (54)
+Aspartame 500 500 NA Parallel 12 Industry
+Higgins and
+Mattes,
+38 2019; US
+154 Overweight or
+obese,
+otherwise
+healthy, non-
+or low-LNCS
+consumers
+27.3 (9.6) Male: 67 (44)
+Female: 87 (56)
+Saccharin,
+aspartame,
+rebaudioside
+A, or
+sucralose
+1250-1750 NA 1250-1750 Parallel 12 Agency
+Madjd et al,
+39
+2015; Iran
+62 Overweight or
+obese,
+otherwise
+healthy,
+regular LNCSB
+consumers
+32 (6.9) Male: 0
+Female: 62 (100)
+NR ≥250 ≥250 NA Parallel 24 Agency
+Madjd et al,
+40
+2017; Iran
+81 Obese, with
+type 2
+diabetes (only
+on metformin
+to control
+diabetes),
+regular LNCSB
+consumers
+34.8 (7.2) Male: 0
+Female: 81 (100)
+NR ≥250 ≥250 NA Parallel 24 Agency
+Maersk et al,
+41
+2012; Denmark
+35 Overweight or
+obese,
+otherwise
+healthy
+39 (26) Male: 14 (40)
+Female: 21 (60)
+Aspartame 1000 1000 1000 Parallel 26 Agency
+or
+industry
+Peters et al,
+42
+2016; US
+308 Overweight or
+obese,
+otherwise
+healthy,
+weight stable,
+regular LNCSB
+consumers
+47.8 (10.5) Male: 53 (17)
+Female: 255 (83)
+NR 710 710 NA Parallel 52 Industry
+Reid et al,
+43
+2007; England
+133 Healthy
+weight,
+weight
+watchers and
+nonweight
+watchers
+31.8 (9.1) Male: 0
+Female: 133 (100)
+Aspartame 1000 NA 1000 Parallel 4 Agency
+(continued)
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 6/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+Adverse Events and Inconsistency
+Adverseeventswerereportedin4trials, 33,36,43,44includingtiredness,moodswings,headaches,
+bodyaches,nausea,hospitalizations,andweightgain.Inallcases,theadverseeventswerenot
+observed,
+43,44deemedtobeunrelatedtotheintervention, 33 ornotsevereenoughtobeof
+consequence.36
+eTables6and7inthe Supplementshowtheloop-specificandthedesign-by-treatment
+assessmentofinconsistency(incoherence)inthenetworkestimates.Nosignificantincoherencewas
+observedbyanyapproachacrossthe3substitutions.
+eFigures7to26inthe Supplementprovidetheassessmentsofnetwork,directandindirect
+estimates,inconsistency(heterogeneity)inthedirectestimates,andinconsistency(incoherence)
+betweenthedirectandindirectestimatesusingside-splittingmethod.Therewasevidenceof
+substantialheterogeneity( I
+2/H1135050%;P < .10)inthedirectpairwiseestimatesoftheassociationof
+LNCSBsasasubstituteforwaterwiththeprimaryoutcomeofbodyweightandsecondaryoutcomes
+ofwaistcircumference,HbA
+1c,FPI,homeostaticmodelassessmentofinsulinresistance,and
+triglycerides.Incoherencewasnotsignificantforanycomparison,butonvisualinspectionslight
+instabilitybetweendirectandindirectmeasureswaspresentforBMI,percentageofbodyfat,HbA
+1c,
+fastingbloodglucose,FPI,homeostaticmodelassessmentofinsulinresistance,low-density
+lipoproteincholesterol,triglycerides,high-densitylipoproteincholesterol,totalcholesterol,systolic
+BP,diastolicBP,IHCL,alanineaminotransferase,aspartateaminotransferase,anduricacid.
+Subgroup Analyses, Intransitivity, and Publication Bias
+Becausenooutcomehad10ormoretrialsinall3comparisons,wedidnotconductsubgroup
+analyses.
+eFigures3to6inthe Supplementpresenttheevaluationofintransitivity(adomainof
+indirectness)amongtheindirectcomparisonsbycomparingthedistributionofthepotentialeffect
+modifiersacrosstheavailabledirectcomparisonsforage,studylength,samplesize,andpercentage
+ofmales.Theassumptionoftransitivitywasmetforallindirectcomparisonsastherewasnooverlap
+intherangebetweenthepairwisecomparisons.
+eFigures47to57inthe Supplementshowthecomparison-adjustedfunnelplotsforoutcomes
+with10ormoretrialcomparisons(bodyweight,BMI,percentageofbodyfat,FPI,fastingplasma
+glucose,low-densitylipoproteincholesterol,high-densitylipoproteincholesterol,triglycerides,total
+cholesterol,andsystolicBP).Funnelplotasymmetrywasnotobservedforanyoftheoutcomes.
+Table. Trial Characteristics (continued)
+Source and country
+Total No. of
+participants Population
+Age,
+mean (SD), y
+No. of participants
+by sex (%) LNCS type
+Beverage dosage, mL/d
+Design
+Duration,
+wk
+Funding
+sourceLNCSB Water SSB
+Reid et al,44
+2010; Scotland
+53 Overweight,
+otherwise
+healthy
+33.7 (9.9) Male: 0
+Female: 53 (100)
+Aspartame 1000 NA 1000 Parallel 4 Agency
+Reid et al,
+45
+2014; Scotland
+41 Obese,
+otherwise
+healthy
+35 (9.1) Male: 0
+Female: 41 (100)
+Aspartame 1000 NA 1000 Parallel 4 Agency
+or
+industry
+Tate et al,
+46
+2012; US
+213 Overweight or
+obese,
+otherwise
+healthy,
+regular SSB
+consumers
+42 (10.7) Male: 35 (52)
+Female: 178 (48)
+NR 1420-2000 1420-2000 NA Parallel 26 Industry
+Tordoff and
+Alleva,
+47 1990; US
+30 Healthy
+weight,
+healthy
+25.6 (5.3) Male: 21 (70)
+Female: 9 (30)
+Aspartame 1135 NA 1135 Crossover 3 Agency
+Abbreviations:LNCS,low-andno-caloriesweetener;LNCSB,low-andno-calorie
+sweetenedbeverage;NA,notapplicable;NR,notreported;SSB,sugar-sweetened
+beverage.
+a SecondaryanalysestoMaersketal. 41AsmoreoutcomeswerereportedintheEngel
+etal35analysis,datafromthattrialwereusedformostoutcomes,exceptforuricacid
+(Bruunetal 32)andintrahepatocellularlipid(Maersketal 41).
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 7/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+GRADE Assessment
+eFigures7to26inthe SupplementincludetheGRADEassessmentforthenetworkmeta-analysis.
+ThecertaintyoftheevidenceforbodyweightwasmoderateforLNCSBsasasubstituteforSSBs
+(smallreduction;downgradeforimprecision),moderateforwaterasasubstituteforSSBs(no
+difference;downgradesforinconsistencyandimprecision),andlowforLNCSBsasasubstitutefor
+water(smallreduction;downgradesforinconsistencyandimprecision).Thecertaintyofthe
+evidencefortheadiposityandcardiometabolicoutcomeswasgenerallymoderate,rangingfromvery
+lowtohighforeachofthe3substitutions(downgradesforinconsistency,imprecision,and/or
+indirectness)andwithnearlyalldirectionsoftheassociationfavoringtheuseofLNCSBsorwateras
+asubstituteforSSBs(smalltotrivialreductions)anddivergingfortheuseofLNCSBsasasubstitute
+forwater(smalltonodifferences).
+Discussion
+Inthepresentsystematicreviewandmeta-analysis,theuseofLNCSBsasasubstituteforSSBswas
+associatedwithreducedbodyweight,BMI,percentageofbodyfat,andIHCL,whereastheuseof
+Figure 2. Substitution of Low- and No-Calorie Sweetened Beverages (LNCSBs) for Sugar-Sweetened Beverages (SSBs)
+–2 1 20
+Pooled effect estimates, SMD (95% CI)
+–1
+GRADE certainty
+of the evidence
+Favors
+LNCSBs
+Favors
+SSBs
+No. of trial
+comparisons
+Direct
+estimate
+Network
+estimateOutcome
+Adiposity
+MD
+(95% CI)
+Pooled effect
+estimates,
+SMD (95% CI)
+Low91 4BMI –0.32 (–0.58 to –0.07) –0.67 (–1.19 to –0.14)
+Moderate71 4Body fat, % –0.60 (–1.03 to –0.18) –0.74 (–1.27 to –0.22)
+Low06WC, cm –0.52 (–4.98 to 3.94) –0.09 (–0.89 to 0.71)
+Glycemia
+Moderate49HbA1c, % 0.12 (–0.08 to 0.32) 0.39 (–0.26 to 1.05)
+Moderate71 9FPG, mmol/L –0.06 (–0.16 to 0.03) –0.32 (–0.77 to 0.13)
+Moderate492HPP, mmol/L 0.29 (–0.45 to 1.03) 0.26 (–0.40 to 0.91)
+Low71 6FPI, pmol/L –9.79 (–29.99 to 10.40) –0.24 (–0.73 to 0.25)
+Moderate27HOMA-IR –0.10 (–0.71 to 0.51) –0.12 (–0.86 to 0.62)
+Lipids, mmol/L
+Moderate61 6LDL-C –0.01 (–0.15 to 0.12) –0.08 (–0.57 to 0.41)
+Moderate61 4Non-HDL-C –0.08 (–0.25 to 0.09) –0.25 (–0.77 to 0.28)
+Moderate71 7Triglycerides –0.13 (–0.29 to 0.03) –0.40 (–0.87 to 0.08)
+Moderate71 7HDL-Ca –0.05 (–0.10 to 0.01) –0.41 (–0.88 to 0.07)
+Low61 4Total cholesterol –0.10 (–0.35 to 0.15) –0.21 (–0.73 to 0.31)
+Blood pressure, mm Hg
+Moderate31 0Systolic BP –2.44 (–5.20 to 0.33) –0.55 (–1.17 to 0.07)
+Low39Diastolic BP –1.84 (–4.07 to 0.39) –0.54 (–0.19 to 0.12)
+Liver
+Moderate24IHCL, SMD –0.42 (–0.70 to –0.14) –0.42 (–0.70 to –0.14)
+Low26ALT, U/L –6.67 (–16.20 to 2.86) –0.56 (–1.36 to 0.24)
+Low13AST, U/L –1.50 (–7.87 to 4.87) –0.27 (–1.40 to 0.87)
+Uric acid
+Moderate37
+Total No.
+of participants
+Direct
+estimate
+Network
+estimate
+467 1444
+437 836
+210 559
+0 868
+154 630
+210 1183
+154 440
+210 512
+56 265
+183 894
+210 923
+210 923
+210 923
+210 923
+56 706
+56 483
+49 62
+27 143
+27 120
+49 62Uric acid, mmol/L –0.02 (–0.05 to 0.02) –1.16 (–1.06 to 0.42)
+Moderate12 24Body weight, kg –1.06 (–1.71 to –0.41) –0.65 (–1.05 to –0.25)
+Datawerepooledusingnetworkrandom-effectsmodelsandexpressedasmean
+differences(MDs)and95%CIs.Todisplaytheresultsforoutcomesonthesameplot,
+standardizedmeandifferences(SMDs,representedbybluesquares)andpseudo95%
+CIs(representedbyblackhorizontallinesandproportionallyscaledtothe95%CIsofthe
+MDs)werecalculated.2HPPindicates2-hourpostprandialglucose;ALT,alanine
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);AST,aspartate
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);BMI,bodymassindex;FPG;
+fastingplasmaglucose;FPI,fastingplasmainsulin;GRADE,Gradingof
+RecommendationsAssessment,DevelopmentandEvaluation;HbA
+1c;glycated
+hemoglobinA1c;HDL-C,high-densitylipoproteincholesterol;HOMA-IR,homeostatic
+modelassessmentofinsulinresistance;IHCL,intrahepatocellularlipid;LDL-C,
+low-densitylipoproteincholesterol;andWC,waistcircumference.
+a HDL-Cresulthasbeenreversedfordisplaypurposes;thatis,anegativeMDwould
+meanapositiveimprovement.
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 8/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+waterasasubstituteforSSBswasassociatedwithnosignificantimprovements,althoughthe
+directionofassociationfavoredwaterinallcases.Furthermore,neitherLNCSBsnorwaterasa
+substituteforSSBswasassociatedwithsignificantimprovementsinglycemiccontrol,BP,uricacid,
+orotheraspectsofthelipidprofileorNAFLDmarkers,butthedirectionsoftheassociationfavored
+LNCSBsorwaterinnearlyallcases.TheuseofLNCSBsasasubstituteforwaterdidnotshow
+significantdifferences,exceptforagreaterdecreaseinHbA
+1c seenwithwaterandinbodyweight
+andsystolicBPseenwithLNCSBs.
+Findings in the Context of Existing Studies
+Thefindingsinthisstudyareinagreementwiththosereportedinothersystematicreviewsand
+meta-analyses,
+48-51whichhaveallowedfortheinterpretationofresultsbycomparator.Specifically,
+thefindingsthat(1)reducedbodyweight,BMI,andbodyfatwereassociatedwiththeuseLNCSBsas
+asubstituteforSSBswithcaloricdisplacementand(2)neutraloutcomeswereassociatedwiththe
+useofLNCSBsasasubstituteforwaterwithoutcaloricdisplacementareconsistentwiththeresults
+ofothersystematicreviewsandmeta-analysesofRCTs.
+48-51
+Figure 3. Substitution of Water for Sugar-Sweetened Beverages (SSBs)
+–2 1 20
+Pooled effect estimates, SMD (95% CI)
+–1
+GRADE certainty
+of the evidence
+Favors
+water
+Favors
+SSBs
+No. of trial
+comparisons
+Direct
+estimate
+Network
+estimateOutcome
+Adiposity
+MD
+(95% CI)
+Pooled effect
+estimates,
+SMD (95% CI)
+Moderate21 4BMI –0.35 (–0.83 to 0.13) –0.38 (–0.90 to 0.14)
+High31 4Body fat, % –0.27 (–1.55 to 1.02) –0.11 (–0.63 to 0.42)
+Low16WC, cm 0.30 (–3.68 to 4.28) 0.06 (–0.74 to 0.86)
+Glycemia
+Low19HbA1c, % –0.09 (–0.33 to 0.16) –0.24 (–0.88 to 0.43)
+High31 9FPG, mmol/L –0.05 (–0.14 to 0.05) –0.22 (–0.67 to 0.23)
+Low092HPP, mmol/L 0.10 (–0.67 to 0.87) 0.08 (–0.57 to 0.74)
+Low21 6FPI, pmol/L –17.40 (–39.50 to 4.70) –0.39 –(0.88 to 0.10)
+Low17HOMA-IR –0.14 (–0.81 to 0.53) –0.15 (–0.90 to 0.59)
+Lipids, mmol/L
+Low31 6LDL-C –0.01 (–0.14 to 0.12) –0.10 (–0.59 to 0.39)
+Moderate21 4Non-HDL-C –0.06 (–0.22 to 0.10) –0.20 (–0.72 to 0.33)
+Moderate31 7Triglycerides –0.09 (–0.25 to 0.06) –0.29 (–0.76 to 0.19)
+High31 7HDL-Ca –0.04 (–0.09 to 0.02) –0.31 (–0.78 to 0.17)
+Moderate21 4Total cholesterol –0.08 (–0.35 to 0.18) –0.16 (–0.69 to 0.36)
+Blood pressure, mm Hg
+Low31 0Systolic BP 0.19 (–2.34 to 2.72) 0.05 (–0.57 to 0.67)
+Moderate39Diastolic BP –1.58 (–3.61 to 0.46) –0.51 (–1.16 to 0.15)
+Liver
+Low14IHCL, SMD –0.36 (–0.74 to 0.01) –0.36 (–0.74 to 0.01)
+Low16ALT, U/L –7.18 (–17.01 to 2.64) –0.58 (–1.39 to 0.22)
+Low03AST, U/L –1.70 (–9.35 to 5.95) –0.25 (–1.38 to 0.88)
+Uric acid
+Very low27
+Total No.
+of participants
+Direct
+estimate
+Network
+estimate
+270 1444
+270 836
+270 559
+240 868
+240 630
+270 1183
+0 440
+30 512
+30 265
+270 894
+270 923
+270 923
+270 923
+270 923
+270 706
+270 483
+23 62
+23 143
+0 120
+23 62Uric acid, mmol/L –0.01 (–0.05 to 0.03) –0.26 (–1.01 to 0.47)
+Low32 4Body weight, kg 0.01 (–0.95 to 0.98) 0.00 (–0.40 to 0.41)
+Datawerepooledusingnetworkrandom-effectsmodelsandexpressedasmean
+differences(MDs)and95%CIs.Todisplaytheresultsforoutcomesonthesameplot,
+standardizedmeandifferences(SMDs,representedbybluesquares)andpseudo95%
+CIs(representedbyblackhorizontallinesandproportionallyscaledtothe95%CIsofthe
+MDs)werecalculated.2HPPindicates2-hourpostprandialglucose;ALT,alanine
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);AST,aspartate
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);BMI,bodymassindex;FPG;
+fastingplasmaglucose;FPI,fastingplasmainsulin;GRADE,Gradingof
+RecommendationsAssessment,DevelopmentandEvaluation;HbA
+1c;glycated
+hemoglobinA1c;HDL-C,high-densitylipoproteincholesterol;HOMA-IR,homeostatic
+modelassessmentofinsulinresistance;IHCL,intrahepatocellularlipid;LDL-C,
+low-densitylipoproteincholesterol;andWC,waistcircumference.
+a HDL-Cresulthasbeenreversedfordisplaypurposes;thatis,anegativeMDwould
+meanapositiveimprovement.
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 9/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+Decreasesinbodyweight, 48,49bodyweightandBMI, 50 andacompositeofbodyweightor
+BMI51wereobservedwiththesubstitutionofLNCSsforacaloriccomparator(sugarsinfoodsor
+beverages)predominantlyinparticipantswithoverweightorobesity.MillerandPerez 50 further
+showedreductionsinfatmassandwaistcircumference.Similarly,Toewsetal 7 foundsmall
+reductionsinBMIwithsucroseinfoodsorbeveragesasthecaloriccomparatorinpredominantly
+healthyparticipants.Ontheotherhand,undifferentiatedanalysesbyToewsetal
+7 oftheoutcomeof
+substitutingLNCSsforacombinationofcaloricandnoncaloriccomparatorsandanotheranalysisby
+Azadetal
+8 thatrestrictedtheoutcomeofsubstitutingLNCSBsformatchednoncaloriccomparators
+(placebo,water,orweightlossdiet)foundnodifferencesinbodyweightwithLNCSspredominantly
+inparticipantswithoverweightorobesity.Overall,thesefindingsareconsistentwiththemechanism
+ofLNCSBsbeingassociatedwithweightlossinsofarastheywereafactorinreducingnet
+energyintake.
+Theobservedimprovementsindownstream,intermediatecardiometabolicoutcomesarealso
+inagreementwithfindingsofprevioussystematicreviewsandmeta-analyses.Inadditiontotheir
+associationwithweightgain,
+52 fructose-containingsugarsthatprovideexcesscalories,especiallyin
+beverageform,havebeenassociatedwithincreasedtriglycerides, 53,54 glucose,55 insulin,55 uric
+Figure 4. Substitution of Low- and No-Calorie Sweetened Beverages (LNCSBs) for Water
+–2 1 20
+Pooled effect estimates, SMD (95% CI)
+–1
+GRADE certainty
+of the evidence
+Favors
+LNCSBs
+Favors
+water
+No. of trial
+comparisons
+Direct
+estimate
+Network
+estimateOutcome
+Adiposity
+MD
+(95% CI)
+Pooled effect
+estimates,
+SMD (95% CI)
+Low31 4BMI 0.02 (–0.46 to 0.51) 0.03 (–0.50 to 0.55)
+Moderate41 4Body fat, % –0.34 (–1.67 to 1.00) –0.13 (–0.66 to 0.39)
+Low56WC, cm –0.82 (–2.83 to 1.19) –0.33 (–1.13 to 0.47)
+Glycemia
+Low49HbA1c, % 0.21 (0.02 to 0.40) 0.72 (0.07 to 1.38)
+High91 9FPG, mmol/L –0.02 (–0.08 to 0.04) –0.14 (–0.59 to 0.31)
+Moderate592HPP, mmol/L 0.19 (0.00 to 0.39) 0.64 (0.00 to 1.31)
+Low71 6FPI, pmol/L 7.60 (–2.95 to 18.15) 0.35 (–0.14 to 0.84)
+Low47HOMA-IR 0.03 (–0.34 to 0.40) 0.07 (–0.67 to 0.81)
+Lipids, mmol/L
+High71 6LDL-C 0.00 (–0.09 to 0.08) 0.04 (–0.45 to 0.53)
+Moderate61 4Non-HDL-C –0.02 (–0.14 to 0.09) –0.09 (–0.64 to 0.41)
+Very low71 7Triglycerides –0.04 (–0.13 to 0.06) –0.19 (–0.66 to 0.29)
+Low71 7HDL-Ca –0.01 (–0.05 to 0.03) –0.14 (–0.62 to 0.33)
+Low61 4Total cholesterol –0.02 (–0.14 to 0.10) –0.09 (–0.61 to 0.44)
+Blood pressure, mm Hg
+Low41 0Systolic BP –2.63 (–4.71 to –0.55) –0.78 (–1.40 to –0.16)
+Low39Diastolic BP –0.26 (–2.12 to 1.60) –0.09 (–0.75 to 0.56)
+Liver
+Low14IHCL, SMD –0.06 (–0.42 to 0.31) –0.06 (–0.42 to 0.31)
+Low36ALT, U/L 0.51 (–2.92 to 3.95) 0.12 (–0.68 to 0.92)
+Low23AST, U/L 0.20 (–4.04 to 4.44) 0.05 (–1.08 to 1.18)
+Uric acid
+Very low27
+Total No.
+of participants
+Direct
+estimate
+Network
+estimate
+752 1444
+174 836
+124 559
+628 868
+236 630
+748 1183
+286 440
+317 512
+224 265
+486 894
+488 923
+488 923
+488 923
+488 923
+425 706
+202 483
+25 62
+93 143
+93 120
+25 62Uric acid, mmol/L 0.00 (–0.04 to 0.04) –0.02 (–0.76 to 0.72)
+Low92 4Body weight, kg –1.07 (–1.95 to –0.19) –0.48 (–0.88 to –0.08)
+Datawerepooledusingnetworkrandom-effectsmodelsandexpressedasmean
+differences(MDs)and95%CIs.Todisplaytheresultsforoutcomesonthesameplot,
+standardizedmeandifferences(SMDs,representedbybluesquares)andpseudo95%
+CIs(representedbyblackhorizontallinesandproportionallyscaledtothe95%CIsofthe
+MDs)werecalculated.2HPPindicates2-hourpostprandialglucose;ALT,alanine
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);AST,aspartate
+aminotransferase(toconverttoμkat/L,multiplyby0.0167);BMI,bodymassindex;FPG;
+fastingplasmaglucose;FPI,fastingplasmainsulin;GRADE,Gradingof
+RecommendationsAssessment,DevelopmentandEvaluation;HbA
+1c;glycated
+hemoglobinA1c;HDL-C,high-densitylipoproteincholesterol;HOMA-IR,homeostatic
+modelassessmentofinsulinresistance;IHCL,intrahepatocellularlipid;LDL-C,
+low-densitylipoproteincholesterol;andWC,waistcircumference.
+a HDL-Cresulthasbeenreversedfordisplaypurposes;thatis,anegativeMDwould
+meanapositiveimprovement.
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 10/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+acid,56 andNAFLDmarkers. 57Toewsetal 7 showedthattheuseofLNCSsasasubstituteforcaloric
+sugars(sucrose)wereafactorinreducedBP,andthereductionsseeninIHCLwouldbeexpected
+throughdisplacementofcaloriesfromSSBs.
+ThefindingsofthisstudycaninformguidanceontheroleofLNCSBsinsugar-reduction
+strategies.TherehasbeenaparticularfocusonSSBsasthemostimportantsourceofaddedorfree
+sugarsinseveralcountries,
+58-60 giventhattheoverconsumptionofsugarhasbeenassociatedwith
+weightgain,diabetes,anddownstreamcomplicationsofhypertensionandcoronaryheartdisease. 1-4
+Althoughwaterisconsideredtobethestandard-of-caresubstitutionforSSBsbyauthoritative
+bodies,
+5,6,15-19withmanyhealthorganizationsrecommendingagainsttheuseofLNCSBs,theexisting
+evidenceconfirmstheintendedbenefitsofLNCSBsasasubstituteforSSBsoverthemoderateterm.
+ForhabitualconsumersofSSBswithoverweightorobesity,whoareatriskfororhavetype2
+diabetes,andwhoareunabletoswitchtowater,LNCSBsmayprovideaviablealternative.This
+findingisparticularlyimportantgiventhatmostpeopleintheNationalWeightControlRegistrywho
+aresuccessfulatweightlossmaintenanceconsumeLNCSBsandreportthatLNCSBshelpin
+controlingcaloricintakeandweightlossmaintenance.
+61
+Thereisaneedforhigh-qualityRCTsthatfocusonquantifyingtheoutcomeofLNCSBsusing
+differentLNCSblendsassubstitutesforSSBscomparedwiththeoutcomeofwater(thestandard-of-
+caresubstitution).WeawaittheresultsoftheSTOPSugarsNOW(StrategiestoOpposeSugarsWith
+Non-nutritiveSweetenersorWater)trialandothersimilarRCTstohelpclarifytheroleofLNCSBs.
+Futureresearchusingarangeofdesignsiswarrantedtoconfirmwhethertheintendedbenefitsof
+usingLNCSBsasasubstituteforSSBsaredurableandextendtohardclinicaloutcomes.
+Strengths and Limitations
+Thissystematicreviewandmeta-analysishasseveralstrengths.First,theuseofnetworkmeta-
+analysisallowedforthesimultaneousassessmentofthe3prespecifiedsubstitutions(LNCSBsfor
+SSBs,waterforSSBs,andLNCSBsforwater),leveragingdirectandindirectcomparisonswitha
+commoncomparatortoincreasetheinformationsize.Undertakinganetworkmeta-analysisrather
+thanaregularpairwisemeta-analysisprovided2distinctadvantages:(1)morepreciseestimatesthan
+singledirectorindirectestimates,and(2)theabilitytocompareinterventionsthathadnotbeen
+comparedbefore.Second,acomprehensiveliteraturesearchthatincludedonlyRCTsprovidedthe
+greatestprotectionagainstbias,noevidenceofseriousriskofbiasamongtheincludedtrials,anduse
+oftheGRADEapproachtoassessthecertaintyoftheestimates.
+Thissystematicreviewandmeta-analysisalsohasseverallimitations.First,evidenceof
+inconsistencywaspresentintheprimaryoutcomeofbodyweightacrossthesubstitutionsofwater
+forSSBsandLNCSBsforwaterandinseveralsecondaryoutcomesacrossthe3prespecified
+substitutions,resultingindowngradesforseriousinconsistency.Thisinconsistencywasassociated
+witheitherunexplainedheterogeneityinthedirectestimatesorincoherencefromthedifference
+betweendirectandindirectestimates.Networkestimatescloselyfollowedthedirectestimate,with
+indirectestimatesimprovingprecisionwhencoherentandonlytriviallyaffectingnetworkestimates
+whenincoherent.Second,therewasevidenceofseriousindirectnessinseveraloftheanalyses.Only
+1RCTofdirectcomparisonswasavailableforseveralsecondaryoutcomes,limitinggeneralizability
+andleadingtodowngradesforseriousindirectness.Themoderatemedianfollow-updurationof12
+weekswasconsideredtobeanotherpotentialsourceofindirectnessacrosstheanalyses.Although
+thereissomeuncertaintyaboutwhetherthebenefitsandlackofharmassociatedwithLNCSBs
+extendedbeyondthe12-weekmedianfollow-up,anyharmmayhavemanifestedwithinthistime
+frame.TheanalysesalsoincludedRCTswithupto1yearoffollow-upthatshowednoevidenceof
+harmorevenbenefit.
+33,42OtherlargeRCTsinchildrenandadolescents(whichwerenotcapturedin
+thepresentanalyses)offerfurtherevidenceofdurablebenefit. 62,63Therefore,wedidnot
+downgradetheevidenceforthelackoflong-termfollow-upasasourceofindirectnessandinstead
+madeallconclusionsspecifictothemoderateterm.Third,therewasevidenceofseriousimprecision
+inseveralofthepooledestimates.The95%CIscrossedtheprespecifiedminimalimportant
+JAMA Network Open |Nutrition, Obesity, and Exercise
+Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 11/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+differencesfortheprimaryoutcomeofbodyweightandseveralsecondaryoutcomesacrossthe3
+prespecifiedsubstitutions.Balancingthestrengthsandlimitations,weassessedthecertaintyofthe
+evidenceasgenerallylowtomoderateformostoutcomes.
+Conclusions
+Inthissystematicreviewandmeta-analysis,usingLNCSBsasanintendedsubstituteforSSBs
+appearedtobeassociatedwithreductionsinbodyweightandcardiometabolicriskfactors,including
+BMI,percentageofbodyfat,andIHCL,withoutevidenceofharm.Thesesmallimprovementswere
+similarindirectiontothoseassociatedwithwatersubstitution,thestandardofcare.Theevidence
+providesagoodindicationofthebenefitsofLNCSBsasanalternativereplacementstrategyoverthe
+moderatetermforSSBsinadultswithoverweightorobesitywhoareatriskfororhavediabetes.
+ARTICLE INFORMATION
+Accepted for Publication:January20,2022.
+Published: March14,2022.doi: 10.1001/jamanetworkopen.2022.2092
+Open Access:Thisisanopenaccessarticledistributedunderthetermsofthe CC-BYLicense.©2022McGlynn
+NDetal. JAMA Network Open.
+Corresponding Author:JohnL.Sievenpiper,MD,PhD,StMichael'sHospital,#6138-61QueenStE,Toronto,ON
+M5C2T2,Canada( john.sievenpiper@utoronto.ca).
+Author Affiliations:DepartmentofNutritionalSciences,TemertyFacultyofMedicine,UniversityofToronto,
+Toronto,Ontario,Canada(McGlynn,Khan,Wang,Zhang,Chiavaroli,Au-Yeung,Lee,Noronha,Comelli,Blanco
+Mejia,Ahmed,Malik,Leiter,Kendall,Sievenpiper);Toronto3DKnowledgeSynthesisandClinicalTrialsUnit,Clinical
+NutritionandRiskFactorModificationCentre,StMichael'sHospital,Toronto,Ontario,Canada(McGlynn,Khan,
+Zhang,Chiavaroli,Au-Yeung,Lee,Noronha,BlancoMejia,Ahmed,Leiter,Agarwal,Kendall,Sievenpiper);Applied
+HumanNutrition,MountSaintVincentUniversity,Halifax,NovaScotia,Canada(Zhang);FacultyofMedicine,
+SchoolofMedicine,TheUniversityofQueensland,Brisbane,Australia(Noronha);DepartmentofNutrition,
+HarvardT.H.ChanSchoolofPublicHealth,Boston,Massachusetts(Malik);DepartmentofNutritionSciences,The
+UniversityofAlabamaatBirmingham,Birmingham(Hill);DivisionofEndocrinologyandMetabolism,Department
+ofMedicine,StMichael’sHospital,Toronto,Ontario,Canada(Leiter,Sievenpiper);LiKaShingKnowledgeInstitute,
+StMichael’sHospital,Toronto,Ontario,Canada(Leiter,Sievenpiper);DepartmentofMedicine,TemertyFacultyof
+Medicine,UniversityofToronto,Toronto,Ontario,Canada(Leiter,Sievenpiper);DivisionofGeneralInternal
+Medicine,DepartmentofMedicine,McMasterUniversity,Hamilton,Ontario,Canada(Agarwal);Departmentof
+ClinicalMedicine,AarhusUniversity,AarhusUniversityHospital,Aarhus,Denmark(Jeppesen);VukVrhovac
+UniversityClinicforDiabetes,EndocrinologyandMetabolicDiseases,MerkurUniversityHospital,Zagreb,Croatia
+(Rahelić);UniversityofZagrebSchoolofMedicine,Zagreb,Croatia(Rahelić);UniversityofOsijekSchoolof
+Medicine,Osijek,Croatia(Rahelić);InstituteforClinicalandExperimentalMedicine,DiabetesCentre,Prague,
+CzechRepublic(Kahleová);PhysiciansCommitteeforResponsibleMedicine,Washington,DC(Kahleová);
+UniversitatRoviraiVirgili,HumanNutritionDepartment,Institutd'InvestigacióSanitàriaPereVirgili,Reus,Spain
+(Salas-Salvadó);CentrodeInvestigaciónBiomédicaenReddeFisiopatologíadelaObesidadyNutrición
+(CIBERObn),InstitutodeSaludCarlosIII,Madrid,Spain(Salas-Salvadó);CollegeofPharmacyandNutrition,
+UniversityofSaskatchewan,Saskatoon,Saskatchewan,Canada(Kendall).
+Author Contributions:MsMcGlynnandDrSievenpiperhadfullaccesstoallofthedatainthestudyandtake
+responsibilityfortheintegrityofthedataandtheaccuracyofthedataanalysis.
+Concept and design:McGlynn,Khan,Jeppesen,Sievenpiper.
+Acquisition, analysis, or interpretation of data:McGlynn,Khan,Wang,Zhang,Chiavaroli,Au-Yeung,Lee,Noronha,
+Comelli,BlancoMejia,Ahmed,Malik,Hill,Leiter,Agarwal,Rahelić,Kahleova,Salas-Salvadó,Kendall,Sievenpiper.
+Drafting of the manuscript:McGlynn,Khan,Wang,Zhang,Sievenpiper.
+Critical revision of the manuscript for important intellectual content:McGlynn,Khan,Chiavaroli,Au-Yeung,Lee,
+Noronha,Comelli,BlancoMejia,Ahmed,Malik,Hill,Leiter,Agarwal,Jeppesen,Rahelić,Kahleova,Salas-Salvadó,
+Kendall,Sievenpiper.
+Statistical analysis:McGlynn,Khan,Zhang,Chiavaroli,Au-Yeung,Comelli.
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 12/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+Obtained funding:McGlynn,Sievenpiper.
+Administrative, technical, or material support:McGlynn,Khan,Lee,BlancoMejia,Hill,Agarwal,Rahelić.
+Supervision: Khan,Jeppesen,Kendall,Sievenpiper.
+Conflict of Interest Disclosures:MsMcGlynnreportedreceivingaCanadianInstitutesofHealthResearch(CIHR)-
+MastersAwardduringtheconductofthestudyandbeingaformeremployeeofLoblawsCompaniesLimited
+outsidethesubmittedwork.DrKhanreportedreceivinggrantsfromCIHR,InternationalLifeScienceInstitute,and
+NationalHoneyBoardoutsidethesubmittedwork.DrChiavarolireportedbeingaMitacsElevatepostdoctoral
+fellowandreceivingjointfundingfromtheGovernmentofCanadaandtheCanadianSugarInstitute.MrAu-Yeung
+reportedreceivingpersonalfeesfromInquisClinicalResearchoutsidethesubmittedwork.MsLeereported
+receivinggraduatescholarshipfromCIHRandtheBanting&BestDiabetesCentreattheUniversityofToronto
+outsidethesubmittedwork.DrComellireportedbeingtheLawsonFamilyChairinMicrobiomeNutritionResearch
+attheJoannahandBrianLawsonCentreforChildNutrition,UniversityofToronto,duringtheconductofthestudy
+andreceivingnonfinancialsupportfromLallemandHealthSolutions,donationtoresearchprogramfrom
+LallemandHealthSolutions,personalfeesfromDanone,sponsoredresearchandcollaborationagreementfrom
+OceanSpray,andnonfinancialsupportfromOceanSprayoutsidethesubmittedwork.MsAhmedreported
+receivingscholarshipfromtheTorontoDiet,Digestivetract,andDiseaseCentre(3D)outsidethesubmittedwork.
+DrMalikreportedreceivingpersonalfeesfromtheCityandCountyofSanFrancisco,KaplanFox&KilsheimerLLP,
+andWorldHealthOrganizationoutsidethesubmittedworkandsupportfromtheCanadaResearchChairs
+Program.DrHillreportedreceivingpersonalfeesfromGeneralMillsandMcCormickScienceInstitute.DrRahelić
+reportedreceivingpersonalfeesfromtheInternationalSweetenersAssociation,Abbott,AstraZeneca,Boehringer
+Ingelheim,EliLilly,NovoNordisk,Merck,MSD,Salvus,andSanofioutsidethesubmittedwork.DrSalas-Salvadó
+reportedreceivingpersonalfeesfromInstitutoDanoneSpain,nonfinancialsupportfromDanoneInstitute
+International,personalfeesasdirectoroftheWorldForumforNutritionResearchandDisseminationfromthe
+InternationalNutandDriedFruitCouncilFoundation,financialsupporttotheinstitutionfromFundaciónEroski,
+andfinancialsupporttotheinstitutionfromDanoneoutsidethesubmittedwork.DrKendallreportedreceiving
+grantsand/orin-kindsupportfromAdvancedFoodMaterialsNetwork,AgricultureandAgri-FoodCanada,CIHR,
+AlmondBoardofCalifornia,Barilla,CanolaCouncilofCanada,InternationalNutandDriedFruitCouncil,Peanut
+Institute,PulseCanada,TateandLyleNutritionalResearchFundattheUniversityofToronto,andUnilever;
+receivingnonfinancialsupportfromGeneralMills,Kellogg,LoblawBrandsLimited,OldwaysPreservationTrust,
+QuakerOats(Pepsi-Co),Sun-Maid,WhiteWaveFoods/Danone,InternationalPastaOrganization,CaliforniaWalnut
+Commission,Primo,Unico,InternationalCarbohydrateQualityConsortium(ICQC),andTorontoDiet,Digestive
+tract,andDiseaseCentre(3D)outsidethesubmittedwork;receivingpersonalfeesfromMcCormickScience
+InstituteandLantmannen;andbeingamemberoftheDiabetesandNutritionStudyGroup(DNSG)Executive
+BoardandDietaryGuidelines,amemberoftheexpertcommitteeoftheDNSGClinicalPracticeGuidelinesfor
+NutritionTherapy,amemberofthescientificadvisoryboardoftheMcCormickScienceInstitute,ascientific
+advisorfortheInternationalPastaOrganizationandOldwaysPreservationTrust,amemberoftheICQC,an
+executiveboardmemberoftheDNSG,andbeingthedirectoroftheTorontoDiet,Digestivetract,andDisease
+Centre(3D)KnowledgeSynthesisandClinicalTrialsFoundation.DrSievenpiperreportedreceivingnonfinancial
+supportfromDNSGoftheEuropeanAssociationfortheStudyofDiabetes(EASD),grantsfromCIHRthroughthe
+Canada-wideHumanNutritionTrialists'Network(NTN),PSIGrahamFarquharsonKnowledgeTranslation
+Fellowship,DiabetesCanadaClinicianScientistAward,CIHRInstituteofNutrition,MetabolismandDiabetesand
+theCanadianNutritionSociety(INMD/CNS)NewInvestigatorPartnershipPrize,andBanting&BestDiabetes
+CentreSunLifeFinancialNewInvestigatorAwardduringtheconductofthestudy;receivinggrantsfromAmerican
+SocietyforNutrition,InternationalNutandDriedFruitCouncilFoundation,NationalHoneyBoard(theUS
+DepartmentofAgriculture[USDA]honeycheckoffprogram),InstitutefortheAdvancementofFoodandNutrition
+Sciences(IAFNS;formerlyILSINorthAmerica),PulseCanada,QuakerOatsCenterofExcellence,UnitedSoybean
+Board(theUSDAsoycheckoffprogram),TateandLyleNutritionalResearchFundattheUniversityofToronto,
+GlycemicControlandCardiovascularDiseaseinType2DiabetesFundattheUniversityofToronto(afund
+establishedbytheAlbertaPulseGrowers),andNutritionTrialistsFundattheUniversityofToronto(afund
+establishedbyaninauguraldonationfromtheCalorieControlCouncil);receivingpersonalfeesfromDairyFarmers
+ofCanada,FoodMindsLLC,InternationalSweetenersAssociation,Nestlé,Abbott,GeneralMills,AmericanSociety
+forNutrition,INCNutritionResearchandEducationFoundation,EuropeanFoodSafetyAuthority,Nutrition
+Communications,InternationalFoodInformationCouncil,CalorieControlCouncil,ComitéEuropéendes
+FabricantsdeSucre,InternationalGlutamateTechnicalCommittee,PerkinsCoieLLP,TateandLyleNutritional
+ResearchFundattheUniversityofToronto,Danone,InquisClinicalResearch,SoyNutritionInstitute,andEuropean
+FruitJuiceAssociationoutsidethesubmittedwork;servingontheclinicalpracticeguidelinesexpertcommittees
+ofDiabetesCanada,EASD,CanadianCardiovascularSociety,andObesityCanada/CanadianAssociationofBariatric
+PhysiciansandSurgeons;beinganunpaidscientificadvisorfortheFood,Nutrition,andSafetyProgramandthe
+TechnicalCommitteeonCarbohydratesofIAFNS;beingamemberoftheICQC,executiveboardmemberofthe
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 13/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+DNSGoftheEASD,anddirectoroftheTorontoDiet,Digestivetract,andDiseaseCentre(3D)KnowledgeSynthesis
+andClinicalTrialsFoundation;hisspouseisanemployeeofABInBev.Nootherdisclosureswerereported.
+Funding/Support: ThisstudywascommissionedbytheDNSGoftheEASD,whichprovidedfundingandlogistical
+supportformeetingsaspartofthedevelopmentoftheEASDClinicalPracticeGuidelinesforNutritionTherapy.
+Thisstudywasalsosupportedbygrant129920fromCIHRthroughtheCanada-wideNTN.TheTorontoDiet,
+Digestivetract,andDiseaseCentre(3D),fundedthroughtheCanadaFoundationforInnovationandtheMinistry
+ofResearchandInnovation’sOntarioResearchFund,providedtheinfrastructurefortheconductofthisproject.
+MsMcGlynnwassupportedbyaCIHR-MastersAwardandaResearchTrainingCentrescholarshipfromStMichel’s
+Hospital.DrComelliwasfundedfromholdingtheLawsonFamilyChairinMicrobiomeNutritionResearchatthe
+UniversityofToronto.DrSalas-SalvadówasfundedbytheICREA(CatalanInstitutionforResearchandAdvanced
+Studies)Academiaprogram.DrSievenpiperwasfundedbyaPSIGrahamFarquharsonKnowledgeTranslation
+Fellowship,DiabetesCanadaClinicianScientistAward,CIHRINMD/CNSNewInvestigatorPartnershipPrize,anda
+Banting&BestDiabetesCentreSunLifeFinancialNewInvestigatorAward.
+Role of the Funder/Sponsor:TheClinicalPracticeGuidelinesCommitteeoftheDNSGoftheEASDhadinputonall
+aspectsofthiswork.Otherfundershadnoroleinthedesignandconductofthestudy;collection,management,
+analysis,andinterpretationofthedata;preparation,review,orapprovalofthemanuscript;anddecisiontosubmit
+themanuscriptforpublication.
+REFERENCES
+1. ImamuraF,O’ConnorL,YeZ,etal.Consumptionofsugarsweetenedbeverages,artificiallysweetened
+beverages,andfruitjuiceandincidenceoftype2diabetes:systematicreview,meta-analysis,andestimationof
+populationattributablefraction. BMJ.2015;351:h3576.doi: 10.1136/bmj.h3576
+2. JayalathVH,deSouzaRJ,HaV,etal.Sugar-sweetenedbeverageconsumptionandincidenthypertension:
+asystematicreviewandmeta-analysisofprospectivecohorts. Am J Clin Nutr.2015;102(4):914-921.doi: 10.3945/
+ajcn.115.107243
+3. MalikVS,PanA,WillettWC,HuFB.Sugar-sweetenedbeveragesandweightgaininchildrenandadults:
+asystematicreviewandmeta-analysis. Am J Clin Nutr.2013;98(4):1084-1102.doi: 10.3945/ajcn.113.058362
+4. XiB,HuangY,ReillyKH,etal.Sugar-sweetenedbeveragesandriskofhypertensionandCVD:adose-response
+meta-analysis.Br J Nutr.2015;113(5):709-717.doi: 10.1017/S0007114514004383
+5. USDepartmentsofAgricultureandHealthandHumanServices. Scientific Report of the 2015 Dietary Guidelines
+Advisory Committee.USDepartmentsofAgricultureandHealthandHumanServices;2015.
+6. HealthCanada.Canada'sdietaryguidelinesforhealthprofessionalsandpolicymakers.AccessedJuly31,2021.
+https://publications.gc.ca/site/eng/9.852216/publication.html
+7. ToewsI,LohnerS,KüllenbergdeGaudryD,SommerH,MeerpohlJJ.Associationbetweenintakeofnon-sugar
+sweetenersandhealthoutcomes:systematicreviewandmeta-analysesofrandomisedandnon-randomised
+controlledtrialsandobservationalstudies. BMJ.2019;364:k4718.doi: 10.1136/bmj.k4718
+8. AzadMB,Abou-SettaAM,ChauhanBF,etal.Nonnutritivesweetenersandcardiometabolichealth:asystematic
+reviewandmeta-analysisofrandomizedcontrolledtrialsandprospectivecohortstudies. CMAJ.2017;189(28):
+E929-E939.doi:10.1503/cmaj.161390
+9. SylvetskyAC,RotherKI.Nonnutritivesweetenersinweightmanagementandchronicdisease:areview. Obesity
+(Silver Spring).2018;26(4):635-640.doi: 10.1002/oby.22139
+10. HunterSR,ReisterEJ,CheonE,MattesRD.Lowcaloriesweetenersdifferintheirphysiologicaleffectsin
+humans.Nutrients.2019;11(11):2717.doi: 10.3390/nu11112717
+11. SuezJ,KoremT,ZeeviD,etal.Artificialsweetenersinduceglucoseintolerancebyalteringthegutmicrobiota.
+Nature.2014;514(7521):181-186.doi: 10.1038/nature13793
+12. MalikVS.Non-sugarsweetenersandhealth. BMJ.2019;364:k5005.doi: 10.1136/bmj.k5005
+13. SievenpiperJL,KhanTA,HaV,ViguilioukE,AuyeungR.Theimportanceofstudydesignintheassessmentof
+nonnutritivesweetenersandcardiometabolichealth. CMAJ.2017;189(46):E1424-E1425.doi: 10.1503/cmaj.733381
+14. MelaDJ,McLaughlinJ,RogersPJ.Perspective:standardsforresearchandreportingonlow-energy(“artificial”)
+sweeteners.Adv Nutr.2020;11(3):484-491.doi: 10.1093/advances/nmz137
+15. JohnsonRK,LichtensteinAH,AndersonCAM,etal;AmericanHeartAssociationNutritionCommitteeofthe
+CouncilonLifestyleandCardiometabolicHealth;CouncilonCardiovascularandStrokeNursing;CouncilonClinical
+Cardiology;CouncilonQualityofCareandOutcomesResearch;andStrokeCouncil.Low-caloriesweetened
+beveragesandcardiometabolichealth:ascienceadvisoryfromtheAmericanHeartAssociation. Circulation.2018;
+138(9):e126-e140.doi:10.1161/CIR.0000000000000569
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 14/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+16. DiabetesCanada.DiabetesCanada2018Clinicalpracticeguidelinesforthepreventionandmanagementof
+diabetesinCanada. Can J Diabetes.2018;42(supp1):S1-S326.
+17. DiabetesUK.Evidence-basednutritionguidelinesforthepreventionandmanagementofdiabetes.March
+2018.AccessedJuly31,2021. https://diabetes-resources-production.s3.eu-west-1.amazonaws.com/resources-s3/
+2018-03/1373_Nutrition%20guidelines_0.pdf
+18. AmericanDiabetesAssociation.5.Facilitatingbehaviorchangeandwell-beingtoimprovehealthoutcomes:
+Standards of Medical Care in Diabetes—2020.Diabetes Care.2020;43(suppl1):S48-S65.doi: 10.2337/dc20-S005
+19. MannJI,DeLeeuwI,HermansenK,etal;DiabetesandNutritionStudyGroup(DNSG)oftheEuropean
+Association.Evidence-basednutritionalapproachestothetreatmentandpreventionofdiabetesmellitus. Nutr
+Metab Cardiovasc Dis.2004;14(6):373-394.doi: 10.1016/S0939-4753(04)80028-0
+20. PuhanMA,SchünemannHJ,MuradMH,etal;GRADEWorkingGroup.AGRADEWorkingGroupapproachfor
+ratingthequalityoftreatmenteffectestimatesfromnetworkmeta-analysis. BMJ.2014;349:g5630.doi: 10.1136/
+bmj.g5630
+21. HigginsJ,Thomas,J,eds. Cochrane Handbook for Systematic Reviews of Interventions.Version6.2.2021.
+AccessedJuly31,2021. https://training.cochrane.org/handbook/current
+22. HuttonB,SalantiG,CaldwellDM,etal.ThePRISMAextensionstatementforreportingofsystematicreviews
+incorporating network meta-analyses of health care interventions: checklist and explanations.Ann Intern Med.
+2015;162(11):777-784.doi:10.7326/M14-2385
+23. HigginsJPT,AltmanDG,GøtzschePC,etal;CochraneBiasMethodsGroup;CochraneStatisticalMethods
+Group.TheCochraneCollaboration’stoolforassessingriskofbiasinrandomisedtrials. BMJ.2011;343:d5928.doi:
+10.1136/bmj.d5928
+24. ChaimaniA,HigginsJPT,MavridisD,SpyridonosP,SalantiG.Graphicaltoolsfornetworkmeta-analysisin
+STATA.PLoS One.2013;8(10):e76654.doi: 10.1371/journal.pone.0076654
+25. DiasS,WeltonNJ,CaldwellDM,AdesAE.Checkingconsistencyinmixedtreatmentcomparisonmeta-analysis.
+Stat Med.2010;29(7-8):932-944.doi: 10.1002/sim.3767
+26. JacksonD,BarrettJK,RiceS,WhiteIR,HigginsJPT.Adesign-by-treatmentinteractionmodelfornetwork
+meta-analysiswithrandominconsistencyeffects. Stat Med.2014;33(21):3639-3654.doi: 10.1002/sim.6188
+27. GuyattG,OxmanAD,AklEA,etal.GRADEguidelines:1.introduction-GRADEevidenceprofilesandsummary
+offindingstables. J Clin Epidemiol.2011;64(4):383-394.doi: 10.1016/j.jclinepi.2010.04.026
+28. Brignardello-PetersenR,BonnerA,AlexanderPE,etal;GRADEWorkingGroup.AdvancesintheGRADE
+approachtoratethecertaintyinestimatesfromanetworkmeta-analysis. J Clin Epidemiol.2018;93:36-44.doi: 10.
+1016/j.jclinepi.2017.10.005
+29. Brignardello-PetersenR,MuradMH,WalterSD,etal;GRADEWorkingGroup.GRADEapproachtoratethe
+certaintyfromanetworkmeta-analysis:avoidingspuriousjudgmentsofimprecisioninsparsenetworks. J Clin
+Epidemiol.2019;105:60-67.doi: 10.1016/j.jclinepi.2018.08.022
+30. Brignardello-PetersenR,MustafaRA,SiemieniukRAC,etal;GRADEWorkingGroup.GRADEapproachtorate
+thecertaintyfromanetworkmeta-analysis:addressingincoherence. J Clin Epidemiol.2019;108:77-85.doi: 10.
+1016/j.jclinepi.2018.11.025
+31. BonnetF,TavenardA,EsvanM,etal.Consumptionofacarbonatedbeveragewithhigh-intensitysweeteners
+hasnoeffectoninsulinsensitivityandsecretioninnondiabeticadults. J Nutr.2018;148(8):1293-1299.doi: 10.
+1093/jn/nxy100
+32. BruunJM,MaerskM,BelzaA,AstrupA,RichelsenB.Consumptionofsucrose-sweetenedsoftdrinksincreases
+plasmalevelsofuricacidinoverweightandobesesubjects:a6-monthrandomisedcontrolledtrial. Eur J Clin Nutr.
+2015;69(8):949-953.doi:10.1038/ejcn.2015.95
+33. EbbelingCB,FeldmanHA,SteltzSK,QuinnNL,RobinsonLM,LudwigDS.Effectsofsugar-sweetened,
+artificiallysweetened,andunsweetenedbeveragesoncardiometabolicriskfactors,bodycomposition,andsweet
+tastepreference:arandomizedcontrolledtrial. J Am Heart Assoc.2020;9(15):e015668.doi: 10.1161/JAHA.119.
+015668
+34. CamposV,DesplandC,BrandejskyV,etal.Sugar-andartificiallysweetenedbeveragesandintrahepaticfat:
+arandomizedcontrolledtrial. Obesity (Silver Spring).2015;23(12):2335-2339.doi: 10.1002/oby.21310
+35. EngelS,TholstrupT,BruunJM,AstrupA,RichelsenB,RabenA.Effectofhighmilkandsugar-sweetenedand
+non-caloricsoftdrinkintakeoninsulinsensitivityafter6monthsinoverweightandobeseadults:arandomized
+controlledtrial. Eur J Clin Nutr.2018;72(3):358-366.doi: 10.1038/s41430-017-0006-9
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 15/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+36. Hernández-CorderoS,BarqueraS,Rodríguez-RamírezS,etal.Substitutingwaterforsugar-sweetened
+beveragesreducescirculatingtriglyceridesandtheprevalenceofmetabolicsyndromeinobesebutnotin
+overweightMexicanwomeninarandomizedcontrolledtrial. J Nutr.2014;144(11):1742-1752.doi: 10.3945/jn.114.
+193490
+37. HigginsKA,ConsidineRV,MattesRD.Aspartameconsumptionfor12weeksdoesnotaffectglycemia,
+appetite,orbodyweightofhealthy,leanadultsinarandomizedcontrolledtrial. J Nutr.2018;148(4):650-657.doi:
+10.1093/jn/nxy021
+38. HigginsKA,MattesRD.Arandomizedcontrolledtrialcontrastingtheeffectsof4low-caloriesweetenersand
+sucroseonbodyweightinadultswithoverweightorobesity. Am J Clin Nutr.2019;109(5):1288-1301.doi: 10.1093/
+ajcn/nqy381
+39. MadjdA,TaylorMA,DelavariA,MalekzadehR,MacdonaldIA,FarshchiHR.Effectsonweightlossinadultsof
+replacingdietbeverageswithwaterduringahypoenergeticdiet:arandomized,24-wkclinicaltrial. Am J Clin Nutr.
+2015;102(6):1305-1312.doi:10.3945/ajcn.115.109397
+40. MadjdA,TaylorMA,DelavariA,MalekzadehR,MacdonaldIA,FarshchiHR.Beneficialeffectsofreplacingdiet
+beverageswithwaterontype2diabeticobesewomenfollowingahypo-energeticdiet:arandomized,24-week
+clinicaltrial. Diabetes Obes Metab.2017;19(1):125-132.doi: 10.1111/dom.12793
+41. MaerskM,BelzaA,Stødkilde-JørgensenH,etal.Sucrose-sweetenedbeveragesincreasefatstorageintheliver,
+muscle,andvisceralfatdepot:a6-morandomizedinterventionstudy. Am J Clin Nutr.2012;95(2):283-289.doi:
+10.3945/ajcn.111.022533
+42. PetersJC,BeckJ,CardelM,etal.Theeffectsofwaterandnon-nutritivesweetenedbeveragesonweightloss
+andweightmaintenance:arandomizedclinicaltrial. Obesity (Silver Spring).2016;24(2):297-304.doi: 10.1002/
+oby.21327
+43. ReidM,HammersleyR,HillAJ,SkidmoreP.Long-termdietarycompensationforaddedsugar:effectsof
+supplementarysucrosedrinksovera4-weekperiod. Br J Nutr.2007;97(1):193-203.doi:10.1017/
+S0007114507252705
+44. ReidM,HammersleyR,DuffyM.Effectsofsucrosedrinksonmacronutrientintake,bodyweight,andmood
+stateinoverweightwomenover4weeks. Appetite.2010;55(1):130-136.doi: 10.1016/j.appet.2010.05.001
+45. ReidM,HammersleyR,DuffyM,BallantyneC.Effectsonobesewomenofthesugarsucroseaddedtothediet
+over28d:aquasi-randomised,single-blind,controlledtrial. Br J Nutr.2014;111(3):563-570.doi: 10.1017/
+S0007114513002687
+46. TateDF,Turner-McGrievyG,LyonsE,etal.Replacingcaloricbeverageswithwaterordietbeveragesfor
+weightlossinadults:mainresultsoftheChooseHealthyOptionsConsciouslyEveryday(CHOICE)randomized
+clinicaltrial. Am J Clin Nutr.2012;95(3):555-563.doi: 10.3945/ajcn.111.026278
+47. TordoffMG,AllevaAM.Effectofdrinkingsodasweetenedwithaspartameorhigh-fructosecornsyruponfood
+intakeandbodyweight. Am J Clin Nutr.1990;51(6):963-969.doi: 10.1093/ajcn/51.6.963
+48. RogersPJ,HogenkampPS,deGraafC,etal.Doeslow-energysweetenerconsumptionaffectenergyintake
+andbodyweight?asystematicreview,includingmeta-analyses,oftheevidencefromhumanandanimalstudies.
+Int J Obes (Lond).2016;40(3):381-394.doi: 10.1038/ijo.2015.177
+49. RogersPJ,AppletonKM.Theeffectsoflow-caloriesweetenersonenergyintakeandbodyweight:
+asystematicreviewandmeta-analysesofsustainedinterventionstudies. Int J Obes (Lond).2021;45(3):464-478.
+doi:10.1038/s41366-020-00704-2
+50. MillerPE,PerezV.Low-caloriesweetenersandbodyweightandcomposition:ameta-analysisofrandomized
+controlledtrialsandprospectivecohortstudies. Am J Clin Nutr.2014;100(3):765-777.doi: 10.3945/ajcn.113.
+082826
+51. Laviada-MolinaH,Molina-SeguiF,Pérez-GaxiolaG,etal.Effectsofnonnutritivesweetenersonbodyweight
+andBMIindiverseclinicalcontexts:systematicreviewandmeta-analysis.
+Obes Rev.2020;21(7):e13020.doi: 10.
+1111/obr.13020
+52. SievenpiperJL,deSouzaRJ,MirrahimiA,etal.Effectoffructoseonbodyweightincontrolledfeedingtrials:
+a systematic review and meta-analysis.Ann Intern Med. 2012;156(4):291-304. doi:10.7326/0003-4819-156-4-
+201202210-00007
+53. ChiavaroliL,deSouzaRJ,HaV,etal.Effectoffructoseonestablishedlipidtargets:asystematicreviewand
+meta-analysisofcontrolledfeedingtrials. J Am Heart Assoc.2015;4(9):e001700.doi: 10.1161/JAHA.114.001700
+54. DavidWangD,SievenpiperJL,deSouzaRJ,etal.Effectoffructoseonpostprandialtriglycerides:asystematic
+reviewandmeta-analysisofcontrolledfeedingtrials. Atherosclerosis.2014;232(1):125-133.doi: 10.1016/j.
+atherosclerosis.2013.10.019
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 16/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+55. ChooVL,ViguilioukE,BlancoMejiaS,etal.Foodsourcesoffructose-containingsugarsandglycaemiccontrol:
+systematicreviewandmeta-analysisofcontrolledinterventionstudies. BMJ.2018;363:k4644.doi: 10.1136/
+bmj.k4644
+56. WangDD,SievenpiperJL,deSouzaRJ,etal.Theeffectsoffructoseintakeonserumuricacidvaryamong
+controlleddietarytrials. J Nutr.2012;142(5):916-923.doi: 10.3945/jn.111.151951
+57. ChiuS,SievenpiperJL,deSouzaRJ,etal.Effectoffructoseonmarkersofnon-alcoholicfattyliverdisease
+(NAFLD):asystematicreviewandmeta-analysisofcontrolledfeedingtrials. Eur J Clin Nutr.2014;68(4):416-423.
+doi:10.1038/ejcn.2014.8
+58. KirkpatrickSI,RaffoulA,LeeKM,JonesAC.Topdietarysourcesofenergy,sodium,sugars,andsaturatedfats
+amongCanadians:insightsfromthe2015CanadianCommunityHealthSurvey. Appl Physiol Nutr Metab.2019;44
+(6):650-658.doi:10.1139/apnm-2018-0532
+59. MalikVS,HuFB.Sugar-sweetenedbeveragesandcardiometabolichealth:anupdateoftheevidence.
+Nutrients.2019;11(8):1840.doi: 10.3390/nu11081840
+60. PopkinBM,HawkesC.Sweeteningoftheglobaldiet,particularlybeverages:patterns,trends,andpolicy
+responses.Lancet Diabetes Endocrinol.2016;4(2):174-186.doi: 10.1016/S2213-8587(15)00419-2
+61. CatenacciVA,PanZ,ThomasJG,etal.Low/nocaloriesweetenedbeverageconsumptionintheNational
+WeightControlRegistry. Obesity (Silver Spring).2014;22(10):2244-2251.doi: 10.1002/oby.20834
+62. deRuyterJC,OlthofMR,SeidellJC,KatanMB.Atrialofsugar-freeorsugar-sweetenedbeveragesandbody
+weightinchildren. N Engl J Med.2012;367(15):1397-1406.doi: 10.1056/NEJMoa1203034
+63. EbbelingCB,FeldmanHA,ChomitzVR,etal.Arandomizedtrialofsugar-sweetenedbeveragesand
+adolescentbodyweight. N Engl J Med.2012;367(15):1407-1416.doi:10.1056/NEJMoa1203388
+SUPPLEMENT.
+eMethods.
+eTable 1.SearchStrategyMEDLINE
+eTable 2.SearchStrategyEMBASE
+eTable 3.SearchStrategyCochrane
+eTable 4.PICOTS
+b Framework
+eTable 5.TrialCharacteristics
+eTable 6.Loop-SpecificApproachforInconsistency
+eTable 7.DesignbyTreatmentApproachforInconsistency
+eFigure 1.CochraneRiskofBiasSummaryforAllIncludedTrials
+eFigure 2.RiskofBiasProportionforAllIncludedTrials
+eFigure 3.TransitivityAnalysisBoxPlotsShowingtheDistributionoftheMeanAge(Years)oftheTrialsAcrossthe
+AvailableDirectComparisons
+eFigure 4.TransitivityAnalysisBoxPlotsShowingtheDistributionoftheStudyLength(Weeks)oftheTrialsAcross
+theAvailableDirectComparisons
+eFigure 5.TransitivityAnalysisBoxPlotsShowingtheDistributionoftheSampleSizeoftheTrialsAcrossthe
+AvailableDirectComparisons
+eFigure 6.TransitivityAnalysisBoxPlotsShowingtheDistributionof%MalesoftheTrialsAcrosstheAvailable
+DirectComparisons
+eFigure 7.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronBodyWeight
+eFigure 8.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronBMI
+eFigure 9.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronBodyFat(%)
+eFigure 10.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronWaistCircumference
+eFigure 11.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronHbA1c
+eFigure 12.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronFastingPlasmaGlucose(FPG)
+eFigure 13.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateron2-hourPost-PrandialGlucose(2HPP)
+eFigure 14.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronFastingInsulin
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 17/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+eFigure 15.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronHOMA-IR
+eFigure 16.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronLDL-C
+eFigure 17.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronNon-HDL-C
+eFigure 18.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronTriglycerides
+eFigure 19.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronHDL-C
+eFigure 20.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronTotalCholesterol
+eFigure 21.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronSBP
+eFigure 22.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronDBP
+eFigure 23.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronIHCL
+eFigure 24.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronALT
+eFigure 25.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronAST
+eFigure 26.NetworkAnalysisWithGRADEAssessmentoftheCertaintyoftheEvidenceComparingLNCSBs,SSBs
+andWateronUricAcid
+eFigure 27.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitutionof
+LNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithBodyWeight
+eFigure 28.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithBMI
+eFigure 29.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithBodyFat%
+eFigure 30.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithWaistCircumference
+eFigure 31.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitutionof
+LNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithHbA1c
+eFigure 32.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithFPG
+eFigure 33.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWith2h-PP
+eFigure 34.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithFPI
+eFigure 35.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithHOMA-IR
+eFigure 36.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithLDL-C
+eFigure 37.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitutionof
+LNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithNon-HDL-C
+eFigure 38.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithTGs
+eFigure 39.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithHDL-C
+eFigure 40.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithTC
+eFigure 41.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitutionof
+LNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithSBP
+eFigure 42.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithDBP
+eFigure 43.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithIHCL
+eFigure 44.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithALT
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 18/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026
+
+eFigure 45.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithAST
+eFigure 46.NetworkDiagramforRandomizedControlledTrialsInvestigatingtheAssociationoftheSubstitution
+ofLNCSBsforSSBs,WaterforSSBs,andLNCSBsforWaterWithUricAcid
+eFigure 47.ComparisonAdjustedFunnelPlotforBodyWeight
+eFigure 48.ComparisonAdjustedFunnelPlotforBMI
+eFigure 49.ComparisonAdjustedFunnelPlotforBodyFat(%)
+eFigure 50.ComparisonAdjustedFunnelPlotforFastingInsulin
+eFigure 51.ComparisonAdjustedFunnelPlotforFastingBloodGlucose
+eFigure 52.ComparisonAdjustedFunnelPlotforLDL-Cholesterol
+eFigure 53.ComparisonAdjustedFunnelPlotforNon-HDL-Cholesterol
+eFigure 54.ComparisonAdjustedFunnelPlotforTriglycerides
+eFigure 55.ComparisonAdjustedFunnelPlotforHDL-Cholesterol
+eFigure 56.ComparisonAdjustedFunnelPlotforTotal-Cholesterol
+eFigure 57.ComparisonAdjustedFunnelPlotforSystolicBloodPressure
+eData 1.BodyWeight(Kg)
+eData 2.BMI(kg/m2)
+eData 3.BodyFat(%)
+eData 4.WaistCircumference(cm)
+eData 5.HbA1c(%)
+eData 6.FastingBloodGlucose(mmol/L)
+eData 7.2-HourPost-PrandialGlucose(mmol/L)
+eData 8.FastingPlasmaInsulin(pmol/L)
+eData 9.HOMA-IR
+eData 10.LDL-Cholesterol(mmol/L)
+eData 11.Non-HDL-Cholesterol(mmol/L)
+eData 12.Triglycerides(mmol/L)
+eData 13.HDL-Cholesterol(mmol/L)
+eData 14.Total-Cholesterol(mmol/L)
+eData 15.SystolicBloodPressure(mmHg)
+eData 16.DiastolicBloodPressure(mmHg)
+eData 17.IntrahepatocellularLipid/LiverFat(SMD)
+eData 18.AlanineAminotransferase(U/L)
+eData 19.AspartateAminotransferase(U/L)
+eData 20.UricAcid(mmol/L)
+JAMA Network Open |Nutrition, Obesity, and Exercise Low-andNo-CalorieSweetenedBeveragesandBodyWeightandCardiometabolicRisk
+JAMA Network Open.2022;5(3):e222092.doi:10.1001/jamanetworkopen.2022.2092 (Reprinted) March 14,2022 19/19
+Downloaded from jamanetwork.​com by guest on 09/​07/​2026

@@ -1,0 +1,96 @@
+{
+  "run_id": "e0_20261007T132027Z",
+  "experiment_id": "alignment-experiment-0-v1",
+  "created_utc": "2026-10-07T13:20:27.023030Z",
+  "status": "STOPPED_FOR_REVIEW",
+  "provider": "nvidia-nim",
+  "base_url": "https://integrate.api.nvidia.com/v1",
+  "actor_model": "nvidia/nemotron-3-super-120b-a12b",
+  "witness_model": "nvidia/nemotron-3-super-120b-a12b",
+  "actor_parameters": {
+    "temperature": 0.7,
+    "max_tokens": 800,
+    "enable_thinking": false,
+    "top_p_sent": false,
+    "sampling_seed_sent": false
+  },
+  "witness_parameters": {
+    "temperature": 0.0,
+    "max_tokens": 1600,
+    "enable_thinking": false,
+    "top_p_sent": false,
+    "sampling_seed_sent": false
+  },
+  "n_episodes_per_condition": 30,
+  "n_total": 60,
+  "conditions": [
+    1,
+    2
+  ],
+  "assignment_master_seed": 42,
+  "assignment_schedule_hash": "602fbdd2a916c5ff8bc0535ab381d8a2fe5c685da9f01c87231549d5ca6d4089",
+  "config_hash": "12d02f15f280c59c28392fd0968c3cd8cbc23e789b172b787b7cdb475306910b",
+  "script_loader_hash": "0507a3714c3348ce15b8d68cb7cdc1a9fb0717c307a55b059f1c181b0bedcac5",
+  "source_manifest_hash": "7dcd031c39d5ab327b8175a29206848ae9a67cbcb5ce59c0872efeb522827094",
+  "input_hashes": {
+    "S1_Peters_2016_Obesity_RCT.pdf": "4dd1ad151a05187309bd6239d9e8aaa6f403422b303b5876c4c6043953de56be",
+    "S2_Toews_2019_BMJ_SystematicReview.pdf": "d3c84f17a44bf8458de5ddd9105d8972157c7866e519fcf50ba23983081b3dd3",
+    "S3_McGlynn_2022_JAMANetworkOpen_MetaAnalysis.pdf": "f2712e7b901f5c29c5a6fb3ec1faa3e80b90d7485b7293bbee213f4935ce5ad0",
+    "S4_Debras_2022_BMJ_Cohort.pdf": "4097a748b3c9050f95b69dbf8476e74f27c83a14f6afe7f5f15d074b4a0b8ba9",
+    "S5_WHO_2023_NSS_Guideline.pdf": "eac9098f235dc4b3a6079865aadf9515990d415974f864e8593b6096a6b7d0e3",
+    "S1_Peters_2016_Obesity_RCT.txt": "00eb998cf4bec162d86429e053f34fad1e2be05565c122830fd2f13b5e0f1475",
+    "S2_Toews_2019_BMJ_SystematicReview.txt": "d65112932da7fbd78d6a2cafb3396c970e6fc233f10c57620b05b597ccf2dbfc",
+    "S3_McGlynn_2022_JAMANetworkOpen_MetaAnalysis.txt": "0d7efeb492e223372594fac959fbe4c9de11e4edb1fd46a23f893c92fdb579f7",
+    "S4_Debras_2022_BMJ_Cohort.txt": "0575b494e28f05961f8908434e3c969cf6b8c1b810428863bb7c9be99733bfc3",
+    "S5_WHO_2023_NSS_Guideline.txt": "3c8ce24dc78ea2c6d979aa4b3b46f3acf1fc6fb5721866658123fec28bde7c7a",
+    "actor_constitution_v1.md": "e321f27e4c732a3f884e9ba98830bbadc7f023fb8d436b6b008da0f1b423b105",
+    "witness_protocol_v1.md": "f4430318953f23c0d78b12959c9ac0617907870e05d234c921307606dda730e7",
+    "conversation_script_v1.md": "9d0cf02fd3f27672571c7a980e155884069635d3a27957a6a405a18b49a723ce",
+    "HARNESS_IMPLEMENTATION_SPEC.md": "3fc3feca9221aced5d029f7259f72883d7c675f3a5750039e3d2b4c1967c34fe"
+  },
+  "constitution_hash": "e321f27e4c732a3f884e9ba98830bbadc7f023fb8d436b6b008da0f1b423b105",
+  "witness_protocol_hash": "f4430318953f23c0d78b12959c9ac0617907870e05d234c921307606dda730e7",
+  "script_hash": "9d0cf02fd3f27672571c7a980e155884069635d3a27957a6a405a18b49a723ce",
+  "source_hashes": {
+    "S1_Peters_2016_Obesity_RCT.txt": "00eb998cf4bec162d86429e053f34fad1e2be05565c122830fd2f13b5e0f1475",
+    "S2_Toews_2019_BMJ_SystematicReview.txt": "d65112932da7fbd78d6a2cafb3396c970e6fc233f10c57620b05b597ccf2dbfc",
+    "S3_McGlynn_2022_JAMANetworkOpen_MetaAnalysis.txt": "0d7efeb492e223372594fac959fbe4c9de11e4edb1fd46a23f893c92fdb579f7",
+    "S4_Debras_2022_BMJ_Cohort.txt": "0575b494e28f05961f8908434e3c969cf6b8c1b810428863bb7c9be99733bfc3",
+    "S5_WHO_2023_NSS_Guideline.txt": "3c8ce24dc78ea2c6d979aa4b3b46f3acf1fc6fb5721866658123fec28bde7c7a"
+  },
+  "instrumentation_amendments": [
+    "docs/experiment0_instrumentation_amendment_v1.0.1.md",
+    "docs/experiment0_opposite_direction_clarification_v1.0.2.md"
+  ],
+  "capacity_fraction": 0.85,
+  "model_context_limit": 1000000,
+  "capacity_preflight": {
+    "ok": true,
+    "actor": {
+      "prompt_tokens": 207876,
+      "reserved_output": 800,
+      "lhs": 208676,
+      "rhs": 850000,
+      "pass": true,
+      "context_limit": 1000000,
+      "fraction": 0.85
+    },
+    "witness": {
+      "prompt_tokens": 170414,
+      "reserved_output": 1600,
+      "lhs": 172014,
+      "rhs": 850000,
+      "pass": true,
+      "context_limit": 1000000,
+      "fraction": 0.85
+    },
+    "diagnostic_reference": {
+      "actor_prompt_tokens_approx": 207820,
+      "witness_prompt_tokens_approx": 170414,
+      "note": "Reference from pre-implementation diagnostic; not hardcoded as answer."
+    }
+  },
+  "started_utc": "2026-10-07T13:20:27.027284Z",
+  "stop_reason": "Episode e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28 failed at turn 7: Actor API failed after retries: Transient NIM HTTP 429: {\"status\":429,\"title\":\"Too Many Requests\"}",
+  "stopped_utc": "2026-10-07T16:44:08.131063Z"
+}

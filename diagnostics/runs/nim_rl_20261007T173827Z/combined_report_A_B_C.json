@@ -1,0 +1,359 @@
+{
+  "diagnostic": "nim_large_context_rate_limit_combined_A_B_C",
+  "isolation": "outside_experiment0_execution_path",
+  "experiment0_run_forbidden": "e0_20261007T132027Z",
+  "experiment0_must_remain": {
+    "run_id": "e0_20261007T132027Z",
+    "status": "STOPPED_FOR_REVIEW",
+    "completed": "19/60"
+  },
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "generated_utc": "2026-10-07T18:21:43.313553Z",
+  "A_phase_a": {
+    "result": "PASS",
+    "http_status": 200,
+    "prompt_tokens": 170006,
+    "latency_ms": 2630,
+    "finish_reason": "length",
+    "Nvcf-Reqid": "4225990b-98c8-4e54-be51-06d51f14a16a",
+    "Nvcf-Status": "fulfilled",
+    "note": "Large-context verification (~170k prompt tokens, max_tokens=1)"
+  },
+  "B_phase_b_30s": {
+    "result": "PASS",
+    "classification": "PHASE_B_30S_PACING_ALL_SUCCESS",
+    "spacing_sec": 30.0,
+    "statuses": [
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "requests": [
+      {
+        "sequence": 1,
+        "timestamp_utc_start": "2026-10-07T17:39:12.752699Z",
+        "timestamp_utc_end": "2026-10-07T17:39:13.980628Z",
+        "latency_ms": 1228,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "1013f0e5-4bad-42c1-9b42-f476e98a3736",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 17:39:04 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "1013f0e5-4bad-42c1-9b42-f476e98a3736",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 2,
+        "timestamp_utc_start": "2026-10-07T17:39:42.752754Z",
+        "timestamp_utc_end": "2026-10-07T17:39:43.890494Z",
+        "latency_ms": 1137,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "2fa8345d-9539-4159-9abf-64b8b1a3257f",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 17:39:34 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "2fa8345d-9539-4159-9abf-64b8b1a3257f",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 3,
+        "timestamp_utc_start": "2026-10-07T17:40:12.752442Z",
+        "timestamp_utc_end": "2026-10-07T17:40:13.899250Z",
+        "latency_ms": 1146,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "1ec81174-473a-48fe-91da-aa904e18efa7",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 17:40:04 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "1ec81174-473a-48fe-91da-aa904e18efa7",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 4,
+        "timestamp_utc_start": "2026-10-07T17:40:42.753771Z",
+        "timestamp_utc_end": "2026-10-07T17:40:45.000504Z",
+        "latency_ms": 2246,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "0b68eda7-0d5c-41ec-b4e0-c315b635d5fe",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 17:40:35 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "0b68eda7-0d5c-41ec-b4e0-c315b635d5fe",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 5,
+        "timestamp_utc_start": "2026-10-07T17:41:12.752712Z",
+        "timestamp_utc_end": "2026-10-07T17:41:13.903799Z",
+        "latency_ms": 1150,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "ceb4d369-77da-44bc-a273-112b1bd035db",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 17:41:04 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "ceb4d369-77da-44bc-a273-112b1bd035db",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      }
+    ]
+  },
+  "C_phase_c_60s": {
+    "result": "PASS",
+    "classification": "PHASE_C_60S_PACING_ALL_SUCCESS",
+    "spacing_sec": 60.0,
+    "seconds_since_phase_b_before_start": 2429.409754,
+    "statuses": [
+      200,
+      200,
+      200,
+      200,
+      200
+    ],
+    "requests": [
+      {
+        "sequence": 1,
+        "timestamp_utc_start": "2026-10-07T18:17:42.614427Z",
+        "timestamp_utc_end": "2026-10-07T18:17:49.744692Z",
+        "latency_ms": 7130,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "d000bb62-aa29-49a8-97e1-ab84005872e8",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:17:40 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "d000bb62-aa29-49a8-97e1-ab84005872e8",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 2,
+        "timestamp_utc_start": "2026-10-07T18:18:42.616012Z",
+        "timestamp_utc_end": "2026-10-07T18:18:52.402533Z",
+        "latency_ms": 9786,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "53132158-41bd-408e-b45d-3ed4d4026dfa",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:18:43 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "53132158-41bd-408e-b45d-3ed4d4026dfa",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 3,
+        "timestamp_utc_start": "2026-10-07T18:19:42.617352Z",
+        "timestamp_utc_end": "2026-10-07T18:19:43.459542Z",
+        "latency_ms": 842,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "6a3de687-48cc-4aaa-823e-2fbbd322782d",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:19:34 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "6a3de687-48cc-4aaa-823e-2fbbd322782d",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 4,
+        "timestamp_utc_start": "2026-10-07T18:20:42.617150Z",
+        "timestamp_utc_end": "2026-10-07T18:20:44.013353Z",
+        "latency_ms": 1395,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "a18eebac-1cb4-4049-8ae5-4f3f3c98cc1e",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:20:34 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "a18eebac-1cb4-4049-8ae5-4f3f3c98cc1e",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 5,
+        "timestamp_utc_start": "2026-10-07T18:21:42.617436Z",
+        "timestamp_utc_end": "2026-10-07T18:21:43.311552Z",
+        "latency_ms": 694,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "3c9f2296-0d90-4af0-a53e-c39e2de76d73",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:21:34 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "3c9f2296-0d90-4af0-a53e-c39e2de76d73",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      }
+    ]
+  },
+  "D_header_observations": {
+    "Retry-After_exposed": false,
+    "RPM_limit_exposed": false,
+    "TPM_limit_exposed": false,
+    "remaining_quota_exposed": false,
+    "reset_time_exposed": false,
+    "NVCF_request_IDs_exposed": true,
+    "NVCF_request_IDs": [
+      "4225990b-98c8-4e54-be51-06d51f14a16a",
+      "1013f0e5-4bad-42c1-9b42-f476e98a3736",
+      "2fa8345d-9539-4159-9abf-64b8b1a3257f",
+      "1ec81174-473a-48fe-91da-aa904e18efa7",
+      "0b68eda7-0d5c-41ec-b4e0-c315b635d5fe",
+      "ceb4d369-77da-44bc-a273-112b1bd035db",
+      "d000bb62-aa29-49a8-97e1-ab84005872e8",
+      "53132158-41bd-408e-b45d-3ed4d4026dfa",
+      "6a3de687-48cc-4aaa-823e-2fbbd322782d",
+      "a18eebac-1cb4-4049-8ae5-4f3f3c98cc1e",
+      "3c9f2296-0d90-4af0-a53e-c39e2de76d73"
+    ],
+    "all_header_names_seen": [
+      "Access-Control-Expose-Headers",
+      "Connection",
+      "Content-Type",
+      "Date",
+      "Nvcf-Reqid",
+      "Nvcf-Status",
+      "Transfer-Encoding",
+      "Vary"
+    ]
+  },
+  "E_comparison_with_experiment0_operational_only": {
+    "diagnostic_spacing": {
+      "phase_b_start_to_start_sec": 30,
+      "phase_c_start_to_start_sec": 60,
+      "attempts_per_scheduled_request": 1,
+      "automatic_429_retries": false
+    },
+    "diagnostic_prompt_token_sizes": {
+      "target": "~170006",
+      "phase_a": 170006,
+      "phase_b": [
+        170006,
+        170006,
+        170006,
+        170006,
+        170006
+      ],
+      "phase_c": [
+        170006,
+        170006,
+        170006,
+        170006,
+        170006
+      ],
+      "in_160k_180k_band": true
+    },
+    "exp0_observed_dense_call_behavior": "Experiment 0 episode execution issues many large-context NIM calls in rapid succession within a turn and across turns (Actor then Witness, plus nested retries on transient errors under the frozen retry budget). On run e0_20261007T132027Z, HTTP 429s repeatedly appeared mid-episode (e.g. around turns 6\u20137) after bursts of successful generation calls, while completed episodes remained at 19/60 under STOPPED_FOR_REVIEW.",
+    "consistent_with_throughput_sensitive_throttling": "Yes \u2014 operationally consistent. Isolated ~170k requests at 30s and 60s start spacing completed without 429 in this diagnostic, whereas Exp0's denser same-model call pattern encountered 429 after short successful bursts. This does not identify a specific unpublished NVIDIA TPM quota.",
+    "no_scientific_outcomes_inspected": true
+  },
+  "F_recommendation_future_run_only": {
+    "recommended_operational_pacing_interval_sec": 30,
+    "basis": "Phase B (30s start spacing) and Phase C (60s start spacing) both achieved 5/5 HTTP 200 on ~170k-token synthetic requests with no automatic retries. 30s is the shortest spacing tested that fully succeeded; 60s also succeeded but is more conservative.",
+    "do_not_apply_to_started_experiment0": true,
+    "do_not_resume_experiment0_from_this_diagnostic": true
+  },
+  "phase_c_raw_count": 5
+}

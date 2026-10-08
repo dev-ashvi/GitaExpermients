@@ -1,0 +1,2012 @@
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  1
+Artificial sweeteners and risk of cardiovascular diseases: results 
+from the prospective NutriNet-Santé cohort
+Charlotte Debras,1,2 Eloi Chazelas,1,2 Laury Sellem,1,2 Raphaël Porcher,3,4  
+Nathalie Druesne-Pecollo,1,2 Younes Esseddik,1 Fabien Szabo de Edelenyi,1 Cédric Agaësse,1  
+Alexandre De Sa,1 Rebecca Lutchia,1 Léopold K Fezeu,1,2 Chantal Julia,1,5  
+Emmanuelle Kesse-Guyot,1,2 Benjamin Allès,1 Pilar Galan,1,2 Serge Hercberg,1,2,5  
+Mélanie Deschasaux-Tanguy,1,2 Inge Huybrechts,2,6 Bernard Srour,1,2 Mathilde Touvier1,2
+AbstrAct
+Objectives
+To study the associations between artificial 
+sweeteners from all dietary sources (beverages, but 
+also table top sweeteners, dairy products, etc), overall 
+and by molecule (aspartame, acesulfame potassium, 
+and sucralose), and risk of cardiovascular diseases 
+(overall, coronary heart disease, and cerebrovascular 
+disease).
+Design
+Population based prospective cohort study  
+(2009-21).
+set
+ting
+France, primary prevention research.
+Partici
+Pant
+s
+103
+ 388 p
+articipants of the web based NutriNet-Santé 
+cohort (mean age 42.2±14.4, 79.8% female, 904
+ 206 
+per
+son years). Dietary intakes and consumption of 
+artificial sweeteners were assessed by repeated 24 h 
+dietary records, including brand names of industrial 
+products.
+Main 
+O
+utcOM
+es 
+M
+easures
+Associations between sweeteners (coded as a 
+continuous variable, log10 transformed) and 
+cardiovascular disease risk, assessed by multivariable 
+adjusted Cox hazard models.
+r
+esults
+Total artificial sweetener intake was associated 
+with increased risk of cardiovascular diseases 
+(1502 events, hazard ratio 1.09, 95% confidence 
+interval 1.01 to 1.18, P=0.03); absolute incidence 
+rate in higher consumers (above the sex specific 
+median) and non-consumers was 346 and 314 
+per 100
+ 000 per
+son years, respectively. Artificial 
+sweeteners were more particularly associated with 
+cerebrovascular disease risk (777 events, 1.18, 1.06 
+to 1.31, P=0.002; incidence rates 195 and 150 per 
+100
+ 000 per
+son years in higher and non-consumers, 
+respectively). Aspartame intake was associated 
+with increased risk of cerebrovascular events (1.17, 
+1.03 to 1.33, P=0.02; incidence rates 186 and 
+151 per 100
+ 000 per
+son years in higher and non-
+consumers, respectively), and acesulfame potassium 
+and sucralose were associated with increased 
+coronary heart disease risk (730 events; acesulfame 
+potassium: 1.40, 1.06 to 1.84, P=0.02; incidence 
+rates 167 and 164; sucralose: 1.31, 1.00 to 1.71, 
+P=0.05; incidence rates 271 and 161).
+c
+O
+nclusi
+O
+ns
+The findings from this large scale prospective cohort 
+study suggest a potential direct association between 
+higher artificial sweetener consumption (especially 
+aspartame, acesulfame potassium, and sucralose) 
+and increased cardiovascular disease risk. Artificial 
+sweeteners are present in thousands of food and 
+beverage brands worldwide, however they remain 
+a controversial topic and are currently being re-
+evaluated by the European Food Safety Authority, the 
+World Health Organization, and other health agencies.
+trial
+ registrati
+O
+n
+ClinicalTrials.gov NCT03335644
+Introduction
+The harmful effects of added sugars on various health 
+outcomes including cardiometabolic disorders have 
+been extensively studied, meta-analysed
+1 2  and are 
+currently recognised as major risk factors by public 
+health authorities. In particular, the World Health 
+Organization recommends that less than 5% daily 
+energy intake should come from free sugar.
+3 Artificial 
+sweeteners emerged as an alternative to added sugar 
+that enabled the sweet taste to be reproduced without 
+using sugar and therefore reduced calorie content 
+from free sugar, which was highly appreciated by 
+For numbered affiliations see 
+end of the article
+Correspondence to: C Debras  
+c.debras@eren.smbh. 
+univ-paris13.fr 
+(or @NutriNetSante on Twitter: 
+ORCID 0000-0002-0395-7161)
+Additional material is published 
+online only. To view please visit 
+the journal online.
+cit e this as: BMJ 2022;378:e071204 
+http:/ /dx.doi.org/10.1136/
+bmj
+-
+2022
+-
+071204
+Accepted: 01 July 2022
+WhAt  I s A lre A dy knoW n on th I s top I c
+The harmful effects of added sugars have been established for several chronic 
+diseases, leading food industries to use artificial sweeteners as alternatives in a 
+wide range of foods and beverages
+The safety of artificial sweeteners is debated and study findings remain divided 
+about their role in the cause of various diseases
+The negative influence of these food additives on cardiovascular disease has 
+been suggested in experimental studies, but data from human studies remain 
+limited and previous observational studies have focused solely on artificially 
+sweetened beverages used as a proxy
+WhAt  th I s study A dds
+In this large scale, prospective cohort of French adults, artificial sweeteners 
+(especially aspartame, acesulfame potassium, and sucralose) were associated 
+with increased risk of cardiovascular, cerebrovascular, and coronary heart 
+diseases
+The results suggest that artificial sweeteners might represent a modifiable risk 
+factor for cardiovascular disease prevention
+The findings indicate that these food additives, consumed daily by millions 
+of people and present in thousands of foods and beverages, should not be 
+considered a healthy and safe alternative to sugar, in line with the current 
+position of several health agencies
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+2 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+consumers.4 Artificial sweeteners currently represent a 
+$7200m (£5900m; €7000m) market globally, with a 5% 
+annual growth projected to attain $9700m by 2028. 5 
+An extensive number of brands worldwide contain 
+these food additives, especially ultra-processed foods 
+such as artificially sweetened beverages, some snacks, 
+and low calorie ready-to-go meals or dairy products; 
+overall more than 23
+ 000 pr
+oducts worldwide contain 
+artificial sweeteners. 6 Artificial sweeteners are also 
+directly used by consumers as table top sweeteners 
+instead of sugar. Acceptable daily intakes for each 
+artificial sweetener have been set by the European Food 
+Safety Authority (EFSA), the United States Food and 
+Drug Administration, or the Joint Expert Committee 
+on Food Additives. Nonetheless, they remain a topic 
+of controversy and are currently undergoing a re-
+evaluation by several health authorities, including the 
+EFSA
+7 and WHO.8
+Some experimental in vivo and in vitro studies, 
+observational studies, and human randomised 
+controlled trials investigated early markers of 
+cardiovascular health, for example, weight 
+status,
+9-12 hypertension, 13 inflammation, 14 vascular 
+dysfunction,15  16 or gut microbiota perturbation 17-20 in 
+association with consumption of artificial sweeteners or 
+artificially sweetened beverages. Most of these studies 
+suggested adverse effects,
+11-20 and few suggested neutral 
+or beneficial properties.9 10  Although the results were 
+mixed, this literature generally supports a potential 
+involvement of artificial sweeteners in cardiovascular 
+health, with plausible mechanisms.
+21-23
+Cardiovascular diseases (CVDs) are the leading 
+cause of death worldwide. 24 Randomised controlled 
+trials have not directly assessed the impact of artificial 
+sweetener intake on hard endpoints such as CVD risk 
+for ethical reasons. Similarly, observational prospective 
+studies have not directly investigated the association 
+between artificial sweetener intake (mg/day) and 
+CVD risk, but several have used artificially sweetened 
+beverage consumption (millilitres or servings/day) as 
+a proxy to explore these associations with conflicting 
+results.
+22 23 25-34  One of these studies was performed 
+in the NutriNet-Santé cohort 28 and found that sugary 
+drinks and artificially sweetened beverages were 
+associated with increased CVD risk. Systematic 
+reviews and meta-analyses
+35 36  have suggested direct 
+associations between artificially sweetened beverages 
+and CVD risk. The WHO 2022 report on the health effects 
+of artificial sweeteners notably observed associations 
+between consumption of beverages with artificial 
+sweeteners (used as a proxy) and some intermediate 
+markers of CVD,
+8 including a modest increase in the 
+unfavourable total cholesterol to HDL cholesterol 
+ratio (meta-analysis of four randomised control trials), 
+and an increased risk of hypertension (meta-analysis 
+of four prospective studies). The international health 
+authority also identified an increase in CVD mortality, 
+and in the incidence of cardiovascular events and 
+strokes associated with greater intake of soft drinks 
+containing artificial sweeteners (meta-analysis of 
+four randomised control trials). However, prospective 
+studies remain limited and the level of evidence for 
+these associations is still considered low by WHO.
+8 
+Additionally, because artificially sweetened beverages 
+only represent part of the total artificial sweetener 
+intake, it is crucial to consider all dietary sources in 
+causal studies.
+In this context, our objective was to conduct a large 
+scale prospective study using quantitative data to 
+investigate the associations between consumption 
+of artificial sweeteners (mg/day) from all dietary 
+sources (beverages but also table top sweeteners, 
+dairy products, etc), overall and by type (aspartame, 
+acesulfame potassium, and sucralose), and risk of CVD 
+(overall, coronary, and cerebrovascular). Our study 
+was performed within the population based NutriNet-
+Santé cohort, which includes detailed information 
+on commercial names and brands of industrial food 
+consumed.
+Methods
+s
+tudy population and data collection
+This study was based on the prospective NutriNet-
+Santé e-cohort, launched in France in May 2009, 
+with an open ongoing enrolment of volunteers. 
+The main objective was to investigate the relations 
+between nutrition and health.
+37 Participants are 
+French adults, aged 18 years or older, with internet 
+access, recruited from the general population by 
+means of multimedia campaigns. They are followed 
+through their personal account created at inclusion 
+on the study website (https://etude-nutrinet-sante.
+fr/). Immediately after enrolment, each person 
+completes five online questionnaires about diet 
+(24 h dietary records, detailed below), health (eg, 
+personal and familial history, prescription drug use), 
+anthropometric data (height and weight
+38 39), lifestyle 
+and sociodemographic data (eg, date of birth, sex, 
+education level, professional occupation, smoking 
+status, number of children
+40), and physical activity. 
+Physical activity levels were defined based on the 
+validated seven day assessment International Physical 
+Activity Questionnaire (IPAQ).
+41 All activities declared 
+by participants were converted into metabolic 
+equivalent of task (MET) minutes per week according 
+to the compendium of physical activities.
+42 Three 
+levels of physical activity were defined: low (<600 MET-
+min/week), moderate (600-1500 MET-min/week), 
+and high (>1500 MET-min/week) using standardised 
+IPAQ processing guidelines.
+41 For instance, 600 MET-
+min/week is equivalent to 150 min/week of moderate 
+intensity (4 METs) physical activity or 75 min/week of 
+high intensity (8 METs) physical activity.
+Each person included in the NutriNet-Santé cohort 
+provides informed consent electronically. The study 
+is registered at ClinicalTrials.gov (NCT03335644), 
+conducted according to the Declaration of Helsinki 
+guidelines, and approved by the Institutional 
+Review Board of the French Institute for Health and 
+Medical Research (IRB-Inserm) and the Commission 
+Nationale de l’Informatique et des Libertés (CNIL No 
+908450/909216).
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  3
+Dietary assessment
+Three non-consecutive days of 24 h dietary records were 
+randomly assigned over a two week period, at baseline, 
+and every six months thereafter. During those recording 
+days (two weekdays and one weekend day) participants 
+indicated all foods and beverages consumed during 
+the three main meals and any other eating occasions, 
+and in what quantities, using validated photographs 
+and standard serving containers
+43 or by directly 
+entering the amount (in grams or millilitres). All 24 
+h dietary records provided during the first two years 
+of each person’s follow-up were averaged to obtain 
+baseline diet. This represents a reliable estimate of 
+consumption habits, while respecting the prospective 
+design and guaranteeing sufficient delay between 
+consumption and CVD outcomes. Intakes of energy, 
+alcohol, and nutrients were assessed using the NutriNet-
+Santé food composition table (≈3500 food/beverage 
+items
+44). Nutritional contributions of mixed dishes 
+were estimated by standard French recipes defined by 
+nutrition professionals. Dietary assessment through 
+these 24 h dietary records were validated against 
+interviews by a trained dietitian
+45 and against blood and 
+urinary biomarkers.46 47 The basal metabolic rate and the 
+Goldberg cut-off method enabled any under reporting to 
+be identified
+48-50; participants who under reported were 
+excluded from the analyses. Supplementary method 1 
+gives details of methods used to identify under reporting.
+tab le 1 | ba seline characteristics of the study population, n utri n et-s anté cohort, France, 2009-21 (n=103  388)
+ch aracteristics al l participants
+cat
+egories of artificial sweetener intakes*
+P value†n on-consumers lo wer consumers Higher consumers
+No of participants (%) 103  388 65  028 (62.90) 19  221 (18.59) 19  139 (18.51) —
+Age, years (mean (SD)) 42.22 (14.41) 42.96 (14.64) 41.94 (14.42) 39.97 (13.35) <0.001
+Female sex 82
+ 
+485 (79.78) 50
+ 
+160 (77.14) 16
+ 
+200 (84.28) 16
+ 
+125 (84.25) <0.001
+Body mass index (mean (SD)) 23.59 (4.33) 23.21 (4.06) 23.68 (4.29) 24.79 (4.99) <0.001
+Family history of CVD 28
+ 
+053 (27.44) 17
+ 
+788 (27.69) 5312 (27.84) 4953 (26.2) <0.001
+Prevalent hypercholesterolemia 7696 (7.44) 4525 (6.96) 1676 (8.72) 1495 (7.81) <0.001
+Prevalent hypertriglyceridemia 1321 (1.28) 709 (1.09) 280 (1.46) 332 (1.73) <0.001
+Prevalent hypertension 7125 (6.89) 4297 (6.61) 1448 (7.53) 1380 (7.21) <0.001
+Education level <0.001
+ 
+No 16
+ 
+652 (16.24) 10
+ 
+814 (16.78) 2935 (15.37) 2903 (15.3) —
+ Ye
+s, <2 years 16
+ 
+282 (15.88) 10
+ 
+324 (16.02) 2897 (15.18) 3061 (16.13) —
+ Ye
+s, ≥2 years 69
+ 
+577 (67.87) 43
+ 
+309 (67.20) 13
+ 
+258 (69.45) 13
+ 
+010 (68.57) —
+Smoking status <0.001
+ 
+Current 14
+ 
+894 (14.42) 9387 (14.45) 2292 (11.93) 3215 (16.81) —
+ 
+Former 41
+ 
+302 (39.98) 25
+ 
+533 (39.30) 7895 (41.09) 7874 (41.16) —
+ 
+Never 47
+ 
+121 (45.61) 30
+ 
+052 (46.25) 9028 (46.98) 8041 (42.03) —
+Physical activity level‡ <0.001
+ 
+Low 21
+ 
+823 (21.11) 13
+ 
+374 (20.57) 4167 (21.68) 4282 (22.37) —
+ 
+Moderate 38
+ 
+376 (37.12) 23
+ 
+937 (36.81) 7420 (38.60) 7019 (36.67) —
+ 
+High 28
+ 
+868 (27.92) 18
+ 
+807 (28.92) 5070 (26.38) 4991 (26.08) —
+Number of 24 h dietary records (mean (SD)) 5.59 (3.05) 5.31 (3.01) 6.81 (3.10) 5.28 (2.83) <0.001
+Energy intake without alcohol, kcal/day (mean (SD)) 1898.02 (469.80) 1911.4 (477.34) 1888.42 (432.76) 1862.19 (477.55) <0.001
+Alcohol intake, g/day (mean (SD)) 7.71 (11.71) 8.05 (12.19) 7.51 (10.79) 6.79 (10.88) <0.001
+SFA intake, g/day (mean (SD)) 33.18 (12.13) 33.59 (12.29) 33.16 (11.19) 31.81 (12.39) <0.001
+PUFA intake, g/day (mean (SD)) 11.5 (4.94) 11.63 (5.17) 11.31 (4.30) 11.25 (4.75) <0.001
+Sodium intake, mg/day (mean (SD)) 2705.38 (880.94) 2698.58 (897.29) 2711.43 (812.38) 2722.43 (890.75) 0.003
+Dietary fibre intake, g/day (mean (SD)) 19.4 (7.19) 19.75 (7.48) 18.93 (6.26) 18.69 (7.00) <0.001
+Total sugar intake, g/day (mean (SD)) 92.69 (33.11) 92.11 (33.49) 94.62 (30.56) 92.73 (34.16) <0.001
+Added sugar intake, g/day (mean (SD)) 38.76 (23.73) 38.5 (23.54) 40.3 (22.46) 38.12 (25.51) <0.001
+Percentage of energy from added sugar (mean (SD)) 8.20 (4.18) 8.12 (4.16) 8.58 (3.95) 8.10 (4.45) <0.001
+Sugary drinks, mL/day (mean (SD)) 47.84 (106.70) 42.77 (103.87) 55.15 (97.73) 57.72 (122.53) <0.001
+Non-alcoholic beverages with no added sugars, mL/day 
+(mean (SD))
+1088.67 (536.6) 1063.93 (529.25) 1092.54 (517.02) 1168.85 (571.66) <0.001
+Fruit and vegetable intake, g/day (mean (SD)) 404.83 (220.04) 409.35 (222.68) 397.73 (196.93) 396.59 (232.24) <0.001
+Red and processed meat intake, g/day (mean (SD)) 76.41 (52.70) 74.53 (53.23) 76.10 (46.75) 83.09 (55.89) <0.001
+Whole-grain food intake, g/day (mean (SD)) 34.16 (45.97) 35.71 (49.16) 31.42 (38.40) 31.66 (41.29) <0.001
+Ultra-processed foods intake, % of the diet in g/day 
+(mean (SD))
+17.40 (9.90) 15.96 (9.12) 17.42 (8.61) 22.27 (11.92) <0.001
+Weight loss diet during the first two years of follow-up 17
+ 
+585 (17.01) 7729 (11.89) 3654 (19.01) 6202 (32.41) <0.001
+Artificial sweetener intake, mg/day (mean (SD)) 15.76 (48.57) 0.00 (0.00) 7.46 (4.95) 77.62 (89.33) <0.001
+Aspartame (E951) intake, mg/day (mean (SD)) 9.13 (30.95) 0.00 (0.00) 3.16 (3.96) 46.13 (58.91) <0.001
+Acesulfame potassium (E950) intake, mg/day  
+(mean (SD))
+4.60 (14.90) 0.00 (0.00) 2.71 (2.79) 22.14 (28.43) <0.001
+Sucralose (E955) intake, mg/day (mean (SD)) 1.59 (16.17) 0.00 (0.00) 1.08 (1.94) 7.49 (36.95) <0.001
+CVD=cardiovascular disease; PUFA=polyunsaturated fatty acid; SD=standard deviation; SFA=saturated fatty acid.
+Values are numbers (percentages) unless stated otherwise. 1 kcal=4.18 kJ=0.00418 MJ.
+*Categories of consumption were defined as non-consumers, lower consumers, and higher consumers, separated by the sex specific median among consumers, that is, 16.44 mg/day in men and 
+18.46 mg/day in women.
+†P values for crude comparison between the three categories of sweetener intake by analysis of variance or χ
+2 test when appropriate.
+‡Available for 89
+ 067 p
+articipants, categorised into high, moderate, and low categories according to International Physical Activity Questionnaire guidelines.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+4 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+artificial sweetener intakes
+Chazelas and colleagues described the quantitative 
+evaluation of food additive consumption in participants 
+of the NutriNet-Santé cohort.
+51 Briefly, food additive 
+intakes, including artificial sweeteners, were assessed 
+through the interactive online 24 h dietary record tool, 
+in which commercial names and brands of industrial 
+products consumed could be recorded. The presence of 
+food additives was first determined for each food and 
+beverage using ingredients lists available from three 
+large scale food composition databases: Open Food 
+Facts (https://world.openfoodfacts.org/)
+6; the French 
+food safety agency database Oqali (https://www.oqali.
+fr/oqali_eng/)
+52; and Mintel’s Global New Products 
+Database.53 Doses of additives were determined 
+by around 2700 assays performed by accredited 
+laboratories, requested by the Nutritional Epidemiology 
+Research Team or by a consumer association (UFC Que 
+Choisir). These quantitative data were completed by 
+average doses per food group provided by EFSA and the 
+Joint FAO/WHO Expert Committee on Food Additives.
+54 
+Food additive composition data were matched by date 
+to account for possible industrial reformulations and 
+changes in additive composition (date of consumption 
+was considered to match the product to the closest 
+consumption data). Supplementary method 2 gives 
+additional information on food additive and artificial 
+sweetener intake assessment.
+For this study, we were able to estimate intakes of 
+aspartame (European food additive identification 
+number E951), acesulfame potassium (E950), 
+sucralose (E955), cyclamates (E952), saccharin (E954), 
+thaumatin (E957), neohesperidine dihydrochalcone 
+(E959), steviol glycosides (E960), and salt of 
+aspartame-acesulfame potassium (E962) and to create 
+a sum variable labelled total artificial sweeteners.
+car diovascular disease determination
+Throughout follow-up, biannual health questionnaires 
+and a permanently open personal health interface 
+on the study account allowed participants to report 
+any new health events, medical treatments, and 
+examinations. For each incident CVD event declared, 
+participants were contacted by a physician of the team 
+and asked to provide any relevant medical records (eg, 
+radiological reports, electrocardiogram, angioplasty). 
+When necessary, the study physicians contacted 
+the patient’s physician or any hospitals providing 
+treatment to collect additional information. These 
+medical data were reviewed by physician experts. An 
+investigation was also conducted by the physicians of 
+the NutriNet-Santé study by contacting the participant’s 
+family or their physician when no connection to the 
+study website was made for more than a year. Beyond 
+this proactive health follow-up, data were paired with 
+the medico-administrative databases of the national 
+health insurance system database (SNIIRAM) and the 
+national mortality registry (CépiDC), thereby limiting 
+potential bias due to people with CVD not reporting their 
+disease to the study investigators (further information 
+available in supplementary method 3). International 
+classification of diseases clinical modification, 10th 
+revision, was used to classify CVD.
+55 For this study, first 
+incidence of CVD, coronary heart disease (myocardial 
+infarction, code I21; acute coronary syndrome, code 
+I21.4; angioplasty, code Z95.8; angina pectoris, code 
+I20.0), or cerebrovascular disease (stroke, code I64; 
+transient ischaemic attack, codes G45.8 and G45.9) 
+diagnosed between inclusion and 5 October 2021 were 
+considered as events and investigated in the analyses.
+statistical analyses
+Participants with at least two valid dietary records 
+during the first two years of follow-up were included in 
+the analysis. Those with prevalent CVD or pre-existing 
+diabetes were excluded. To limit reverse causality bias 
+(particularly sensitive when sugar was substituted by 
+artificial sweeteners), participants with CVD diagnosed 
+during the first two years of follow-up were also 
+excluded. Supplementary figure 1 presents a flowchart 
+showing detailed selection of the study population.
+We classified participants into three categories of 
+artificial sweetener consumption: non-consumers, 
+lower consumers (participants with artificial 
+sweetener intake below the sex specific median 
+among consumers), and higher consumers. Baseline 
+characteristics (sociodemographic, health, lifestyle, 
+dietary intakes) were assessed for each category and 
+compared using χ
+2 tests for categorical variables and 
+analysis of variance tests for continuous variables 
+(table 1).
+Associations between artificial sweeteners, overall 
+and the most represented (aspartame, acesulfame 
+potassium, and sucralose, consumed by more than 
+5% of participants), and CVD (overall, coronary 
+tab le 2 | a ssociations between intake of total artificial sweeteners, aspartame, 
+acesulfame potassium, and sucralose and overall cardiovascular diseases, coronary 
+heart diseases and cerebrovascular diseases, 
+n
+utri
+n
+et-s
+anté cohort, France, 2009-21 
+(n=103
+ 
+388)
+Outcome and exposure Hazard ratio (95% ci ) P value
+Cardiovascular diseases (n=1502)
+Total artificial sweeteners 1.09 (1.01 to 1.18) 0.03
+Aspartame 1.03 (0.94 to 1.14) 0.49
+Acesulfame potassium 1.18 (0.98 to 1.41) 0.08
+Sucralose 1.11 (0.92 to 1.34) 0.28
+Coronary heart diseases (n=730)
+Total artificial sweeteners 1.02 (0.91 to 1.14) 0.79
+Aspartame 0.91 (0.78 to 1.06) 0.22
+Acesulfame potassium 1.40 (1.06 to 1.84) 0.02
+Sucralose 1.31 (1.00 to 1.71) 0.05
+Cerebrovascular diseases (n=777)
+Total artificial sweeteners 1.18 (1.06 to 1.31) 0.002
+Aspartame 1.17 (1.03 to 1.33) 0.02
+Acesulfame potassium 1.01 (0.79 to 1.29) 0.93
+Sucralose 0.99 (0.76 to 1.29) 0.93
+Median follow-up times for overall cardiovascular, coronary heart, and cerebrovascular diseases were all 9.0 
+years; person years were 904
+ 205, 904
+ 270, and
+ 904
+ 259, re
+spectively. Exposure was coded as log10 of 
+artificial sweetener intake in mg/day+1. Main models were adjusted for age (time scale), sex, physical activity 
+(categorical: International Physical Activity Questionnaire variable: high, moderate, low, missing value), smoking 
+status (categorical: never, former, current smoker), number of smoked cigarettes in pack years (continuous), 
+higher educational level (categorical: less than high school degree, <2 years after high school degree, ≥2 years 
+after high school degree), family history of cardiovascular disease (categorical: yes, no), energy intake without 
+alcohol (continuous: kcal/day), daily intakes (continuous: g/day) of alcohol, sodium, saturated fatty acids, 
+polyunsaturated fatty acids, fibre, sugar, fruit and vegetables, red and processed meat. Models were also 
+mutually adjusted for sweetener intake other than the one studied (continuous).
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  5
+heart disease, and cerebrovascular disease) were 
+investigated using multivariable adjusted Cox 
+proportional hazard models (table 2). Participants 
+contributed person time from their inclusion in the 
+cohort until the date of CVD, date of last follow-up, 
+date of death, or 5 October 2021, whichever occurred 
+first. We first tested dose-response analyses using the 
+restricted cubic spline (RCS) functions with the SAS 
+macro developed by Desquilbet and Mariotti.
+56 Given 
+the logarithmic profile of the associations suggested by 
+the RCS curves (supplementary fig 2) and to account for 
+the large proportion of non-consumers (especially for 
+each specific artificial sweetener), artificial sweetener 
+intakes were log transformed (log10 of sweetener 
+consumption in mg/g+1) to compute continuous 
+models (+1 was uniformly added to all consumptions 
+because log(0) is not allowed). The continuous model 
+was used as the primary analyses to obtain hazard 
+ratios and 95% confidence intervals. Supplementary 
+tables 1 and 2 present models using three categories 
+(non-consumers, lower consumers, and higher 
+consumers, separated by the sex specific median) 
+and four categories (non-consumers and sex specific 
+consumers in thirds) of sweetener consumption.
+The main models were adjusted for several variables 
+suspected or known to be associated with diet and with 
+CVD risk: sociodemographic (age, sex, educational 
+level), lifestyle (smoking status, number of smoked 
+cigarettes, physical activity), and health (family 
+history of CVD) factors, and food groups and nutrients 
+for which a role in CVD cause has been strongly 
+suggested
+57-65: energy intake without alcohol, alcohol, 
+sugar, sodium, saturated fatty acids, polyunsaturated 
+fatty acids, fibre, fruit and vegetables, and red and 
+processed meat. We added a table showing the rationale 
+for selection of each covariate and information on how 
+they were collected and measured (supplementary 
+method 4). Analyses by specific artificial sweeteners 
+(aspartame, acesulfame potassium, and sucralose) 
+were additionally adjusted for other artificial 
+sweetener intakes. Multiple imputation by chained 
+equations
+66 was applied to handle any missing values 
+for covariates (15 imputed datasets; supplementary 
+method 5). Cox proportional hazard assumption was 
+verified using the rescaled Schoenfeld type residual 
+method (supplementary fig 3). Competing risks were 
+accounted for in all analyses using cause specific Cox 
+models,
+67 with death considered a competing risk for 
+CVDs, coronary heart diseases, and cerebrovascular 
+diseases. Additionally, cerebrovascular events were 
+considered competing risks for coronary heart diseases 
+and vice versa. Supplementary table 3 presents results 
+from competing events. Cumulative incidence graphs 
+were also plotted using the Fine and Gray model 
+(presented in supplementary fig 4).
+Associations were computed separately for each 
+type of cerebrovascular or coronary disease event: 
+myocardial infarction, acute coronary syndrome, 
+angioplasty, angina pectoris, stroke and transient 
+ischaemic event (supplementary table 4), and for 
+all CVDs except transient ischaemic events. We also 
+investigated associations between CVD risk and 
+artificial sweeteners from beverages and from solid 
+food (supplementary table 5). Substitution analyses 
+were performed by entering added sugars and 
+artificial sweeteners into the model. Hazard ratios and 
+95% confidence intervals for substituting artificial 
+sweeteners for added sugars were estimated using the 
+difference in coefficients obtained from this model. 
+Supplementary method 6 presents these analyses. 
+Formal interactions between body mass index (<25 
+or ≥25) and artificial sweeteners were tested for each 
+outcome by entering the product of the two variables 
+into Cox models.
+We performed a sensitivity analysis in which we 
+doubled the requested minimal number of 24 h dietary 
+records (excluding participants with less than four 
+records; supplementary table 6). Additionally, we 
+computed models with artificial sweetener intakes 
+coded as time dependent variables across the whole 
+follow-up period (supplementary table 6). Other 
+sensitivity analyses were also performed, with further 
+adjustments for prevalent dyslipidaemia, for healthy 
+and western dietary patterns (derived by principal 
+components analysis) instead of food groups, added 
+sugar intakes instead of sugar, proportion of ultra-
+processed foods in the diet, weight loss or calorie 
+restricted diet, weight variation during follow-up, 
+number of 24 h dietary records, body mass index, 
+and social desirability score
+68; and analyses without 
+excluding prevalent diabetes (details presented in 
+supplementary table 6). All tests were two sided, and 
+P<0.05 was considered statistically significant. We 
+used the statistical analysis software SAS, version 9.4 
+for analyses.
+Patient and public involvement
+The research question developed in this article 
+corresponds to a concern expressed by some 
+participants involved in the NutriNet-Santé cohort, and 
+by the public in general. Participants in the study are 
+thanked in the Acknowledgments section.
+resul ts
+Descriptive characteristics
+Overall, 103  388 par ticipants were selected from 
+the NutriNet-Santé cohort. Mean age at baseline 
+was 42.2 years (standard deviation 14.4), 79.8% 
+were women, and the mean number of 24 h dietary 
+records during the first two years of follow-up was 
+5.6 (standard deviation 3.1). Supplementary figure 5 
+shows the distribution of the number of 24 h dietary 
+records per person. Among the overall cohort, 0.94% 
+(n=1639) participants have died since their inclusion 
+(981 in the present population study) and 9.4% 
+(n=16  306) dropped out because they did not want 
+to receive any more questionnaires. A total of 37.1% 
+of participants consumed artificial sweeteners. The 
+average intake of artificial sweeteners was 15.76 mg/
+day among all participants and 42.46 mg/day among 
+consumers only, which corresponds to approximately 
+one individual packet of table top sweetener or 100 mL 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+6 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+of diet soda. 69 70  Among participants who consumed 
+artificial sweeteners, mean intakes for lower and 
+higher consumer categories were 7.46 and 77.62 mg/
+day, respectively. Compared with non-consumers, 
+higher consumers (unadjusted comparisons) tended 
+to be younger, have a higher body mass index, were 
+more likely to smoke, be less physically active, and 
+to follow a weight loss diet; they had lower total 
+energy intake, and lower alcohol, lipid (saturated 
+and polyunsaturated), fibre, carbohydrate, fruit and 
+vegetable intakes, and higher intakes of sodium, red 
+and processed meat, dairy products, and beverages 
+with no added sugar (table 1). Aspartame, acesulfame 
+potassium, and sucralose contributed to 58%, 
+29%, and 10% of total artificial sweetener intakes, 
+respectively (fig 1). Soft drinks with no added sugar 
+accounted for 53% of artificial sweeteners; table top 
+sweeteners were also an important vector (30%), as 
+well as artificially sweetened flavoured dairy products 
+(eg, yoghurts, cottage cheese, 8%; fig 2). As shown 
+in supplementary figure 6, food group contributions 
+varied for each artificial sweetener; for example, table 
+top sweeteners contributed to 48% of aspartame 
+intake, followed by soft drinks with no added sugar 
+(41%), whereas acesulfame potassium and sucralose 
+were both mainly provided by the consumption of 
+soft drinks with no added sugar (76% and 78%, 
+respectively). Participants who consumed artificial 
+sweeteners tended to consume more than one type of 
+the main artificial sweeteners, and 7.23% of the total 
+participants consumed all three of the main types 
+(supplementary fig 7).
+associations between artificial sweetener intakes 
+and
+ cardiovascular diseases
+During follow-up (904  206 person years; median 
+follow-up duration 9.0 years, interquartile range 7.5-
+10.1 years), 1502 incident cardiovascular events 
+occurred, among which there were 730 coronary heart 
+disease events (143 myocardial infarction, 75 acute 
+coronary syndrome, 477 angioplasty, and 277 angina 
+pectoris events) and 777 cerebrovascular disease 
+events (203 strokes and 598 transient ischaemic 
+events). Mean age at CVD event was 62.7 years 
+(standard deviation 12.9). The RCS analyses suggested 
+a log shaped association (increased risk followed by 
+a plateau; P for non-linearity=0.067, 0.494, 0.016, 
+and 0.021 for total artificial sweetener, aspartame, 
+acesulfame potassium, and sucralose, respectively, for 
+the overall CVD model; supplementary fig 2).
+Total artificial sweetener intake was associated 
+with increased risk of CVD (hazard ratio 1.09, 95% 
+confidence interval 1.01 to 1.18, P=0.03; table 2); 
+absolute incidence rate in higher consumers (above 
+the sex specific median) was 346 per 100
+ 000 per
+son 
+years, and in non-consumers it was 314 per 100
+ 000 
+per
+son years. Artificial sweeteners were more 
+particularly associated with cerebrovascular disease 
+risk (1.18, 1.06 to 1.31, P=0.002; incidence rates 
+195 and 150). Aspartame intake was associated with 
+increased risk of cerebrovascular events (1.17, 1.03 
+to 1.33, P=0.02; incidence rates 186 and 151), and 
+acesulfame potassium and sucralose were associated 
+with increased coronary heart disease risk (acesulfame 
+potassium: 1.40, 1.06 to 1.84, P=0.02; incidence 
+rates 167 and 164; sucralose: 1.31, 1.00 to 1.71, 
+P=0.05; incidence rates 271 and 161). Results were 
+similar when artificial sweetener intakes were coded 
+as time dependent variables (supplementary table 6). 
+For each type of cerebrovascular disease or coronary 
+heart disease, direct associations were observed 
+Aspartame (E951)
+  57.9%
+Acesulfame
+potassium
+(E950) 
+ 29.2%
+Sucralose (E955)  10.1%
+Others*  2.8%
+Fig 1 | rel ative contribution of each specific artificial sweetener to the total intake 
+of artificial sweeteners (%), 
+n
+utri
+n
+et-s
+anté cohort, France, 2009-21 (n=103
+ 388).
+ 
+*
+cy
+clamates (
+e
+952), saccharin (
+e
+954), thaumatin (
+e
+957), neohesperidine 
+dihydrochalcone (
+e
+959), steviol glycoside (
+e
+960), aspartame-acesulfame salt (
+e
+962)
+So/uniF603 drinks with
+no added sugar
+  52.5%
+Table top
+sweeteners*
+30.2%
+Arti/fi.g0330cially sweetened
+yoghurts and cottage
+cheese
+8.2%
+Others†   
+5.8%
+So/uniF603 drinks with both
+added sugar and
+arti/fi.g0330cial sweeteners
+3.4%
+Fig 2 | rel ative contribution of each food group to the total intake of artificial 
+sweeteners (%), 
+n
+utri
+n
+et-s
+anté cohort, France, 2009-21 (n=103
+ 388). *
+used
+ as tablets, 
+liquid, or powder, added by the participants in yoghurts, hot drinks and so on, or 
+for cooking. †High protein food substitutes, sugary foods, cookies, biscuits, cakes, 
+pastries, breakfast cereals, sauces, savoury foods, ultra-processed fish products
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  7
+between sucralose and risk of angioplasties (n=477; 
+1.60, 1.17 to 2.21, P=0.004) and between total 
+artificial sweeteners and transient ischaemic events 
+(n=598; 1.18, 1.05 to 1.33, P=0.006). For artificial 
+sweeteners from beverages or solid food, associations 
+were statistically significant between sweeteners 
+from beverages and CVD risk (P=0.02) and between 
+aspartame from beverages and coronary heart disease 
+risk (P=0.03). Associations were borderline between 
+acesulfame potassium and sucralose from beverages 
+and coronary heart diseases (P=0.06 and P=0.08, 
+respectively), and between aspartame, acesulfame 
+potassium, and sucralose from solid food sources 
+and cerebrovascular diseases (P=0.006, P=0.01, 
+and P=0.002, respectively; supplementary table 5). 
+Substitution analyses did not suggest a benefit for 
+substituting artificial sweeteners for added sugars for 
+CVD risk (hazard ratio 1.00, 95% confidence interval 
+0.99 to 1.01, P=0.28), cerebrovascular disease risk 
+(1.00, 0.99 to 1.01, P=0.89), or coronary heart disease 
+risk (1.00, 0.99 to 1.01, P=0.13; supplementary 
+method 6). The results were stable across all sensitivity 
+analyses tested (supplementary table 6). The artificial 
+sweetener by body mass index variable was not 
+statistically significant for overall cardiovascular 
+disease, coronary heart disease, and cerebrovascular 
+disease (all P>0.05), suggesting no interaction on the 
+multiplicative scale.
+discussion
+Princ
+ipal findings
+In the NutriNet-Santé cohort, total artificial sweetener 
+intake was associated with increased risk of overall 
+CVD and cerebrovascular disease. Aspartame intake 
+was associated with increased risk of cerebrovascular 
+events, and acesulfame potassium and sucralose 
+were associated with increased coronary heart 
+disease risk. Our results suggest no benefit from 
+substituting artificial sweeteners for added sugar on 
+CVD outcomes.
+strengths and limitations of this study
+This study was based on a large sample size 
+(n=103
+ 388) and pr
+ospectively investigated the 
+associations between artificial sweetener intake 
+from all dietary sources and CVD risk. There is no 
+perfect measure of dietary consumption, therefore 
+classification bias cannot be ruled out. However, 
+the assessment of artificial sweetener consumption 
+performed in this study was a comprehensive 
+assessment at the individual level in a large scale 
+population based cohort. The NutriNet-Santé study 
+is an epidemiological cohort with precise and high 
+quality dietary data. Dietary records have previously 
+been validated by interviews with a trained dietitian
+33 
+and against blood and urinary biomarkers for 
+energy and nutrient intakes.
+34 35  Epidemiological 
+studies worldwide generally use food frequency 
+questionnaires (known to be less precise than repeated 
+24 h dietary records
+71) or a limited number of records 
+or recalls at baseline.
+The main vectors of artificial sweeteners are products 
+that are generally consumed on a regular basis as part 
+of daily dietary habits, including artificially sweetened 
+beverages, table top sweeteners, and dairy products. 
+Occasional artificial sweetener consumption is not 
+likely to have a strong impact on CVD risk, and so 
+even if some consumption might have been missed, it 
+would probably have had a low impact on the study 
+results. If there was a classification bias, it was non-
+differential due to the prospective design. Additionally, 
+a sensitivity analysis was performed in the subgroup 
+of participants with at least four records (mean 7.8, 
+standard deviation 2.4, n=57
+ 668), w
+hich doubled 
+the minimal number of 24 h dietary records needed to 
+be included in the analysis, and the results remained 
+similar. Twenty four hour dietary recording days were 
+decided in advance, which might have influenced the 
+behaviour of participants on these days; however, 
+adjustment for social desirability bias did not modify 
+the findings, and the comprehensive recording 
+enabled memory bias to be limited. In contrast to 
+previous observational studies, artificially sweetened 
+beverages were not used as a proxy to estimate 
+artificial sweetener intakes. Detailed information on 
+the brands of food or beverage consumed are collected 
+as part of the NutriNet-Santé study. The dynamic date-
+to-date matching performed between the interactive 
+web based 24 h dietary records and specific ingredient 
+lists allowed the additive composition of industrial 
+products to be identified, accounting for potential 
+reformulations.
+51
+Some limitations should be discussed. Residual 
+confounding cannot be totally excluded and no causal 
+relation can be established with results from a unique 
+observational study. However, models were adjusted 
+for a wide range of potential sociodemographic, 
+anthropometric, dietary, and lifestyle confounders. 
+Further adjustment for the proportion of ultra-
+processed food in the diet was conducted, ensuring 
+that the associations observed were not entirely driven 
+by following an ultra-processed diet in general.
+72 
+Additionally, reverse causality could lead to higher 
+artificially sweetened food and beverage consumption 
+among participants who were overweight or obese, and 
+already had poorer cardiovascular health at baseline 
+before CVD diagnosis.
+73 74 However, this factor probably 
+does not entirely explain the observed associations 
+because we excluded CVD events occurring during the 
+first two years of follow-up and we also tested models 
+adjusted for baseline body mass index, weight loss 
+diet, and weight change during follow-up, which did 
+not substantially change the results.
+Caution is needed to generalise these results to 
+the whole French population. As generally observed 
+in volunteer based cohorts, participants from the 
+NutriNet-Santé study were more often women, with 
+higher educational and socio-professional levels, and 
+they were more likely to have a health conscious lifestyle 
+and good dietary behaviours.
+75 Therefore, artificial 
+sweetener intake among NutriNet-Santé participants 
+could be lower compared with French adults in general. 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+8 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+Mean intakes of aspartame and acesulfame potassium 
+for consumers in the cohort were 0.49 and 0.22 mg/
+kg body weight/day, respectively versus 1.29 and 0.73 
+mg/kg body weight/day, respectively estimated in the 
+French population.
+76 These intakes suggest that the 
+associations found in our study between artificial 
+sweetener consumption and risk of CVD might be 
+underestimated. However, our assessment was more 
+accurate than the one previously performed for the 
+general French population,
+76 which was based on 
+three days of dietary records by participants at most, 
+and brand specific composition was not accounted for.
+The order of magnitude obtained for the associations 
+in this study is in line with the one traditionally 
+observed in nutritional epidemiology studies for 
+commonly consumed dietary factors,
+72 77 78  and with 
+the findings of WHO in its recent report, 8 which was 
+based on meta-analyses of prospective cohort studies 
+investigating intake of beverages containing artificial 
+sweeteners.
+25-32 Furthermore, in terms of public health 
+perspectives, the opportunity of preventing even a 
+moderate proportion of CVD events through reduced 
+artificial sweetener intake is of high interest given the 
+extensive use of these substances in products on the 
+global market. Associations were consistent across the 
+many sensitivity analyses we performed; they were also 
+consistent with previous epidemiological literature on 
+proxies of sweetener intakes (eg, artificially sweetened 
+beverages) and in line with mechanistic insights 
+from experimental studies. All observed associations 
+between sweetener intakes and CVD events went in 
+the same (positive) direction, which is not in favour of 
+random findings observed by chance.
+The two complementary methods (self-reporting 
+and medico-administrative databases) ensured 
+good identification of CVD outcomes. However, the 
+possibility of missing some events cannot be entirely 
+ruled out. Additionally, despite efforts to identify 
+transient ischaemic attacks as objectively as possible 
+(based on medical or hospital reports, if possible 
+a specialised neurological diagnosis, computed 
+tomography or magnetic resonance imaging scan, or 
+symptoms precisely described by the participant or 
+a person close to them), these CVD events could not 
+be diagnosed with the same certainty as for strokes 
+or myocardial infarctions because they generally 
+do not reveal sequelae on brain imaging. Finally, 
+limited statistical power might have prevented us 
+from detecting some associations for specific CVD 
+pathologies.
+comp arison with other studies
+Observational prospective studies on the associations 
+between artificial sweeteners, assessed from the 
+whole  diet (in mg/day), and CVD risk are lacking; 
+therefore, no direct comparison was possible. 
+However, several studies have been conducted
+25-34 and 
+meta-analysed8 22 35 36 73 79  using artificially sweetened 
+beverage consumption as a proxy (in mL or serving/
+day) and CVD risk. In line with recent results from 
+the NutriNet-Santé study,
+28 multiple cohorts found 
+associations between artificially sweetened beverages 
+and CVD. Higher artificially sweetened beverage 
+consumption was associated with increased risks of 
+stroke and cardiovascular events in the Women’s Health 
+Initiative,
+26 29  which is consistent with prospective 
+investigations from the Nurses’ Health Study, the 
+Health Professional Follow-up Study (HPFS),
+25 30  the 
+Framingham Offspring cohort, 31 and the Northern 
+Manhattan Study.27 Similarly, meta-analyses reported 
+increased risks of stroke, vascular events, coronary 
+heart diseases, CVDs, and CVD mortality.
+35 36 73 79  
+Consistent with our findings, no association was 
+observed for coronary heart diseases in the HPFS.
+33 
+These studies mostly took place in the United States 35 
+and have not been as extensively explored in European 
+populations. In line with our results, the recent 
+WHO meta-analyses
+8 reported positive associations 
+between the intake of beverages containing artificial 
+sweeteners and cardiovascular events overall (hazard 
+ratio 1.32, 95% confidence interval 1.17 to 1.50, three 
+prospective studies
+26-28) and more specifically for the 
+incidence of stroke (1.19, 1.09 to 1.29, five prospective 
+studies
+25 27 29 31 32 ), but not for coronary heart disease 
+(1.16, 0.97 to 1.39, four prospective studies27 29 33 80).
+Meta-analyses performed by Azad and colleagues 22 
+also suggested associations between high intake 
+of drinks with non-nutritive sweeteners and higher 
+risk of strokes
+25 and cardiovascular events, 26 27  but 
+no significant associations were found for coronary 
+heart diseases.
+33 80  However, other studies suggested 
+associations between artificially sweetened beverages 
+and stroke but also coronary heart diseases.
+29 
+Differences between results for coronary heart and 
+cerebrovascular diseases could be because these 
+pathologies have different causes and therefore, 
+although they might share common nutritional 
+determinants, others might play a different role in the 
+development of these diseases. Each type of artificial 
+sweetener might not have the same metabolic effect.
+14 
+For instance, after ingestion, acesulfame potassium is 
+absorbed from the small intestine and distributed to 
+the blood and tissues through the systemic circulation 
+and then excreted in urine. However, sucralose passes 
+through digestion and is almost entirely excreted 
+in the stools; only a small part is absorbed from the 
+gastrointestinal tract. The aspartame molecule is 
+broken down in different amino acids: aspartic acid 
+and phenylalanine are sent to the systemic circulation 
+while methanol is metabolised by the liver.
+14 Because 
+this study quantified the intake of each specific 
+sweetener and investigated the association with CVD 
+risk, overall and by type, future epidemiological 
+studies and experimental data will be needed to 
+further investigate a potential differential effect of 
+artificial sweeteners according to cerebrovascular or 
+coronary CVD types.
+Furthermore, according to WHO
+8 and as mentioned 
+in the systematic reviews by Toews and colleagues 
+and Zhang and colleagues,
+23 73 randomised controlled 
+trials investigating the long term effects of artificial 
+sweeteners on the risk of hard endpoints such as CVD 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  9
+are lacking. However, some have studied early markers 
+of cardiovascular health, such as weight variations, 
+hypertension, or blood glucose level.
+81 82  Most of 
+these studies were conducted among participants with 
+particular conditions (eg, people who were overweight 
+or those with prevalent hypertension)
+22 and were of 
+short duration (follow-up around six months), with a 
+level of evidence ranging from very low to moderate.
+23 83 
+Additionally, it should be noted that many studies 
+investigating the health effects of artificial sweeteners 
+are funded by the industry, notably several randomised 
+control trials included in reviews and meta-analyses. 
+Azad and colleagues reported that industry sponsored 
+randomised controlled trials suggest greater weight 
+loss results compared with studies not financed by 
+industry.
+22 For instance, a systematic review has 
+specifically studied the issue of conflict of interest in 
+this field
+84 and revealed that reviews sponsored by 
+the artificial sweetener industry were more inclined 
+to show beneficial weight loss effects. Therefore, no 
+firm conclusion could be drawn from randomised 
+controlled trials about the cardiometabolic impact 
+of artificial sweeteners. However, several of these 
+randomised controlled trials observed increased 
+associations with several cardiometabolic outcomes, 
+suggesting mechanistic plausibility for an impact of 
+artificial sweeteners on cause of CVD.
+Mechanistic plausibility from experimental studies
+In some prospective cohort studies, associations have 
+been reported between artificially sweetened beverage 
+consumption and increased risk of obesity or weight 
+gain.
+8 22 85 86  Low calorie sweeteners (from beverages, 
+table top sweeteners, and foods) were associated 
+with obesity in the National Health and Nutrition 
+Examination Survey
+87 and abdominal obesity in the 
+Baltimore Longitudinal Study of Ageing. 88 A cross-
+sectional study also found that consumers of diet 
+soft drinks had greater waist circumference.
+89 In 
+the PREDIMED study (multicentre randomised trial) 
+there was a positive association between artificially 
+sweetened beverages and abdominal obesity.
+90 
+Therefore, part of the associations between artificial 
+sweeteners and CVD risk observed in our study might 
+be because of weight gain. However, the associations 
+observed here are probably not entirely driven by 
+increased body weight. The impact of artificial 
+sweeteners on weight gain is debated.
+8 9 22 23  Some 
+randomised controlled trials found no effect on body 
+weight when replacing sugar sweetened beverages 
+with artificially sweetened versions,
+91 and others 
+suggested decreased body weight, body mass index, 
+fat mass, and waist circumference.
+83 85  Adjustment 
+for baseline body mass index and weight gain during 
+follow-up did not modify the findings.
+Other underlying mechanisms could be causally 
+involved.
+92 93  Meta-analyses suggest associations 
+between artificially sweetened beverages and 
+metabolic syndrome,
+94 95 a cardiometabolic risk factor 
+defined by dyslipidaemia, abdominal obesity, high 
+blood glucose, insulin resistance, and hypertension.
+96 
+Artificially sweetened beverages were associated with 
+increased risk of metabolic syndrome
+89 90 97 in a cohort 
+study,97 a cross-sectional study, 89 and a multicentre 
+randomised trial. 90 More specifically, associations 
+were observed with increased hypertension,8 98 99 type 
+2 diabetes,8 87 100 and hypertriglyceridemia.8 90 Another 
+potential pathway could involve the interaction 
+of artificial sweeteners with intestinal sweet taste 
+receptors,
+92 which play a part in insulin secretion 
+and glucose absorption. Experimental studies (rodent 
+models) suggest that glucose and energy homoeostasis 
+could be altered by artificial sweeteners.
+11 101  
+Ingestion of sugar by animals accustomed to artificial 
+sweeteners could lead to low glucagon like peptide 1 
+levels (which normally stimulate insulin secretion) 
+and induce hyperglycaemia,
+101 which could also be 
+observed in humans. 92 Additionally, the alteration 
+of gut microbiota by some artificial sweeteners 
+could increase glucose intolerance,
+17 but the results 
+remain conflicting. 20 Vascular dysfunction, which 
+contributes to CVD onset and development, after the 
+ingestion of artificial sweeteners, has been observed 
+in experimental studies (rodent models)
+15 and in vitro 
+(human cellular model), 16 and could also play a part 
+in the risk of CVD. Finally, Basson and colleagues 14 
+suggest that artificial sweetener consumption might be 
+associated with increased inflammation, a risk factor 
+for CVD.
+96
+Policy implications and conclusions
+In conclusion, these findings suggest that higher 
+artificial sweetener consumption might be associated 
+with increased risk of CVDs. Further well designed, 
+large scale prospective studies need to confirm these 
+results and experimental studies should be conducted 
+to clarify biological pathways. In the meantime, this 
+study provides key insights into the context of artificial 
+sweetener re-evaluation by the EFSA, WHO, and other 
+health agencies worldwide. Our results indicate that 
+these food additives, consumed daily by millions 
+of people and present in thousands of foods and 
+beverages, should not be considered a healthy and safe 
+alternative to sugar, in line with the current position of 
+several health agencies.
+23 102
+aut HO r a FF iliati O ns
+1Sorbonne Paris Nord University, INSERM U1153, INRAE 
+U1125, CNAM, Nutritional Epidemiology Research Team (EREN), 
+Epidemiology and Statistics Research Centre, University of Paris 
+(CRESS), Bobigny, France
+2French network for Nutrition and Cancer Research (NACRe 
+network), Jouy-en-Josas, France
+3Université de Paris, CRESS UMR1153, INSERM, INRA, Paris, France
+4Centre d’Épidémiologie Clinique, AP-HP , Hôtel-Dieu, Paris, France
+5Public Health Department, Avicenne Hospital, AP-HP , Bobigny, 
+France
+6International Agency for Research on Cancer, World Health 
+Organization, Lyon, France
+We thank Thi Hong Van Duong, Régis Gatibelza, Jagatjit Mohinder, 
+Aladi Timera, Rizvane Mougamadou (computer scientists), Julien 
+Allegre, Nathalie Arnault, Laurent Bourhis, Nicolas Dechamp (data 
+manager/statisticians), Merveille Kouam (health event validator), and 
+Maria Gomes (Nutrinaute support) for their technical contribution to 
+the NutriNet-Santé study. We sincerely thank all the volunteers of the 
+NutriNet-Santé cohort.
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+10 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+Contributors: CD, EC, MDT, BS, MT: designed the study; EC, NDP , YE, 
+FSdE, CA, ADS, RL, SH: developed the additives composition database 
+and matched consumption/composition data; CA: coordinated 
+dietitian work; FSdE: data management work; NDP , YE: global 
+technical work; NDP , YE, EC, MT: supervised this technical work; CD: 
+performed statistical analysis; EC, MDT, BS, MT: supervised statistical 
+analysis; CD: drafted the manuscript; MT: supervised the writing. All 
+authors contributed to the data interpretation and revised each draft 
+for important intellectual content. All authors read and approved 
+the final manuscript. CD and MT had full access to all the data in the 
+study, MT takes responsibility for the integrity of the data and the 
+accuracy of the data analysis; she is the guarantor. The corresponding 
+author attests that all listed authors meet authorship criteria and that 
+no others meeting the criteria have been omitted.
+Funding: The NutriNet-Santé study was supported by the following 
+public institutions: Ministère de la Santé, Santé Publique France, 
+Institut National de la Santé et de la Recherche Médicale (INSERM), 
+Institut national de recherche pour l’agriculture, l’alimentation et 
+l’environnement (INRAE), Conservatoire National des Arts et Métiers 
+(CNAM) and Université Sorbonne Paris Nord. CD was supported by a 
+grant from the French National Cancer Institute (INCa, grant No 2019-
+158). EC was supported by a doctoral fellowship from Université 
+Sorbonne Paris Nord to Galilée Doctoral School. This project has 
+received funding from the European Research Council (ERC) under the 
+European Union’s Horizon 2020 research and innovation program 
+(consolidator grant agreement No 864219), the French National 
+Cancer Institute (INCa_14059), the French Ministry of Health (arrêté 
+29.11.19) and the IdEx Université Paris Cité (ANR-18-IDEX-0001). 
+This project was awarded the NACRe (French network for Nutrition and 
+Cancer Research) Partnership Label and was awarded the Bettencourt 
+Schueller foundation prize Coup d’élan pour la recherche française 
+2021. Researchers were independent from funders. The funders 
+had no role in considering the study design or in the collection, 
+analysis, interpretation of data, writing of the report, or decision to 
+submit the article for publication. Where authors are identified as 
+personnel of the International Agency for Research on Cancer/World 
+Health Organization, the authors alone are responsible for the views 
+expressed in this article and they do not necessarily represent the 
+decisions, policy or views of the International Agency for Research on 
+Cancer/World Health Organization.
+Competing interests: All authors have completed the ICMJE uniform 
+disclosure form at www.icmje.org/disclosure-of-interest/ and 
+declare: support from Ministère de la Santé, Santé Publique France, 
+Institut National de la Santé et de la Recherche Médicale (INSERM), 
+Institut national de recherche pour l’agriculture, l’alimentation et 
+l’environnement (INRAE), Conservatoire National des Arts et Métiers 
+(CNAM) and Université Sorbonne Paris Nord, European Research 
+Council, the French National Cancer Institute, the French Ministry of 
+Health, and the IdEx Université Paris Cité for the submitted work; 
+no financial relationships with any organizations that might have an 
+interest in the submitted work in the previous three years; no other 
+relationships or activities that could appear to have influenced the 
+submitted work.
+Ethical approval: Electronic informed consent is provided by each 
+person included in the NutriNet-Santé cohort. The study is registered 
+at https:/ /clinicaltrials.gov/ct2/show/NCT03335644, conducted 
+according to the Declaration of Helsinki guidelines and approved by 
+the Institutional Review Board of the French Institute for Health and 
+Medical Research (IRB-Inserm) and the Commission Nationale de 
+l’Informatique et des Libertés (CNIL No 908450/909216).
+Data sharing: Researchers from public institutions can submit a 
+collaboration request including information on the institution and a 
+brief description of the project to collaboration@etude-nutrinet-sante.
+fr. All requests will be reviewed by the steering committee of the 
+NutriNet-Santé study. If the collaboration is accepted, a data access 
+agreement will be necessary and appropriate authorisations from the 
+competent administrative authorities might be needed. In accordance 
+with existing regulations, no personal data will be accessible.
+The lead author affirms that the manuscript is an honest, accurate, 
+and transparent account of the study being reported; that no 
+important aspects of the study have been omitted; and that any 
+discrepancies from the study as planned have been explained.
+Dissemination to participants and related patient and public 
+communities: The results of the present study will be disseminated 
+to the NutriNet-Santé participants through the cohort website, 
+where lay summaries of all publications are posted (https:/ /etude-
+nutrinet-sante.fr/link/zone/43-Publications). Additionally, results 
+will be disseminated in public seminars and by a press release from 
+the Journal or the French Medical Institute for Health and Medical 
+Research, in association with Inrae, Cnam and Sorbonne Paris Nord 
+communication and direction boards. This press release will be posted 
+on their website and sent to their journalist contact book in France, 
+Europe, and abroad (translated in English) as well as through their 
+social medias Facebook and Twitter.
+Provenance and peer review: Provenance and peer review: Not 
+commissioned; externally peer reviewed.
+This is an Open Access article distributed in accordance with the 
+Creative Commons Attribution Non Commercial (CC BY-NC 4.0) license, 
+which permits others to distribute, remix, adapt, build upon this work 
+non-commercially, and license their derivative works on different 
+terms, provided the original work is properly cited and the use is non-
+commercial. See: http:/ /creativecommons.org/licenses/by-nc/4.0/.
+1  Jan zi S, Ramne S, González-Padilla E, Johnson L, Sonestedt 
+E. Associations between added sugar intake and risk of four 
+different cardiovascular diseases in a Swedish population-based 
+prospective cohort study. Front Nutr 2020;7:603653. doi:10.3389/
+fnut.2020.603653 
+2 
+ Kh
+an TA, Tayyiba M, Agarwal A, et al. Relation of total sugars, sucrose, 
+fructose, and added sugars with the risk of cardiovascular disease: a 
+systematic review and dose-response meta-analysis of prospective 
+cohort studies. Mayo Clin Proc 2019;94:2399-414. doi:10.1016/j.
+mayocp.2019.05.034 
+3 
+ WHO
+. Guideline: Sugars intake for adult and children. Geneva: 
+World Health Organization; 2015. http:/ /public.eblib.com/choice/
+publicfullrecord.aspx?p=2033879
+4 
+ B
+achmanov AA, Bosak NP , Floriano WB, et al. Genetics of sweet taste 
+preferences. Flavour Fragr J 2011;26:286-94. doi:10.1002/ffj.2074 
+5 
+ M
+arket Data Forecast. Global artificial sweetener market by type 
+(aspartame, acesulfame-K, monosodium glutamate, saccharin, and 
+sodium benzoate), by application (bakery items, dairy products, 
+confectionery, beverages, and other), by distribution channel 
+(supermarkets & hypermarkets, departmental stores, convenience 
+stores, and others) and by regional analysis (North America, Europe, 
+Asia Pacific, Latin America, and Middle East & Africa) - global industry 
+analysis, size, share, growth, trends, and forecast (2022-2027). 
+2022. https:/ /www.marketdataforecast.com/
+6 
+ Open F
+ood Facts 2020. https:/ /world.openfoodfacts.org/discover
+7 
+ E
+uropean Food Safety Authority (EFSA). Outcome of the public 
+consultation on a draft protocol for assessing exposure to 
+sweeteners as part of their safety assessment under the 
+food additives re-evaluation programme. EFSA Supporting 
+Publications. 2020;17:1913E.
+8 
+ Rio
+s-Leyvraz M, Montez J. Health effects of the use of non-sugar 
+sweeteners: a systematic review and meta-analysis. Geneva: World 
+Health Organization; 2022. https:/ /www.who.int/publications/i/
+item/9789240046429
+9 
+ P
+ang MD, Goossens GH, Blaak EE. The impact of artificial 
+sweeteners on body weight control and glucose homeostasis. Front 
+Nutr 2021;7:598340. https:/ /www.ncbi.nlm.nih.gov/pmc/articles/
+PMC7817779/. doi:10.3389/fnut.2020.598340 
+10 
+ Peter
+s JC, Beck J, Cardel M, et al. The effects of water and non-
+nutritive sweetened beverages on weight loss and weight 
+maintenance: a randomized clinical trial. Obesity (Silver 
+Spring) 2016;24:297-304. doi:10.1002/oby.21327 
+11 
+ Da
+vidson TL, Martin AA, Clark K, Swithers SE. Intake of high-intensity 
+sweeteners alters the ability of sweet taste to signal caloric 
+consequences: implications for the learned control of energy and 
+body weight regulation. Q J Exp Psychol (Hove) 2011;64:1430-41. 
+doi:10.1080/17470218.2011.552729 
+12 
+ Feij
+ó FM, Ballard CR, Foletto KC, et al. Saccharin and aspartame, 
+compared with sucrose, induce greater weight gain in adult Wistar 
+rats, at similar total caloric intake levels. Appetite 2013;60:203-7. 
+doi:10.1016/j.appet.2012.10.009 
+13 
+ Kim 
+Y, Je Y. Prospective association of sugar-sweetened and 
+artificially sweetened beverage intake with risk of hypertension. 
+Arch Cardiovasc Dis 2016;109:242-53. doi:10.1016/j.
+acvd.2015.10.005 
+14 
+ B
+asson AR, Rodriguez-Palacios A, Cominelli F. Artificial 
+sweeteners: history and new concepts on inflammation. Front 
+Nutr 2021;8:746247. doi:10.3389/fnut.2021.746247 
+15 
+ Ri
+sdon S, Meyer G, Marziou A, Riva C, Roustit M, Walther G. Artificial 
+sweeteners impair endothelial vascular reactivity: preliminary 
+results in rodents. Nutr Metab Cardiovasc Dis 2020;30:843-6. 
+doi:10.1016/j.numecd.2020.01.014 
+16 
+ Jan
+g W, Jeoung NH, Cho KH. Modified apolipoprotein (apo) A-I by 
+artificial sweetener causes severe premature cellular senescence 
+and atherosclerosis with impairment of functional and structural 
+properties of apoA-I in lipid-free and lipid-bound state. Mol 
+Cells 2011;31:461-70. doi:10.1007/s10059-011-1009-3 
+17 
+ S
+uez J, Korem T, Zeevi D, et al. Artificial sweeteners induce glucose 
+intolerance by altering the gut microbiota. Nature 2014;514:181-6. 
+doi:10.1038/nature13793 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+the bmj |  BMJ 2022;378:e071204 | doi: 10.1136/bmj-2022-071204  11
+18  S uez J, Korem T, Zilberman-Schapira G, Segal E, Elinav E. Non-caloric 
+artificial sweeteners and the microbiome: findings and challenges. Gut 
+Microbes 2015;6:149-55. doi:10.1080/19490976.2015.1017700 
+19 
+ R
+uiz-Ojeda FJ, Plaza-Díaz J, Sáez-Lara MJ, Gil A. Effects of sweeteners 
+on the gut microbiota: a review of experimental studies and clinical 
+trials. Adv Nutr 2019;10(suppl_1):S31-48. doi:10.1093/advances/
+nmy037 
+20 
+ Pl
+aza-Diaz J, Pastor-Villaescusa B, Rueda-Robles A, Abadia-Molina 
+F, Ruiz-Ojeda FJ. Plausible biological interactions of low- and non-
+calorie sweeteners with the intestinal microbiota: an update of recent 
+studies. Nutrients 2020;12:1153. doi:10.3390/nu12041153 
+21 
+ Bru
+yère O, Serge AH, Catherine A, et al. Review of the nutritional 
+benefits and risks related to intense sweeteners. Arch Public 
+Health 2015;73:41. doi:10.1186/s13690-015-0092-x 
+22 
+ A
+zad MB, Abou-Setta AM, Chauhan BF, et al. Nonnutritive sweeteners 
+and cardiometabolic health: a systematic review and meta-analysis 
+of randomized controlled trials and prospective cohort studies. 
+CMAJ 2017;189:E929-39. doi:10.1503/cmaj.161390 
+23 
+ T
+oews I, Lohner S, Küllenberg de Gaudry D, Sommer H, Meerpohl 
+JJ. Association between intake of non-sugar sweeteners and health 
+outcomes: systematic review and meta-analyses of randomised 
+and non-randomised controlled trials and observational studies. 
+BMJ 2019;364:k4718. doi:10.1136/bmj.k4718 
+24 
+ Jo
+seph P , Leong D, McKee M, et al. Reducing the global burden of 
+cardiovascular disease, part 1: the epidemiology and risk factors. Circ 
+Res 2017;121:677-94. doi:10.1161/CIRCRESAHA.117.308903 
+25 
+ Bern
+stein AM, de Koning L, Flint AJ, Rexrode KM, Willett WC. Soda 
+consumption and the risk of stroke in men and women. Am J Clin 
+Nutr 2012;95:1190-9. doi:10.3945/ajcn.111.030205 
+26 
+ V
+yas A, Rubenstein L, Robinson J, et al. Diet drink consumption and 
+the risk of cardiovascular events: a report from the Women’s Health 
+Initiative. J Gen Intern Med 2015;30:462-8. doi:10.1007/s11606-
+014-3098-0 
+27 
+ G
+ardener H, Rundek T, Markert M, Wright CB, Elkind MSV, Sacco RL. 
+Diet soft drink consumption is associated with an increased risk 
+of vascular events in the Northern Manhattan Study. J Gen Intern 
+Med 2012;27:1120-6. doi:10.1007/s11606-011-1968-2 
+28 
+ C
+hazelas E, Debras C, Srour B, et al. Sugary drinks, artificially-
+sweetened beverages, and cardiovascular disease in the NutriNet-
+Santé Cohort. J Am Coll Cardiol 2020;76:2175-7. doi:10.1016/j.
+jacc.2020.08.075 
+29 
+ Mo
+ssavar-Rahmani Y, Kamensky V, Manson JE, et al. Artificially 
+sweetened beverages and stroke, coronary heart disease, 
+and all-cause mortality in the Women’s Health Initiative. 
+Stroke 2019;50:555-62. doi:10.1161/STROKEAHA.118.023100 
+30 
+ M
+alik VS, Li Y, Pan A, et al. Long-term consumption of sugar-
+sweetened and artificially sweetened beverages and risk of mortality 
+in US adults. Circulation 2019;139:2113-25. doi:10.1161/
+CIRCULATIONAHA.118.037401 
+31 
+ P
+ase MP , Himali JJ, Beiser AS, et al. Sugar- and artificially sweetened 
+beverages and the risks of incident stroke and dementia: a 
+prospective cohort study. Stroke 2017;48:1139-46. doi:10.1161/
+STROKEAHA.116.016027 
+32 
+ M
+ullee A, Romaguera D, Pearson-Stuttard J, et al. Association 
+between soft drink consumption and mortality in 10 European 
+countries. JAMA Intern Med 2019;179:1479-90. doi:10.1001/
+jamainternmed.2019.2478 
+33 
+ d
+e Koning L, Malik VS, Kellogg MD, Rimm EB, Willett WC, Hu FB. 
+Sweetened beverage consumption, incident coronary heart disease, 
+and biomarkers of risk in men. Circulation 2012;125:1735-41.
+34 
+ Hin
+kle SN, Rawal S, Bjerregaard AA, et al. A prospective study of 
+artificially sweetened beverage intake and cardiometabolic health 
+among women at high risk. Am J Clin Nutr 2019;110:221-32. 
+doi:10.1093/ajcn/nqz094 
+35 
+ M
+eng Y, Li S, Khan J, et al. Sugar- and artificially sweetened beverages 
+consumption linked to type 2 diabetes, cardiovascular diseases, and 
+all-cause mortality: a systematic review and dose-response meta-
+analysis of prospective cohort studies. Nutrients 2021;13:2636. 
+doi:10.3390/nu13082636 
+36 
+ Yin J, 
+Zhu Y, Malik V, et al. Intake of sugar-sweetened and low-
+calorie sweetened beverages and risk of cardiovascular disease: a 
+meta-analysis and systematic review. Adv Nutr 2021;12:89-101. 
+doi:10.1093/advances/nmaa084 
+37 
+ Herc
+berg S, Castetbon K, Czernichow S, et al. The Nutrinet-Santé 
+Study: a web-based prospective study on the relationship 
+between nutrition and health and determinants of dietary 
+patterns and nutritional status. BMC Public Health 2010;10:242. 
+doi:10.1186/1471-2458-10-242 
+38 
+ La
+ssale C, Peneau S, Touvier M, Julia C, Galan P , Hercberg S, et al. 
+Validity of web-based self-reported weight and height: results of the 
+Nutrinet-Sante study. J Med Internet Res 2013;15:e152.
+39 
+ T
+ouvier M, Mejean C, Kesse-Guyot E, Pollet C, Malon A, Castetbon 
+K, et al. Comparison between web-based and paper versions 
+of a self-administered anthropometric questionnaire. Eur J 
+Epidemiol 2010;25:287-96.
+40 
+  Vergn aud AC, Touvier M, Mejean C, Kesse-Guyot E, Pollet C, Malon A, 
+et al. Agreement between web-based and paper versions of a socio-
+demographic questionnaire in the NutriNet-Sante study. Int J Public 
+Health 2011;56:407-17.
+41 
+ C
+raig CL, Marshall AL, Sjöström M, et al. International physical 
+activity questionnaire: 12-country reliability and validity. 
+Med Sci Sports Exerc 2003;35:1381-95. doi:10.1249/01.
+MSS.0000078924.61453.FB 
+42 
+ Ain
+sworth BE, Haskell WL, Herrmann SD, et al. 2011 Compendium 
+of physical activities: a second update of codes and MET 
+values. Med Sci Sports Exerc 2011;43:1575-81. doi:10.1249/
+MSS.0b013e31821ece12 
+43 
+ l
+e Moullec N, Deheeger M, Preziosi P , et al. Validation du Manuel-
+photos utilisé pour l’enquête alimentaire de l’étude SU.VI.MAX. Cah 
+Nutr Diét 1996;31:158-64.
+44 
+ Unité d
+e recherche en épidémiologie nutritionnelle (Bobigny). 
+Table de composition des aliments, Etude NutriNet-Santé. [Food 
+composition table, NutriNet-Santé study] (in French). Paris: Les 
+éditions INSERM/Economica; 2013.
+45 
+ T
+ouvier M, Kesse-Guyot E, Mejean C, Pollet C, Malon A, Castetbon 
+K, et al. Comparison between an interactive web-based self-
+administered 24 h dietary record and an interview by a dietitian for 
+large-scale epidemiological studies. Br J Nutr 2011;105:1055-64.
+46 
+ La
+ssale C, Castetbon K, Laporte F, Camilleri GM, Deschamps V, 
+Vernay M, et al. Validation of a Web-based, self-administered, non-
+consecutive-day dietary record tool against urinary biomarkers. Br J 
+Nutr 2015;113:953-62.
+47 
+ La
+ssale C, Castetbon K, Laporte F, Deschamps V, Vernay M, Camilleri 
+GM, et al. Correlations between fruit, vegetables, fish, vitamins, 
+and fatty acids estimated by web-based nonconsecutive dietary 
+records and respective biomarkers of nutritional status. J Acad Nutr 
+Diet 2016;116:427-38.
+48 
+ Bl
+ack AE. Critical evaluation of energy intake using the Goldberg 
+cut-off for energy intake:basal metabolic rate. A practical guide to 
+its calculation, use and limitations. Int J Obes Relat Metab Disord . 
+2000;24:1119-30.
+49 
+ Bl
+ack AE. The sensitivity and specificity of the Goldberg cut-off 
+for EI:BMR for identifying diet reports of poor validity. Eur J Clin 
+Nutr 2000;54:395-404. doi:10.1038/sj.ejcn.1600971 
+50 
+ Go
+ldberg GR, Black AE, Jebb SA, et al. Critical evaluation of energy 
+intake data using fundamental principles of energy physiology: 1. 
+Derivation of cut-off limits to identify under-recording. Eur J Clin 
+Nutr 1991;45:569-81.
+51 
+ C
+hazelas E, Druesne-Pecollo N, Esseddik Y, et al. Exposure to food 
+additive mixtures in 106,000 French adults from the NutriNet-Santé 
+cohort. Sci Rep 2021;11:19680. doi:10.1038/s41598-021-98496-
+6 
+52 
+ O
+bservatoire de l’alimentation (Oqali). OQALI - Home page. https:/ /
+www.oqali.fr/oqali_eng/
+53 
+ Glo
+bal New Products Database (GNPD). Banque de données 
+mondiale de nouveaux produits, suivi des tendances nouveaux 
+produits et innovations. 2022. https:/ /www.gnpd.com/sinatra/
+anonymous_frontpage/
+54 
+ F
+ood and Agriculture Organization/World Health Organization 
+(FAO/WHO). Codex General Standard for Food Additives (GSFA, 
+Codex STAN 192-1995). Codex Alimentarius Commission; 2019. 
+https:/ /www.fao.org/fao-who-codexalimentarius/sh-proxy/
+en/?lnk=1&url=https%253A%252F%252Fworkspace.fao.org%2
+52Fsites%252Fcodex%252FStandards%252FCODEX%2BSTAN%
+2B192-1995%252FCXS_192e.pdf
+55 
+ 
+WHO. ICD-10: International statistical classification of diseases and 
+related health problems. World Health Organization, 2011.
+56 
+ De
+squilbet L, Mariotti F. Dose-response analyses using 
+restricted cubic spline functions in public health research. Stat 
+Med 2010;29:1037-57. doi:10.1002/sim.3841 
+57 
+ R
+odgers JLR, Jones J, Bolleddu SI, et al. Cardiovascular risks 
+associated with gender and aging. journal of cardiovascular 
+development and disease. 2019;6:19.
+58 
+ W
+orld Health Organization. Global action plan for the prevention and 
+control of noncommunicable diseases 2013-2020. 2013;55.
+59 
+ K
+ubota Y, Heiss G, MacLehose RF, Roetker NS, Folsom AR. Association 
+of educational attainment with lifetime risk of cardiovascular 
+disease: the Atherosclerosis Risk in Communities Study. JAMA Intern 
+Med 2017;177:1165-72. doi:10.1001/jamainternmed.2017.1877 
+60 
+ Llo
+yd-Jones DM, Nam BH, D’Agostino RBSr, et al. Parental 
+cardiovascular disease as a risk factor for cardiovascular disease in 
+middle-aged adults: a prospective study of parents and offspring. 
+JAMA 2004;291:2204-11. doi:10.1001/jama.291.18.2204 
+61 
+ W
+illett WC, Howe GR, Kushi LH. Adjustment for total energy intake in 
+epidemiologic studies. Am J Clin Nutr 1997;65(Suppl):1220S-8S, 
+discussion 1229S-31S. doi:10.1093/ajcn/65.4.1220S 
+62 
+ Y
+ang Q, Zhang Z, Gregg EW, Flanders WD, Merritt R, Hu FB. Added 
+sugar intake and cardiovascular diseases mortality among US 
+adults. JAMA Intern Med 2014;174:516-24. doi:10.1001/
+jamainternmed.2013.13563 
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 
+
+RESEARCH
+12 d oi: 10.1136/bmj-2022-071204  |  BMJ 2022;378:e071204 | the bmj
+63  Gua sch-Ferré M, Babio N, Martínez-González MA, et al, PREDIMED 
+Study Investigators. Dietary fat intake and risk of cardiovascular 
+disease and all-cause mortality in a population at high risk of 
+cardiovascular disease. Am J Clin Nutr 2015;102:1563-73. 
+doi:10.3945/ajcn.115.116046 
+64 
+ Thre
+apleton DE, Greenwood DC, Evans CEL, Cleghorn CL, 
+Nykjaer C, Woodhead C, et al. Dietary fibre intake and risk of 
+cardiovascular disease: systematic review and meta-analysis. 
+BMJ 2013;347:f6879.
+65 
+ P
+apier K, Knuppel A, Syam N, Jebb SA, Key TJ. Meat consumption and 
+risk of ischemic heart disease: a systematic review and meta-analysis. 
+Crit Rev Food Sci Nutr 2021;0:1-12. doi:10.1080/10408398.2021.
+1949575 
+66 
+ Sterne JA
+C, White IR, Carlin JB, et al. Multiple imputation for missing 
+data in epidemiological and clinical research: potential and pitfalls. 
+BMJ 2009;338:b2393. doi:10.1136/bmj.b2393 
+67 
+ And
+ersen PK, Geskus RB, de Witte T, Putter H. Competing risks in 
+epidemiology: possibilities and pitfalls. Int J Epidemiol 2012;41:861-
+70. doi:10.1093/ije/dyr213 
+68 
+ T
+ournois J, Mesnil F, Kop JL. Autoduperie et héteroduperie: Un 
+instrument de mesure de la désirabilité sociale. [Self-deception 
+and other-deception: a social desirability questionnaire]. European 
+Review of Applied Psychology / Revue Européenne de Psychologie 
+Appliquée 2000;50:219-33.
+69 
+ F
+ranz M. Amounts of sweeteners in popular diet sodas. Diabetes Self-
+Management. 2010. https:/ /static.diabetesselfmanagement.com/
+pdfs/DSM0310_012.pdf
+70 
+ US
+ Food and Drug Administration. Additional information about 
+high-intensity sweeteners permitted for use in food in the United 
+States. 2018. https:/ /www.fda.gov/food/food-additives-petitions/
+additional-information-about-high-intensity-sweeteners-permitted-
+use-food-united-states
+71 
+ W
+illett WC. Nutritional Epidemiology. Vol. 2. Oxford University Press, 
+1998. doi:10.1093/acprof:oso/9780195122978.001.0001.
+72 
+ Sr
+our B, Fezeu LK, Kesse-Guyot E, et al. Ultra-processed food 
+intake and risk of cardiovascular disease: prospective cohort study 
+(NutriNet-Santé). BMJ 2019;365:l1451. doi:10.1136/bmj.l1451 
+73 
+ Z
+hang YB, Jiang YW, Chen JX, Xia PF, Pan A. Association of 
+consumption of sugar-sweetened beverages or artificially sweetened 
+beverages with mortality: a systematic review and dose–response 
+meta-analysis of prospective cohort studies. Adv Nutr. 2021. [https:/ /
+academic.oup.com/advances/advance-article/doi/10.1093/
+advances/nmaa110/5909627
+74 
+ Pereir
+a MA. Sugar-sweetened and artificially-sweetened beverages 
+in relation to obesity risk. Adv Nutr 2014;5:797-808. doi:10.3945/
+an.114.007062 
+75 
+ Andreev
+a VA, Salanave B, Castetbon K, Deschamps V, Vernay 
+M, Kesse-Guyot E, et al. Comparison of the sociodemographic 
+characteristics of the large NutriNet-Sante e-cohort with French 
+Census data: the issue of volunteer bias revisited. J Epidemiol 
+Community Health 2015;69:893-8. 
+76 
+ V
+in K, Connolly A, McCaffrey T, et al. Estimation of the dietary intake of 
+13 priority additives in France, Italy, the UK and Ireland as part of the 
+FACET project. Food Addit Contam Part A Chem Anal Control Expo Risk 
+Assess 2013;30:2050-80. doi:10.1080/19440049.2013.851417 
+77 
+ De
+bras C, Chazelas E, Srour B, et al. Artificial sweeteners and cancer 
+risk: results from the NutriNet-Santé population-based cohort study. 
+PLoS Med 2022;19:e1003950. doi:10.1371/journal.pmed.1003950 
+78 
+ Ho FK, Gr
+ay SR, Welsh P , et al. Associations of fat and carbohydrate 
+intake with cardiovascular disease and mortality: prospective 
+cohort study of UK Biobank participants. BMJ 2020;368:m688. 
+doi:10.1136/bmj.m688 
+79 
+ Nar
+ain A, Kwok CS, Mamas MA. Soft drinks and sweetened beverages 
+and the risk of cardiovascular disease and mortality: a systematic 
+review and meta-analysis. Int J Clin Pract 2016;70:791-805. 
+doi:10.1111/ijcp.12841 
+80 
+ F
+ung TT, Malik V, Rexrode KM, Manson JE, Willett WC, Hu FB. 
+Sweetened beverage consumption and risk of coronary heart 
+disease in women. Am J Clin Nutr 2009;89:1037-42. doi:10.3945/
+ajcn.2008.27140 
+81 
+ M
+cGlynn ND, Khan TA, Wang L, et al. Association of low- and no-
+calorie sweetened beverages as a replacement for sugar-sweetened 
+beverages with body weight and cardiometabolic risk: a systematic 
+review and meta-analysis. JAMA Netw Open 2022;5:e222092. 
+doi:10.1001/jamanetworkopen.2022.2092 
+82 
+ W
+iebe N, Padwal R, Field C, Marks S, Jacobs R, Tonelli M. A 
+systematic review on the effect of sweeteners on glycemic 
+response and clinically relevant outcomes. BMC Med 2011;9:123. 
+doi:10.1186/1741-7015-9-123 
+83 
+ La
+viada-Molina H, Molina-Segui F, Pérez-Gaxiola G, et al. Effects 
+of nonnutritive sweeteners on body weight and BMI in diverse 
+clinical contexts: systematic review and meta-analysis. Obes 
+Rev 2020;21:e13020. doi:10.1111/obr.13020 
+84 
+  M andrioli D, Kearns CE, Bero LA. Relationship between research 
+outcomes and risk of bias, study sponsorship, and author 
+financial conflicts of interest in reviews of the effects of artificially 
+sweetened beverages on weight outcomes: a systematic review 
+of reviews. PLoS One 2016;11:e0162198. doi:10.1371/journal.
+pone.0162198 
+85 
+ Mi
+ller PE, Perez V. Low-calorie sweeteners and body weight and 
+composition: a meta-analysis of randomized controlled trials and 
+prospective cohort studies. Am J Clin Nutr 2014;100:765-77. 
+doi:10.3945/ajcn.113.082826 
+86 
+ Qin P
+, Li Q, Zhao Y, et al. Sugar and artificially sweetened beverages 
+and risk of obesity, type 2 diabetes mellitus, hypertension, and all-
+cause mortality: a dose-response meta-analysis of prospective cohort 
+studies. Eur J Epidemiol 2020;35:655-71. doi:10.1007/s10654-
+020-00655-y 
+87 
+ Drewno
+wski A, Rehm CD. The use of low-calorie sweeteners is 
+associated with self-reported prior intent to lose weight in a 
+representative sample of US adults. Nutr Diabetes 2016;6:e202. 
+doi:10.1038/nutd.2016.9 
+88 
+ C
+hia CW, Shardell M, Tanaka T, et al. Chronic low-calorie sweetener 
+use and risk of abdominal obesity among older adults: a cohort 
+study. PLoS One 2016;11:e0167241. https:/ /www.ncbi.nlm.
+nih.gov/pmc/articles/PMC5120853/. doi:10.1371/journal.
+pone.0167241 
+89 
+ C
+richton G, Alkerwi A, Elias M. Diet soft drink consumption is 
+associated with the metabolic syndrome: a two sample comparison. 
+Nutrients 2015;7:3569-86. doi:10.3390/nu7053569 
+90 
+ Ferreir
+a-Pêgo C, Babio N, Bes-Rastrollo M, et al, PREDIMED 
+Investigators. Frequent consumption of sugar- and artificially 
+sweetened beverages and natural and bottled fruit juices is 
+associated with an increased risk of metabolic syndrome in a 
+Mediterranean population at high cardiovascular disease risk. J 
+Nutr 2016;146:1528-36. doi:10.3945/jn.116.230367 
+91 
+ Eb
+beling CB, Feldman HA, Steltz SK, Quinn NL, Robinson LM, 
+Ludwig DS. Effects of sugar-sweetened, artificially sweetened, 
+and unsweetened beverages on cardiometabolic risk factors, 
+body composition, and sweet taste preference: a randomized 
+controlled trial. J Am Heart Assoc 2020;9:e015668. doi:10.1161/
+JAHA.119.015668 
+92 
+ Pep
+ino MY. Metabolic effects of non-nutritive sweeteners. Physiol 
+Behav 2015;152:450-5. 
+93 
+ Sc
+hiano C, Grimaldi V, Scognamiglio M, et al. Soft drinks and 
+sweeteners intake: possible contribution to the development 
+of metabolic syndrome and cardiovascular diseases. Beneficial 
+or detrimental action of alternative sweeteners?Food Res 
+Int 2021;142:110220. doi:10.1016/j.foodres.2021.110220 
+94 
+ Nar
+ain A, Kwok CS, Mamas MA. Soft drink intake and the risk of 
+metabolic syndrome: a systematic review and meta-analysis. Int J Clin 
+Pract 2017;71. doi:10.1111/ijcp.12927 
+95 
+ Z
+hang X, Li X, Liu L, et al. Dose-response association between 
+sugar- and artificially sweetened beverage consumption and the 
+risk of metabolic syndrome: a meta-analysis of population-based 
+epidemiological studies. Public Health Nutr 2021;24:3892-904. 
+doi:10.1017/S1368980020003614 
+96 
+ C
+annon CP . Cardiovascular disease and modifiable cardiometabolic 
+risk factors. Clin Cornerstone 2007;8:11-28. doi:10.1016/S1098-
+3597(07)80025-1 
+97 
+ Dhin
+gra R, Sullivan L, Jacques PF, et al. Soft drink consumption 
+and risk of developing cardiometabolic risk factors and 
+the metabolic syndrome in middle-aged adults in the 
+community. Circulation 2007;116:480-8. doi:10.1161/
+CIRCULATIONAHA.107.689935 
+98 
+ C
+ohen L, Curhan G, Forman J. Association of sweetened beverage 
+intake with incident hypertension. J Gen Intern Med 2012;27:1127-
+34. doi:10.1007/s11606-012-2069-6 
+99 
+ W
+inkelmayer WC, Stampfer MJ, Willett WC, Curhan GC. Habitual 
+caffeine intake and the risk of hypertension in women. 
+JAMA 2005;294:2330-5. doi:10.1001/jama.294.18.2330 
+100 
+ F
+agherazzi G, Gusto G, Affret A, et al. Chronic consumption of 
+artificial sweetener in packets or tablets and type 2 diabetes 
+risk: evidence from the E3N-European Prospective Investigation 
+into Cancer and Nutrition Study. Ann Nutr Metab 2017;70:51-8. 
+doi:10.1159/000458769 
+101 
+ Sw
+ithers SE, Laboy AF, Clark K, Cooper S, Davidson TL. Experience 
+with the high-intensity sweetener saccharin impairs glucose 
+homeostasis and GLP-1 release in rats. Behav Brain Res 2012;233:1-
+14. doi:10.1016/j.bbr.2012.04.024 
+102 
+ An
+ses. Evaluation des bénéfices et des risques nutritionnels des 
+édulcorants intenses. Maisons-Alfort: Anses; 2015. https:/ /www.
+anses.fr/fr/system/files/NUT2011sa0161Ra.pdf 
+Web appendix: online data supplements
+Protected by copyright, including for uses related to text and data mining, AI training, and similar technologies. 
+. by guest on 7 September 2026 https://www.bmj.com/Downloaded from 7 September 2022. 10.1136/bmj-2022-071204 on BMJ: first published as 

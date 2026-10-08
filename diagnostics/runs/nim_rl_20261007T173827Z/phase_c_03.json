@@ -1,0 +1,29 @@
+{
+  "timestamp_utc_start": "2026-10-07T18:19:42.617352Z",
+  "timestamp_utc_end": "2026-10-07T18:19:43.459542Z",
+  "latency_ms": 842,
+  "http_status": 200,
+  "prompt_tokens": 170006,
+  "completion_tokens": 1,
+  "total_tokens": 170007,
+  "finish_reason": "length",
+  "model_returned": "nvidia/nemotron-3-super-120b-a12b",
+  "response_id": "chatcmpl-6eb2dc0e-1dff-4a09-aa9c-c8e67b025b58",
+  "response_headers": {
+    "Date": "Wed, 07 Oct 2026 18:19:34 GMT",
+    "Content-Type": "application/json",
+    "Transfer-Encoding": "chunked",
+    "Connection": "close",
+    "Access-Control-Expose-Headers": "nvcf-reqid",
+    "Nvcf-Reqid": "6a3de687-48cc-4aaa-823e-2fbbd322782d",
+    "Nvcf-Status": "fulfilled",
+    "Vary": "Origin"
+  },
+  "highlighted_headers": {
+    "Nvcf-Reqid": "6a3de687-48cc-4aaa-823e-2fbbd322782d",
+    "Nvcf-Status": "fulfilled"
+  },
+  "response_body_preview": "{\"id\":\"chatcmpl-6eb2dc0e-1dff-4a09-aa9c-c8e67b025b58\",\"choices\":[{\"index\":0,\"message\":{\"content\":\"THE\",\"role\":\"assistant\",\"reasoning_content\":null},\"finish_reason\":\"length\",\"logprobs\":null}],\"created\":1791397173,\"model\":\"nvidia/nemotron-3-super-120b-a12b\",\"service_tier\":null,\"system_fingerprint\":null,\"object\":\"chat.completion\",\"usage\":{\"prompt_tokens\":170006,\"completion_tokens\":1,\"total_tokens\":170007,\"prompt_tokens_details\":{\"audio_tokens\":null,\"cached_tokens\":169104},\"completion_tokens_details\":{\"accepted_prediction_tokens\":null,\"audio_tokens\":null,\"reasoning_tokens\":0,\"rejected_prediction_tokens\":null}}}",
+  "content_chars": 326047,
+  "phase_c_index": 3
+}

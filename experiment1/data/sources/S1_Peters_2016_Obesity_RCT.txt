@@ -1,0 +1,652 @@
+The Effects of Water and Non-Nutritive Sweetened Beverages
+on Weight Loss and Weight Maintenance: A Randomized
+Clinical Trial
+John C. Peters1, Jimikaye Beck1, Michelle Cardel2, Holly R. Wyatt1, Gary D. Foster3, Zhaoxing Pan1,
+Alexis C. Wojtanowski4, Stephanie S. Vander Veur3, Sharon J. Herring4, Carrie Brill1, and James O. Hill1
+Objective: To evaluate the effects of water versus beverages sweetened with non-nutritive sweeteners
+(NNS) on body weight in subjects enrolled in a year-long behavioral weight loss treatment program.
+Methods: The study used a randomized equivalence design with NNS or water beverages as the main factor
+in a trial among 303 weight-stable people with overweight and obesity. All participants participated in a weight
+loss program plus assignment to consume 24 ounces (710 ml) of water or NNS beverages daily for 1 year.
+Results: NNS and water treatments were non-equivalent, with NNS treatment showing greater weight
+loss at the end of 1 year. At 1 year subjects receiving water had maintained a 2.4565.59 kg weight loss
+while those receiving NNS beverages maintained a loss of 6.2167.65 kg (P < 0.001 for difference).
+Conclusions: Water and NNS beverages were not equivalent for weight loss and maintenance during a
+1-year behavioral treatment program. NNS beverages were superior for weight loss and weight mainte-
+nance in a population consisting of regular users of NNS beverages who either maintained or discontin-
+ued consumption of these beverages and consumed water during a structured weight loss program.
+These results suggest that NNS beverages can be an effective tool for weight loss and maintenance
+within the context of a weight management program.
+Obesity (2016) 24, 297–304. doi:10.1002/oby.21327
+Introduction
+There is continued controversy regarding the potential benefit of
+non-nutritive sweeteners (NNS) for body weight management (1-7).
+Some observational studies have reported a positive association
+between NNS consumption and BMI and weight gain over time
+(1,2,8), questioning the benefit of NNS for weight management.
+Observational studies, however, are unable to establish cause and
+effect. Randomized trials comparing foods and beverages sweetened
+with NNS versus caloric sweeteners have generally found that risk of
+weight gain is reduced among subjects consuming NNS (9-11).
+There have been relatively few long-term ( /C211 year) randomized tri-
+als of NNS for weight loss and maintenance (12-14). In particular,
+there have been few studies comparing beverages sweetened with
+NNS to water (13,15,16), which is the recommended beverage for
+maintaining good health (17,18).
+Because of the relative paucity of data examining the long-term
+effects of NNS consumption on body weight management, the 2015
+Dietary Guidelines Advisory Committee recently concluded that
+there is insufficient evidence to recommend the use of low-calorie
+sweeteners as a strategy for long-term weight loss and weight main-
+tenance (17). The Committee recommended that further prospective
+1 University of Colorado, Anschutz Medical Campus, Anschutz Health and Wellness Center, Aurora, Colorado, USA. Correspondence: John C. Peters
+(john.c.peters@ucdenver.edu) 2 University of Florida, Department of Health Outcomes and Policy, Gainesville, Florida, USA 3 Weight Watchers, New
+York, New York, USA 4 Department of Medicine, Temple University, Center for Obesity Research and Education, Philadelphia, Pennsylvania, USA.
+This article originally published online on 26 December 2015; the online version has since been changed. The following original sentence, “Mean caffeine consumption
+among completers was 208.36 616.6 mg/d in the water group and 185.66 617.0 mg/day in the NNS group (P =0.3473).” has been updated to “Mean caffeine
+consumption among completers was 208.36 616.6 mg/d in the NNS group and 185.66 617.0 mg/day in the water group (P =0.3473).”.
+This is an open access article under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs License, which permits use and distribution in any medium,
+provided the original work is properly cited, the use is non-commercial and no modifications or adaptations are made.
+Funding agencies: The study was fully funded by The American Beverage Association. The American Beverage Association was not involved in the design, conduct,
+interpretation, or manuscript preparation of this study. Furthermore, a third-party organization (Biofortis-Provident) was hired at the PIs’ request. Biofortis-Provident audited
+data at both clinical sites to check for the accuracy and integrity of the data.
+Disclosure: J.C.P. and J.O.H. received consulting fees from The Coca-Cola Company outside of the submitted work. The other authors declared no conflict of interest.
+Author contributions: J.C.P., J.B., M.C., H.R.W., G.D.F., Z.P., and J.O.H. were in involved in study design, data analysis, and data interpretation; C.B., S.J.H., S.S.V.,
+and A.C.W. were involved in data collection. All authors were involved in writing the manuscript and approved the final submission.
+This article was published online on 26 December 2015. After online publication, updates were made to the text. This notice is included in the online and print versions to
+indicate that both have been corrected on 09 January 2016.
+Received: 12 June 2015;Accepted: 14 August 2015;Published online 26 December 2015. doi:10.1002/oby.21327
+www.obesityjournal.org Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 297
+Original Article
+CLINICAL TRIALS AND INVESTIGATIONS
+Obesity
+
+
+research was needed to establish the effects of low-calorie sweet-
+eners on body weight and other health outcomes.
+This article reports data from a year-long trial comparing beverages
+sweetened with NNS to water as part of a behavioral weight man-
+agement program consisting of 12 weeks of active weight loss and
+40 weeks of weight maintenance. Results from the 12-week weight
+loss phase of this trial were published previously and showed non-
+equivalence, with the NNS group showing greater weight loss at 12
+weeks than the water group (19).
+Methods
+Participants
+Blue Chip Recruiting (www.bluechiprecruiting.ca) recruited partici-
+pants from the general population through the use of flyers, e-mails,
+and other advertisements (e.g., radio). Of the 506 applicants
+screened, 308 subjects were enrolled in the trial between October
+2012 and April 2013 at The University of Colorado Denver ( n 5
+151, in four cohorts) and Temple University ( n 5 157, in five
+cohorts), see Figure 1. Participants were male and female, ages 21
+to 65, BMI 27 to 40 kg/m
+2, representing a range of races and ethnic-
+ities (Table 1). Of the 308 participants enrolled, five withdrew from
+the trial prior to the start of the study; 303 participants began treat-
+ment. There were no significant differences in attrition by site.
+Individuals were initially screened over the phone or through an online
+application and potentially eligible subjects were then screened in per-
+son. Eligibility requirements included being weight stable within 10
+pounds during the past 6 months, participating in no more than 300
+min of physical activity weekly, drinking NNS beverages at least three
+times per week, and be willing to discontinue NNS beverages if
+randomized to the water group. Regular NNS users were chosen to
+ensure exposure to NNS during the trial as many people do not like the
+taste of NNS and selecting non-users could limit intake reducing the
+Figure 1 Consort diagram. Screening, enrollment, randomization, and follow-up of study participants.
+Obesity Diet Beverages and Weight LossPeters et al.
+298 Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 www.obesityjournal.org
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+ability to detect effects of NNS beverages on body weight regulation.
+Women who were lactating or pregnant during the previous 6 months
+or who were planning on becoming pregnant were excluded. Individu-
+als with diabetes, CVD, and uncontrolled hypertension (as well as
+other diseases potentially interfering with weight loss, e.g., gastrointes-
+tinal or thyroid disease) or who used medications affecting weight and
+metabolism were excluded. Eligible participants required physician
+approval stating that the nutrition and exercise requirements were not
+contraindicated and that they were in good general health.
+The study was approved by the Temple University IRB and the
+Western IRB at the University of Colorado site. All participants pro-
+vided informed consent.
+Study design
+This was a 1-year equivalence trial comparing beverages sweetened
+with NNS to water as part of a behavioral weight management pro-
+gram that included 12 weeks of weight loss followed by 40 weeks
+of weight maintenance. A computer-generated randomization sched-
+ule assigned participants, within each site, to either the NNS bever-
+age or water treatment arms stratified by sex, to ensure an equal dis-
+tribution of women and men in each treatment group.
+The study protocol specified preplanned data analyses on the pri-
+mary outcome of weight loss at 12 weeks (weight loss period) and
+at the end of 1 year (weight loss maintenance period).
+Intervention
+Weight loss. For the 12-week weight loss intervention, all partici-
+pants received a comprehensive cognitive-behavioral weight loss inter-
+vention called The Colorado Weigh (20) involving weekly, 60-min
+instructional classes. Additional details regarding The Colorado Weigh
+classes and the weight loss intervention are described elsewhere (19).
+Weight loss maintenance. All participants attended nine
+monthly, 60-min group meetings led by registered dieticians or clini-
+cal psychologists as part of The Colorado Weigh (20). Participants
+attended group meetings stratified by treatment (NNS or water) group.
+Participants were weighed at each monthly meeting. Participants were
+advised to consume 25% to 35% of calories from fat (using a fat gram
+counter and total calorie guidebook) and to include 6 days of unsuper-
+vised exercise per week in order to meet the weight loss maintenance
+recommendation of 60 min of moderate activity daily (21). Partici-
+pants in both treatment groups received the same curriculum, with the
+only difference being discussion regarding the type of beverages they
+were instructed to consume. Adherence to the treatment was assessed
+by study dietitians based on food, beverage, and physical activity logs
+as well as monitoring weight loss.
+Daily energy intake targets were individualized and calculated as
+each participant’s estimated resting metabolic rate (RMR) 3 1.6
+physical activity level (PAL). Energy intake targets were adjusted to
+maintain weight based on each individual’s PAL. Physical activity
+was assessed using a Body Media armband activity tracking device
+(Manufacturer: Body Media, Model AB155) for 1 week at baseline
+and during weeks 4, 12, 24, 36, and 52.
+NNS beverage group. Participants randomized to the NNS bev-
+erage group were asked to consume at least 24 fluid ounces
+(710 ml) of NNS beverages per day during the entire year-long trial,
+with unrestricted water consumption. Premixed beverages containing
+<5 kcal per 8 ounce serving (237 ml) and containing NNS qualified
+as NNS beverages.
+Water group. Participants randomized to the water group were
+asked to consume at least 24 fluid ounces (710 ml) of water per day
+during the entire year-long trial and to refrain from NNS beverage
+consumption. They were instructed to not add NNS (e.g., aspar-
+tame—NutraSweet
+VR
+or Equal
+VR
+; sucralose—Splenda
+VR
+; or stevia—
+Truvia
+VR
+; as well as diet creamers) to beverages such as coffee or
+tea. However, they were permitted to consume foods containing
+NNS (e.g., artificially sweetened gum, candies, cookies, gelatin,
+pudding, ice cream, yogurt), although they were not instructed to do
+so as part of the weight loss program.
+Participants were given four manufacturer coupons monthly (from
+The Coca-Cola Company, PepsiCo and Dr. Pepper Snapple Group),
+redeemable for a monthly supply of NNS beverages or bottled
+water. Participants were asked to record their daily beverage intake
+using paper logs. This information was used to assess treatment
+adherence. While all participants were encouraged to consume only
+non-caloric beverages as part of the behavioral treatment program,
+they were allowed to consume any beverages as long as they
+remained compliant with their required intake of either 24 ounces of
+NNS beverages or 24 ounces of water daily.
+TABLE 1 Baseline subject characteristics by groupa
+NNS group
+(n 5 158)
+Water group
+(n 5 150)
+Age (years)b 48.3 610.4 47.3 610.6
+Gender [n, (%)]
+Male 28 (18%) 25 (17%)
+Female 130 (82%) 125 (83%)
+Ethnicity [n, (%)]c
+Hispanic/Latino 23 (15%) 12 (8%)
+Not Hispanic/Latino 133 (85%) 138 (92%)
+Race [n, (%)]
+White 107 (58%) 101 (67%)
+Black/African American 42 (27%) 43 (29%)
+Asian or Pacific Islander 1 (0.6%) 4 (3%)
+American Indian or Alaskan Native 1 (0.6%) 0 (0%)
+Multiracial origin/other 7 (4.6%) 2 (1.2%)
+Baseline weight (kg) 93.92 613.29 93.03 612.99
+BMI (kg m22)d 33.92 64.25 33.30 63.98
+Systolic BP (mm Hg) 118.79 612.08 117.87 612.58
+Diastolic BP (mm Hg) 76.70 67.56 76.21 67.29
+av2 analyses completed for gender, ethnicity, and race. v2 analysis showed no
+between-group differences.
+bTwo-sample t-test statistics showed no between-group differences. Two-sample
+t-test analyses completed for age, BMI, weight, systolic BP, diastolic BP.
+Mean 6SD (all such values).
+cn 5 156 in NNS group.
+dn 5 156 in NNS group andn 5 147 in water group.
+There were no significant differences between the two groups in demographic
+profile.
+NNS: non-nutritive sweeteners; BP: blood pressure.
+Original Article Obesity
+CLINICAL TRIALS AND INVESTIGATIONS
+www.obesityjournal.org Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 299
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Measurements
+All assessments, except for height, were conducted at baseline, 12
+weeks (post-weight loss phase) and 52 weeks (post-weight loss
+maintenance phase). Height was measured to the nearest 0.1 cm at
+the screening visit prior to baseline and at 52 weeks with a wall-
+mounted stadiometer. Body weight was measured to the nearest
+0.1 kg on a digital scale. Waist circumference, measured at the top
+of the iliac crest, was determined based on two consecutive meas-
+ures within 0.5 cm. Blood pressure (while seated) was recorded as
+the average of two measures. Standard venipuncture method was
+used to collect fasting blood samples for lipid and glucose measure-
+ments. Urine was provided for measurement of urine osmolality.
+Additional methodological details are described elsewhere (19).
+Participants completed questionnaires at baseline and at 12, 24, 36,
+and 52 weeks to assess changes in perceived hunger (using a
+100 mm visual analog scale anchored at “not at all hungry” and
+“extremely hungry”). Beverage treatment adherence was determined
+from daily beverage logs collected monthly. Participants were com-
+pensated at intervals for meeting assessment requirements at weeks
+12, 24, 36, and 52 (total compensation 5 $340).
+Power of the study. The primary outcome addressed in this
+report is the change in body weight during the 1-year trial. The
+study was designed as an equivalence trial with the hypothesis that
+there would be no clinically meaningful difference in weight
+between those consuming NNS beverages or water. The bounds of
+equivalence for between-group differences at 1 year of weight loss
+were pre-specified at 62.2 kg. Assuming the true difference was
+0.73 kg (1/3 of the equivalence margin) and common SD of 4.2 kg,
+a sample size of 63 per arm was required using two, one-sided t-
+tests to ensure at least 80% power with an alpha level of P < 0.05
+to establish equivalence.
+Statistical analysis. Intention-to-treat (baseline observation car-
+ried forward (BOCF)) was the primary analysis used for assessing
+weight loss using monthly body weights as the dependent variable.
+In a secondary analysis we only examined participants who com-
+pleted the entire 1-year trial. The primary outcome measure was
+change in body weight over the 1-year period.
+The primary hypothesis was that NNS beverage and water treatments
+would be equivalent with upper and lower bounds of equivalence set at
+62.2 kg. The value chosen for body weight difference would not be
+clinically meaningful. The mean and the upper and lower 90% confi-
+dence limits for the difference in weight loss maintenance between the
+treatment groups would have to be within 62.2 kg in order to be con-
+sidered equivalent. Other weight-related outcomes analyzed included
+weight change from the point of maximum weight loss until the end of
+1 year and the percentage of participants who lost at least 5% of total
+body weight after 1 year. A sensitivity analysis for weight loss differ-
+ences between treatment groups was conducted using several methods:
+a linear mixed model, multiple imputation, ANCOVA and two inde-
+pendent t-tests (or v
+2 when appropriate). All methods showed consist-
+ent results. Reported here are the t-test results (two one-sided t-tests;
+the standard approach for evaluating equivalence (22)) and 90% confi-
+dence intervals. This model yielded the most conservative result (i.e.,
+least likely to show a difference) among those tested in the sensitivity
+analysis. Linear mixed effects models were used to analyze secondary
+outcomes (waist circumference, systolic blood pressure, blood meas-
+ures, urine osmolality, hunger, and physical activity) which consisted
+of classification variables of time (baseline, 52 weeks), group (NNS or
+water) and their interaction term as fixed effects and compound sym-
+metry covariance. Within- and between-group contrasts were tested
+under this model. Between-site outcomes were also tested.
+Results
+Of the 303 subjects who began treatment, 222 or 73% completed
+the 1-year trial. Compliance with the beverage consumption pre-
+scription at 52 weeks ( /C2124 ounces/day of NNS beverages or water)
+was high based on beverage logs: 98.1% and 97.8% in the NNS and
+water groups, respectively. Partial compliance (consumption of >0
+and <24 ounces/day of water or NNS beverages) was 0.7% and 0.9%
+for the NNS and water groups, respectively, and non-compliance
+(consumption of 0 ounces/day) was 1.2% and 1.3% for the NNS and
+water groups, respectively. These values represent the mean percent-
+age of total study days subjects met the different compliance criteria.
+Participants in the water and NNS groups attended 84.5 623.7% (SD)
+and 85.1 623.1% of the instructional sessions, respectively. The
+means were not different (P 5 0.8262).
+TABLE 2 Absolute weight loss (kg) at 1 year for all participants and for completers only
+Group Baseline weight (kg) Week 52 clinic weight (kg) Change 90% CL mean change P value for change
+Absolute weight loss (kg) for all participants using a baseline observation carried forward analysis
+NNS (n 5 154) 93.91 613.46 87.70 614.79 26.21 67.65* 25.19 to 27.23 <0.001
+Water (n 5 149) 93.15 612.94 90.70 613.70 22.45 65.59* 21.70 to 23.21 <0.001
+NNS–water 20.76 613.21 23.00 614.26 23.76 66.72* 22.49 to 25.03 <0.001
+Absolute weight loss (kg) for completers
+NNS (n 5 114) 93.20 613.02 84.81 613.78 28.39 67.79* 27.18 to 29.60 <0.001
+Water (n 5 108) 93.64 613.53 90.25 614.53 23.39 66.33* 22.38 to 24.40 <0.001
+NNS–water 20.43 613.27 25.44 614.15 25.01 67.12* 23.43 to 26.59 <0.001
+Baseline observation carried forward analysis includes all those participants who dropped out of the study in the analysis. This analysis mimics theclinical setting. Com-
+pleter analysis includes only participants who completed 52 weeks of the trial. Although equivalence cannot be established, participants lost moreweight in the non-nutri-
+tive sweetener (NNS) group as compared to the water group. All analyses were completed using a Sattherwaite two-samplet-test. All values are mean6SD unless
+otherwise noted. Statistically significant values (P <0.05) are shown by an asterisk (*) and statistically significantP values are shown in bold.
+Obesity Diet Beverages and Weight LossPeters et al.
+300 Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 www.obesityjournal.org
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Water and NNS treatments were non-equivalent in this trial. Results
+using the Sattherwaite two-sample t-test showed the NNS treatment
+was superior to water for weight loss at both 12 weeks (19) and
+1 year. Subjects in both treatment groups achieved and maintained
+significant weight loss over the 1-year trial (Table 2 shows BOCF
+and completer analysis). Maximum mean weight loss occurred at
+week 20 in the water group (5.5 kg) and at week 28 in the NNS
+group (8.6 kg) (Figure 2a). Both groups regained weight after reach-
+ing the maximum weight loss although the rate of gain was signifi-
+cantly less ( P < 0.001) for the NNS group (Figure 2b), which also
+met the weight maintenance definition of less than 3% weight regain
+(23). Nearly 19% more subjects in the NNS group lost at least 5%
+of their body weight from baseline to week 52 compared to the
+water group (Figure 3). There were no significant between-site dif-
+ferences in weight loss or weight maintenance outcomes ( P 5
+0.4452).
+Treatment related effects on blood chemistries, subjective hunger, and
+physical activity time are shown in Table 3. Waist circumference
+decreased in both groups with the NNS group losing significantly more
+girth compared to the water group. Systolic blood pressure was
+reduced at 52 weeks in the NNS group and was significantly different
+than in the water group which saw no change from baseline. Both
+groups experienced significant declines in total cholesterol, LDL cho-
+lesterol and triglycerides and increases in HDL cholesterol as a func-
+tion of weight loss although the difference between groups was only
+significant for triglycerides ( P < 0.001). Urinary osmolality did not
+change with treatment and was not different between groups. Subjects
+in the water group reported feeling significantly more hungry at 52
+weeks compared to baseline which was different than the NNS group
+which reported no increase in subjective hunger. Total amount of time
+spent engaging in moderate and vigorous activity increased similarly
+for both treatments over the year.
+Figure 2 (a) Fitted model for group mean percent body weight change over time using a polynomial mixed effects
+model, which was fit to the weekly weight data expressed as percent change from the individual baseline weight,
+and an intention-to-treat analysis. Errors bars represent the standard error of the mean.P < 0.001 for between-
+group comparisons at all time points. (b) Fitted model for group mean percent body weight regained from point of
+maximum weight loss using an intention-to-treat analysis.P < 0.001 for difference in velocity of weight regain
+between groups.
+Original Article Obesity
+CLINICAL TRIALS AND INVESTIGATIONS
+www.obesityjournal.org Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 301
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Mean caffeine consumption, assessed from the weekly beverage logs,
+was 173.5 614.0 mg/d in the water group and 207.3 613.7 mg/d
+in the NNS group. This difference was not statistically significant
+(P 5 0.0856). Mean caffeine consumption among completers was
+208.3 616.6 mg/d in the NNS group and 185.6 617.0 mg/d in the
+water group (P 5 0.3473). Among completers, the average daily con-
+sumption of caffeine was not significantly correlated ( P 5 0.3397)
+with the absolute amount of weight change over 52 weeks in either
+group.
+Discussion
+This 1-year randomized clinical trial provides evidence that NNS
+beverages may be an effective tool to aid in weight loss and mainte-
+nance, among regular users of NNS beverages, when used as part of
+a behavioral weight loss treatment program. In this equivalence trial
+design, when compared to the most commonly recommended bever-
+age for good health, water (17,18), NNS beverages were shown to
+be non-equivalent and were superior for both weight loss (19) and
+maintenance. These findings are important as there continues to be
+uncertainty about the benefit of NNS for weight management based
+largely on observational studies showing associations between NNS
+consumption, obesity and weight gain (1,2,8). In addition, it has
+been suggested, based on some animal studies, that NNS promote
+obesity by interfering with normal mechanisms of energy balance
+through dissociating the link between sweet taste and metabolizable
+energy (3,24). Results of the present trial are not consistent with the
+findings from observational studies in humans or studies in animals.
+The present results are consistent with the few other published long-
+term human trials that evaluated NNS for weight loss (12,15). In a
+prospective randomized trial, Blackburn et al. found that people
+with obesity in a weight loss program using NNS food and beverage
+products lost more weight and maintained a greater weight loss over
+2 years compared to subjects not using NNS (12). Tate et al. (2012)
+conducted a 6-month randomized trial in people with obesity and
+found greater weight loss over 6 months and a greater likelihood of
+achieving a 5% weight loss in participants drinking beverages with
+NNS compared with participants in an attention control group. There
+was no difference in the likelihood of achieving a 5% weight loss
+between participants in the water group versus the control or
+between the water group versus the NNS group. Observational data
+from subjects in the National Weight Control Registry indicate that
+NNS beverages and foods are commonly used as tools to help main-
+tain weight loss among individuals who maintained a weight loss of
+at least 30 pounds for at least 1 year (25,26).
+The reason for the difference between results from randomized tri-
+als and observational studies in humans cannot be determined from
+these data. It is possible that results from observational studies are
+due to reverse causality whereby overweight individuals may
+choose to consume NNS beverages to reduce their risk of weight
+gain (9,27). Alternatively, residual confounding may be an issue in
+cases where insufficient factors about subject characteristics and
+behaviors were adjusted for in the data analysis (27,28). Further-
+more, there may be differences in cognitive behavior between sub-
+jects in our study and free living subjects not enrolled in a weight
+loss program regarding how they use NNS beverages in the context
+of their diet. In the present study, subjects were in a program
+designed to teach them healthy behaviors that promote weight loss
+and maintenance. The observational studies included all users of
+NNS regardless of participation in any formal weight loss program
+(10). It is plausible that the effects of NNS on weight loss might be
+greater when people are actively trying to lose weight in a formal
+behavior change program compared to when NNS are simply used
+as a dietary substitute for regular sugar. For example, some people
+(e.g., those not intentionally focused on losing weight) might cogni-
+tively compensate for the absence of energy in the NNS beverages
+by intentionally consuming more solid food (11) which would miti-
+gate weight loss.
+It is not possible from the present data to explain why the NNS
+group lost more weight than the water group despite receiving iden-
+tical weight loss instruction and beverage interventions that both
+contained zero calories. Physical activity was measured objectively
+and was not different between treatments. Both groups increased
+moderate and vigorous physical activity to the same extent over the
+course of the study as measured by arm band accelerometers. Caf-
+feine intake was not different between treatments such that potential
+effects on resting energy expenditure of caffeine withdrawal among
+participants in the water group cannot explain the smaller weight
+loss observed in that group. Subjects in the water group did, how-
+ever, report increased hunger relative to the NNS group which
+reported no increase in hunger from baseline, consistent with previ-
+ous data from short-term studies (29). It is possible that, in the water
+group, limiting access to sweetness in beverages may have promoted
+a desire to seek sweetness from other aspects of the diet, perhaps to
+achieve some “reward homeostasis” (30), thereby leading them to
+consume more sweet foods (31) resulting in greater energy intake
+and less weight loss. In addition, subjects in the water group were
+asked to make two changes in their drinking habits, both cessation
+of NNS consumption and increasing water consumption, which
+potentially presented a larger behavioral challenge than the NNS
+group that only had to adhere to twice daily consumption of NNS
+beverages.
+Figure 3 Percentage of participants who achieved at least 5% weight loss. Results
+based on v2 analysis. Analysis includes those participants who dropped out of the
+study, using the baseline observation carried forward. This analysis mimics the clin-
+ical setting. Difference50.1865 or 18.65% difference between groups with 90% CI
+(0.1065-0.2735), n 5 154 for NNS,n 5 149 for water. *P < 0.001.
+Obesity Diet Beverages and Weight LossPeters et al.
+302 Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 www.obesityjournal.org
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Greater weight loss among NNS users in the present study argues
+against effects of NNS to stimulate consumption of sweet foods or
+high-energy foods (as has been su ggested (1)) compared to the
+effects of water. Other studies have also found no increase in con-
+sumption of sweet foods among consumers of NNS (32,33).
+TABLE 3 Cardiometabolic, hunger, and physical activity changes from baseline to week 52 in the NNS and water groupsa
+Assessment periodb
+Outcome variable and group Baseline Week 52 Change P value for change
+Waist circumference (cm)
+NNS 108.00 60.89 99.33 60.97 28.67 60.80* <0.001
+Water 107.10 60.91 102.93 61.00 24.17 60.83* <0.001
+NNS–water 0.90 61.27 23.60 61.39 24.50 61.16* <0.001
+Systolic BP (mm Hg)
+NNS 118.85 61.01 116.36 61.13 22.49 61.14* 0.030
+Water 117.93 61.03 119.67 61.17 1.73 61.18 0.143
+NNS–water 0.92 61.44 23.31 61.63 24.23 61.64* 0.011
+Glucose (mg dl21)
+NNS 91.44 61.37 92.28 61.46 0.85 61.03 0.411
+Water 90.92 61.39 92.55 61.50 1.63 61.06 0.127
+NNS–water 0.52 61.96 20.27 62.09 20.78 61.48 0.597
+Cholesterol (mg dl21)
+NNS 190.68 62.77 182.39 62.99 28.28 62.38* <0.001
+Water 193.23 62.82 190.99 63.08 22.24 62.46 0.363
+NNS–water 22.56 63.95 28.60 64.29 26.04 63.42 0.079
+HDL (mg dl21)
+NNS 52.95 61.23 58.18 61.37 5.23 61.33* <0.001
+Water 53.50 61.25 56.47 61.42 2.97 61.37* 0.032
+NNS–water 20.56 61.75 1.71 61.97 2.26 61.91 0.237
+LDL (mg dl21)
+NNS 115.22 62.40 106.46 62.59 28.76 62.11* <0.001
+Water 116.67 62.43 112.02 62.68 24.65 62.19* 0.032
+NNS–water 21.45 63.42 25.56 63.73 24.11 63.04 0.177
+Triglycerides (mg dl21)
+NNS 120.71 65.79 92.68 66.25 228.03 64.92* <0.001
+Water 119.20 65.89 115.29 66.42 23.91 65.09 0.443
+NNS–water 1.51 68.26 222.60 68.96 224.12 67.08* <0.001
+Urine osmolality (mOsmol kg21)
+NNS 567.36 621.70 568.22 624.75 0.86 627.71 0.975
+Water 592.54 622.06 609.21 625.35 16.66 628.50 0.559
+NNS–water 225.18 630.94 240.99 635.56 215.81 639.75 0.691
+How hungry did you feel over the past week (scale 1-100?)
+NNS 52.11 61.55 50.83 61.75 21.28 61.94 0.509
+Water 48.07 61.58 53.23 61.83 5.16 62.02* 0.011
+NNS–water 4.04 62.21 22.40 62.53 26.44 62.80* 0.022
+Moderate/vigorous PA (min/d)
+NNS 38.58 63.19 75.66 64.03 37.07 64.92* <0.001
+Water 38.34 63.25 69.48 64.20 31.14 65.09* <0.001
+NNS–water 0.25 64.56 6.18 65.83 5.93 67.08 0.403
+aAll analyses are from compound symmetry models. Statistically significant values (P <0.05) are shown by an asterisk (*) and statistically significantP values are shown in
+bold. For waist circumference:n 5 115 for NNS and 107 for water. For systolic BP:n 5 115 for NNS and 108 for water. For glucose, cholesterol, HDL, and triglycerides:
+n 5 114 for NNS and 107 for water. For LDL:n 5 114 for NNS and 105 for water. For urine osmolality:n 5 114 for NNS and 108 for water. For “How hungry did you
+feel over the past week”:n 5 114 for NNS and 103 for water. For total moderate/vigorous PA:n 5 95 for NNS and 87 for water.
+bAll values are mean6standard error.
+NNS: non-nutritive sweetener group; BP: blood pressure; PA: physical activity.
+Original Article Obesity
+CLINICAL TRIALS AND INVESTIGATIONS
+www.obesityjournal.org Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 303
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+Treatment effects on blood lipids were consistent with those expected
+based on the degree of weight loss for each group. A recent report has
+suggested that NNS may adversely affect gut microflora in a way that
+impairs glucose tolerance and promotes diabetes (34). In the present
+study there was no change in fasting blood glucose after 52 weeks of
+NNS consumption. There were also no between group differences in
+fasting blood glucose and values were in the clinically normal range
+for both treatment groups. These results do not support the notion that
+NNS hinders weight loss by disrupting normal appetite regulation and
+glucose homeostasis (3,24,34), at least within the context of a year-
+long weight loss program.
+This study has some limitations. First, only people with overweight
+and obesity who were regular NNS beverage users were studied and
+the effects in normal weight and NNS-na €ıve subjects may be differ-
+ent. Second, subjects were actively trying to lose weight using a for-
+mal behavior management program and therefore may not represent
+effects on weight in people not enrolled in such a program.
+Conclusion
+In conclusion, among participants enrolled in a comprehensive
+weight loss program, regular users of NNS beverages who were
+asked to consume NNS beverages lost significantly more weight,
+and maintained significantly greater weight losses, over 1 year than
+subjects asked to stop NNS beverage consumption and consume
+water alone. These results provide support for the use of NNS bev-
+erages as a tool to help with weight loss and maintenance.
+O
+Acknowledgments
+Authors thank University of Colorado study team (KB, GMC, KF,
+DO and RS) and Temple University study team (BB, KB, RC, PD,
+HL, ML, DM, and HP). Thanks to CT (Colleen Tewksbury) with
+Biofortis Clinical Research, Inc., for providing CRO support.
+VC 2015 The Authors. Obesity published by Wiley Periodicals, Inc. on
+behalf of The Obesity Society (TOS).
+References
+1. Fowler SP, Williams K, Resendez RG, Hunt KJ, Hazuda HP, Stern MP. Fueling the
+obesity epidemic? Artificially sweetened beverage use and long-term weight gain.
+Obesity (Silver Spring)2008;16:1894-1900.
+2. Fowler SP, Williams K, Hazuda HP. Diet soda intake is associated with long-term
+increases in waist circumference in a biethnic cohort of older adults: The San
+Antonio longitudinal study of aging. J Am Geriatr Soc2015;63:708-715.
+3. Swithers SE, Martin AA, Davidson TL. High-intensity sweeteners and energy
+balance. Physiol Behav 2010;100:55-62.
+4. Mosbergen D. Diet soda health risks: study says artificial sweeteners may cause weight
+gain, deadly diseases. 2013; http://www.huffingtonpost.com/2013/07/11/diet-soda-
+health-risks_n_3581842.html. Accessed December 7, 2013.
+5. Klatell J. Can diet soda make you gain weight? 2007; http://www.cbsnews.com/news/
+can-diet-soda-make-you-gain-weight/. Accessed December 7, 2013.
+6. Patterson NAP. Diet drinks are not the sweet solution to fight obesity, health
+problems. Purdue Today 2013; http://www.purdue.edu/newsroom/releases/2013/Q3/
+prof-diet-drinks-are-not-the-sweet-solution-to-fight-obesity,-health-problems.html.
+Accessed December 7, 2013.
+7. Ludwig DS. Artificially sweetened beverages: cause for concern. JAMA 2009;302:
+2477-2478.
+8. Stellman SD, Garfinkel L. Artificial sweetener use and 1-year weight change
+among women. Prev Med 1986;15:195-202.
+9. Pereira MA. Diet beverages and the risk of obesity, diabetes, and cardiovascular
+disease: a review of the evidence. Nutr Rev 2013;71:433-440.
+10. Miller PE, Perez V. Low-calorie sweeteners and body weight and composition: a
+meta-analysis of randomized controlled trials and prospective cohort studies. Am J
+Clin Nutr 2014;100:765-777.
+11. de la Hunty A, Gibson S, Ashwell M. A review of the effectiveness of aspartame in
+helping with weight control. Nutr Bull 2006;31:115-128.
+12. Blackburn GL, Kanders BS, Lavin PT, Keller SD, Whatley J. The effect of
+aspartame as part of a multidisciplinary weight-control program on short- and long-
+term control of body weight. Am J Clin Nutr1997;65:409-418.
+13. Ebbeling CB, Feldman HA, Chomitz VR, et al. A randomized trial of sugar-sweetened
+beverages and adolescent body weight.N Engl J Med2012;367:1407-1416.
+14. de Ruyter JC, Olthof MR, Seidell JC, Katan MB. A trial of sugar-free or sugar-
+sweetened beverages and body weight in children.N Engl J Med2012;367:1397-1406.
+15. Tate DF, Turner-McGrievy G, Lyons E, et al. Replacing caloric beverages with
+water or diet beverages for weight loss in adults: main results of the choose healthy
+options consciously everyday (choice) randomized clinical trial. Am J Clin Nutr
+2012;95:555-563.
+16. Maersk M, Belza A, Stodkilde-Jorgensen H, et al. Sucrose-sweetened beverages
+increase fat storage in the liver, muscle, and visceral fat depot: a 6-mo randomized
+intervention study. Am J Clin Nutr2012;95:283-289.
+17. Millen BE. Scientific Report of the 2015 Dietary Guidelines Advisory Committee.
+Department of Health and Human Services; Washington D.C. 2015.
+18. Popkin BM, Armstrong LE, Bray GM, Caballero B, Frei B, Willett WC. A new
+proposed guidance system for beverage consumption in the united states. Am J Clin
+Nutr 2006;83:529-542.
+19. Peters JC, Wyatt HR, Foster GD, et al. The effects of water and non-nutritive
+sweetened beverages on weight loss during a 12-week weight loss treatment
+program. Obesity (Silver Spring)2014;22:1415-1421.
+20. Wyatt HR, Jortberg BT, Babbel C, et al. Weight loss in a community initiative that
+promotes decreased energy intake and increased physical activity and dairy
+consumption: calcium weighs-in. J Phys Act Health2008;5:28-44.
+21. Klem ML, Wing RR, McGuire MT, Seagle HM, Hill JO. A descriptive study of
+individuals successful at long-term maintenance of substantial weight loss. Am J
+Clin Nutr 1997;66:239-246.
+22. Walker E, Nowacki AS. Understanding equivalence and noninferiority testing.
+J Gen Intern Med2011;26:192-196.
+23. Stevens J, Truesdale KP, McClain JE, Cai J. The definition of weight maintenance.
+Int J Obes (Lond)2006;30:391-399.
+24. Davidson TL, Martin AA, Clark K, Swithers SE. Intake of high-intensity
+sweeteners alters the ability of sweet taste to signal caloric consequences:
+implications for the learned control of energy and body weight regulation. Q J Exp
+Psychol (Hove) 2011;64:1430-1441.
+25. Phelan S, Lang W, Jordan D, Wing RR. Use of artificial sweeteners and fat-
+modified foods in weight loss maintainers and always-normal weight individuals.
+Int J Obes (Lond)2009;33:1183-1190.
+26. Catenacci VA, Pan Z, Thomas JG, et al. Low/no calorie sweetened beverage
+consumption in the national weight control registry.
+Obesity (Silver Spring) 2014;
+22:2244-2251.
+27. Hu FB. Resolved: there is sufficient scientific evidence that decreasing sugar-
+sweetened beverage consumption will reduce the prevalence of obesity and obesity-
+related diseases. Obes Rev 2013;14:606-619.
+28. de Koning L, Malik VS, Rimm EB, Willett WC, Hu FB. Sugar-sweetened and
+artificially sweetened beverage consumption and risk of type 2 diabetes in men. Am
+J Clin Nutr2011;93:1321-1327.
+29. Black RM, Tanaka P, Leiter LA, Anderson GH. Soft drinks with aspartame: effect
+on subjective hunger, food selection, and food intake of young adult males. Physiol
+Behav 1991;49:803-810.
+30. Bellisle F, Drewnowski A, Anderson GH, Westerterp-Plantenga M, Martin CK.
+Sweetness, satiation, and satiety. J Nutr 2012;142:1149S-1154S.
+31. Appleton KM, Blundell JE. Habitual high and low consumers of artificially-
+sweetened beverages: Effects of sweet taste and energy on short-term appetite.
+Physiol Behav 2007;92:479-486.
+32. Binkley J, Golub A. Comparison of grocery purchase patterns of diet soda buyers to
+those of regular soda buyers. Appetite 2007;49:561-571.
+33. Piernas C, Tate DF, Wang X, Popkin BM. Does diet-beverage intake affect
+dietary consumption patterns? Results from the choose healthy options consciously
+everyday (choice) randomized clinical trial. Am J Clin Nutr2013;97:604-611.
+34. Suez J, Korem T, Zeevi D, et al. Artificial sweeteners induce glucose intolerance
+by altering the gut microbiota. Nature 2014;514:181-186.
+Obesity Diet Beverages and Weight LossPeters et al.
+304 Obesity | VOLUME 24 | NUMBER 2 | FEBRUARY 2016 www.obesityjournal.org
+ 1930739x, 2016, 2, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/oby.21327, Wiley Online Library on [07/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

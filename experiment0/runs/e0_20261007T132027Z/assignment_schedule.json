@@ -1,0 +1,432 @@
+{
+  "description": "Experiment 0 immutable condition assignment schedule. Randomized order of exactly 30 C1 + 30 C2. Seeds are assignment/audit only; they do NOT control NIM sampling.",
+  "master_seed": 42,
+  "randomization": "random.Random(master_seed).shuffle over 30 C1 + 30 C2 slots",
+  "n_c1": 30,
+  "n_c2": 30,
+  "n_total": 60,
+  "created_utc": "2026-10-07T13:20:27.017457Z",
+  "immutable": true,
+  "slots": [
+    {
+      "condition": 1,
+      "seed": 81482,
+      "slot_within_condition": 9,
+      "schedule_index": 0,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s81482_i00_71cdf58a"
+    },
+    {
+      "condition": 1,
+      "seed": 93810,
+      "slot_within_condition": 0,
+      "schedule_index": 1,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s93810_i01_4f21ffdc"
+    },
+    {
+      "condition": 2,
+      "seed": 44671,
+      "slot_within_condition": 15,
+      "schedule_index": 2,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s44671_i02_472b85bd"
+    },
+    {
+      "condition": 2,
+      "seed": 30926,
+      "slot_within_condition": 1,
+      "schedule_index": 3,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s30926_i03_0463eb5b"
+    },
+    {
+      "condition": 1,
+      "seed": 13478,
+      "slot_within_condition": 20,
+      "schedule_index": 4,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s13478_i04_c3c3cfbe"
+    },
+    {
+      "condition": 2,
+      "seed": 10851,
+      "slot_within_condition": 0,
+      "schedule_index": 5,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s10851_i05_343db201"
+    },
+    {
+      "condition": 2,
+      "seed": 92397,
+      "slot_within_condition": 24,
+      "schedule_index": 6,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s92397_i06_aaadf7ea"
+    },
+    {
+      "condition": 2,
+      "seed": 55082,
+      "slot_within_condition": 13,
+      "schedule_index": 7,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s55082_i07_9e9fa690"
+    },
+    {
+      "condition": 1,
+      "seed": 46048,
+      "slot_within_condition": 3,
+      "schedule_index": 8,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s46048_i08_e4116e5b"
+    },
+    {
+      "condition": 1,
+      "seed": 87397,
+      "slot_within_condition": 11,
+      "schedule_index": 9,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s87397_i09_3487db21"
+    },
+    {
+      "condition": 2,
+      "seed": 80284,
+      "slot_within_condition": 18,
+      "schedule_index": 10,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s80284_i10_336da0ad"
+    },
+    {
+      "condition": 1,
+      "seed": 88907,
+      "slot_within_condition": 19,
+      "schedule_index": 11,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s88907_i11_586478a6"
+    },
+    {
+      "condition": 1,
+      "seed": 87236,
+      "slot_within_condition": 28,
+      "schedule_index": 12,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s87236_i12_e07c3e2f"
+    },
+    {
+      "condition": 2,
+      "seed": 65392,
+      "slot_within_condition": 2,
+      "schedule_index": 13,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s65392_i13_30972ff6"
+    },
+    {
+      "condition": 1,
+      "seed": 38657,
+      "slot_within_condition": 16,
+      "schedule_index": 14,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s38657_i14_e5537c48"
+    },
+    {
+      "condition": 2,
+      "seed": 38221,
+      "slot_within_condition": 6,
+      "schedule_index": 15,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s38221_i15_e3f6aa15"
+    },
+    {
+      "condition": 2,
+      "seed": 91070,
+      "slot_within_condition": 25,
+      "schedule_index": 16,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s91070_i16_9dea9e36"
+    },
+    {
+      "condition": 2,
+      "seed": 89131,
+      "slot_within_condition": 14,
+      "schedule_index": 17,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s89131_i17_879474f2"
+    },
+    {
+      "condition": 2,
+      "seed": 82357,
+      "slot_within_condition": 22,
+      "schedule_index": 18,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s82357_i18_da0253dc"
+    },
+    {
+      "condition": 2,
+      "seed": 19116,
+      "slot_within_condition": 29,
+      "schedule_index": 19,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28"
+    },
+    {
+      "condition": 1,
+      "seed": 98696,
+      "slot_within_condition": 8,
+      "schedule_index": 20,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s98696_i20_b28fd1ce"
+    },
+    {
+      "condition": 1,
+      "seed": 65302,
+      "slot_within_condition": 12,
+      "schedule_index": 21,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s65302_i21_5f613a44"
+    },
+    {
+      "condition": 2,
+      "seed": 54118,
+      "slot_within_condition": 7,
+      "schedule_index": 22,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s54118_i22_b1c66fa0"
+    },
+    {
+      "condition": 1,
+      "seed": 64987,
+      "slot_within_condition": 25,
+      "schedule_index": 23,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s64987_i23_e3d46412"
+    },
+    {
+      "condition": 1,
+      "seed": 23434,
+      "slot_within_condition": 7,
+      "schedule_index": 24,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s23434_i24_5b3a7d95"
+    },
+    {
+      "condition": 1,
+      "seed": 24592,
+      "slot_within_condition": 1,
+      "schedule_index": 25,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s24592_i25_e07aa8b8"
+    },
+    {
+      "condition": 1,
+      "seed": 68878,
+      "slot_within_condition": 27,
+      "schedule_index": 26,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s68878_i26_12c2707d"
+    },
+    {
+      "condition": 2,
+      "seed": 54597,
+      "slot_within_condition": 3,
+      "schedule_index": 27,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s54597_i27_d4705444"
+    },
+    {
+      "condition": 1,
+      "seed": 38893,
+      "slot_within_condition": 26,
+      "schedule_index": 28,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s38893_i28_72bf0edf"
+    },
+    {
+      "condition": 2,
+      "seed": 30379,
+      "slot_within_condition": 5,
+      "schedule_index": 29,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s30379_i29_4d6b75c2"
+    },
+    {
+      "condition": 1,
+      "seed": 83563,
+      "slot_within_condition": 21,
+      "schedule_index": 30,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s83563_i30_2b7f9ba9"
+    },
+    {
+      "condition": 2,
+      "seed": 48427,
+      "slot_within_condition": 23,
+      "schedule_index": 31,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s48427_i31_b3c63005"
+    },
+    {
+      "condition": 2,
+      "seed": 22676,
+      "slot_within_condition": 11,
+      "schedule_index": 32,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s22676_i32_3f71c9bd"
+    },
+    {
+      "condition": 2,
+      "seed": 20328,
+      "slot_within_condition": 21,
+      "schedule_index": 33,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s20328_i33_e4050474"
+    },
+    {
+      "condition": 2,
+      "seed": 57400,
+      "slot_within_condition": 26,
+      "schedule_index": 34,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s57400_i34_d7d7a3fa"
+    },
+    {
+      "condition": 2,
+      "seed": 22156,
+      "slot_within_condition": 9,
+      "schedule_index": 35,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s22156_i35_166a6d2f"
+    },
+    {
+      "condition": 1,
+      "seed": 22280,
+      "slot_within_condition": 15,
+      "schedule_index": 36,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s22280_i36_162cb2ca"
+    },
+    {
+      "condition": 2,
+      "seed": 46421,
+      "slot_within_condition": 4,
+      "schedule_index": 37,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s46421_i37_c848dfaf"
+    },
+    {
+      "condition": 2,
+      "seed": 15695,
+      "slot_within_condition": 16,
+      "schedule_index": 38,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s15695_i38_ac0fb66b"
+    },
+    {
+      "condition": 2,
+      "seed": 23396,
+      "slot_within_condition": 8,
+      "schedule_index": 39,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s23396_i39_07ba11ba"
+    },
+    {
+      "condition": 1,
+      "seed": 42098,
+      "slot_within_condition": 4,
+      "schedule_index": 40,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s42098_i40_667103eb"
+    },
+    {
+      "condition": 2,
+      "seed": 59615,
+      "slot_within_condition": 20,
+      "schedule_index": 41,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s59615_i41_c10259f1"
+    },
+    {
+      "condition": 2,
+      "seed": 35203,
+      "slot_within_condition": 28,
+      "schedule_index": 42,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s35203_i42_f5d8023e"
+    },
+    {
+      "condition": 1,
+      "seed": 14165,
+      "slot_within_condition": 13,
+      "schedule_index": 43,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s14165_i43_dd908c60"
+    },
+    {
+      "condition": 1,
+      "seed": 36062,
+      "slot_within_condition": 22,
+      "schedule_index": 44,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s36062_i44_1acca450"
+    },
+    {
+      "condition": 2,
+      "seed": 70217,
+      "slot_within_condition": 17,
+      "schedule_index": 45,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s70217_i45_36347a59"
+    },
+    {
+      "condition": 1,
+      "seed": 21395,
+      "slot_within_condition": 10,
+      "schedule_index": 46,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s21395_i46_52f2d7de"
+    },
+    {
+      "condition": 1,
+      "seed": 95181,
+      "slot_within_condition": 23,
+      "schedule_index": 47,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s95181_i47_12f50adc"
+    },
+    {
+      "condition": 2,
+      "seed": 59797,
+      "slot_within_condition": 10,
+      "schedule_index": 48,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s59797_i48_31299eec"
+    },
+    {
+      "condition": 1,
+      "seed": 46463,
+      "slot_within_condition": 29,
+      "schedule_index": 49,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s46463_i49_b897be2c"
+    },
+    {
+      "condition": 1,
+      "seed": 40495,
+      "slot_within_condition": 17,
+      "schedule_index": 50,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s40495_i50_222f2f3a"
+    },
+    {
+      "condition": 1,
+      "seed": 81426,
+      "slot_within_condition": 24,
+      "schedule_index": 51,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s81426_i51_81077bb2"
+    },
+    {
+      "condition": 1,
+      "seed": 28289,
+      "slot_within_condition": 6,
+      "schedule_index": 52,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s28289_i52_763f32eb"
+    },
+    {
+      "condition": 2,
+      "seed": 85674,
+      "slot_within_condition": 27,
+      "schedule_index": 53,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s85674_i53_9c2eaeae"
+    },
+    {
+      "condition": 1,
+      "seed": 39256,
+      "slot_within_condition": 5,
+      "schedule_index": 54,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s39256_i54_0818d1a1"
+    },
+    {
+      "condition": 1,
+      "seed": 76237,
+      "slot_within_condition": 18,
+      "schedule_index": 55,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s76237_i55_35d0363e"
+    },
+    {
+      "condition": 2,
+      "seed": 26361,
+      "slot_within_condition": 19,
+      "schedule_index": 56,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s26361_i56_7d26a027"
+    },
+    {
+      "condition": 1,
+      "seed": 13905,
+      "slot_within_condition": 14,
+      "schedule_index": 57,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s13905_i57_ae3d0f5e"
+    },
+    {
+      "condition": 2,
+      "seed": 57052,
+      "slot_within_condition": 12,
+      "schedule_index": 58,
+      "episode_id": "e0_e0_20261007T132027Z_c2_s57052_i58_7bc295c6"
+    },
+    {
+      "condition": 1,
+      "seed": 13278,
+      "slot_within_condition": 2,
+      "schedule_index": 59,
+      "episode_id": "e0_e0_20261007T132027Z_c1_s13278_i59_ed2f6c47"
+    }
+  ]
+}

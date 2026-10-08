@@ -1,0 +1,203 @@
+{
+  "diagnostic": "nim_large_context_pacing_phase_d_e",
+  "isolation": "outside_experiment0",
+  "experiment0_frozen": {
+    "run_id": "e0_20261007T132027Z",
+    "status": "STOPPED_FOR_REVIEW",
+    "completed": "19/60",
+    "scientific_analysis": false
+  },
+  "generated_utc": "2026-10-07T18:35:40.032231Z",
+  "large_requests_used": 5,
+  "large_request_budget_max": 21,
+  "A_pretest": {
+    "http_status": 200,
+    "prompt_tokens": 170006,
+    "latency_ms": 974,
+    "Nvcf-Reqid": "984a0f1b-9a16-43ca-adb5-23b107defd41",
+    "Nvcf-Status": "fulfilled",
+    "finish_reason": "length"
+  },
+  "B_phase_d_15s": {
+    "result": "FAIL",
+    "classification": "PHASE_D_15S_PACING_STOPPED_ON_429",
+    "spacing_sec": 15.0,
+    "requested_max": 10,
+    "completed": 4,
+    "successful": 3,
+    "statuses": [
+      200,
+      200,
+      200,
+      429
+    ],
+    "first_failure": {
+      "sequence": 4,
+      "timestamp_utc_start": "2026-10-07T18:35:39.871302Z",
+      "timestamp_utc_end": "2026-10-07T18:35:40.030232Z",
+      "start_to_start_interval_sec": 14.999854,
+      "latency_ms": 159,
+      "http_status": 429,
+      "prompt_tokens": null,
+      "completion_tokens": null,
+      "finish_reason": null,
+      "Nvcf-Reqid": null,
+      "Nvcf-Status": null,
+      "Retry-After": null,
+      "rate_limit_and_quota_headers": {},
+      "all_response_headers": {
+        "Date": "Wed, 07 Oct 2026 18:35:30 GMT",
+        "Content-Type": "application/problem+json",
+        "Content-Length": "42",
+        "Connection": "close",
+        "Vary": "Origin"
+      }
+    },
+    "elapsed_phase_sec": 45.16,
+    "approx_successful_prompt_tokens": 510018,
+    "requests": [
+      {
+        "sequence": 1,
+        "timestamp_utc_start": "2026-10-07T18:34:54.871056Z",
+        "timestamp_utc_end": "2026-10-07T18:34:56.101724Z",
+        "start_to_start_interval_sec": null,
+        "latency_ms": 1230,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "50bc685f-f0f4-4305-83df-1f1c0f138b54",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:34:46 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "50bc685f-f0f4-4305-83df-1f1c0f138b54",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 2,
+        "timestamp_utc_start": "2026-10-07T18:35:09.871305Z",
+        "timestamp_utc_end": "2026-10-07T18:35:10.851768Z",
+        "start_to_start_interval_sec": 15.000249,
+        "latency_ms": 980,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "0ed0d781-e945-45f3-b55b-3637feee42f7",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:35:01 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "0ed0d781-e945-45f3-b55b-3637feee42f7",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 3,
+        "timestamp_utc_start": "2026-10-07T18:35:24.871448Z",
+        "timestamp_utc_end": "2026-10-07T18:35:26.232442Z",
+        "start_to_start_interval_sec": 15.000143,
+        "latency_ms": 1361,
+        "http_status": 200,
+        "prompt_tokens": 170006,
+        "completion_tokens": 1,
+        "finish_reason": "length",
+        "Nvcf-Reqid": "c54366eb-cba2-4889-a9c7-1649897b73bc",
+        "Nvcf-Status": "fulfilled",
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:35:17 GMT",
+          "Content-Type": "application/json",
+          "Transfer-Encoding": "chunked",
+          "Connection": "close",
+          "Access-Control-Expose-Headers": "nvcf-reqid",
+          "Nvcf-Reqid": "c54366eb-cba2-4889-a9c7-1649897b73bc",
+          "Nvcf-Status": "fulfilled",
+          "Vary": "Origin"
+        }
+      },
+      {
+        "sequence": 4,
+        "timestamp_utc_start": "2026-10-07T18:35:39.871302Z",
+        "timestamp_utc_end": "2026-10-07T18:35:40.030232Z",
+        "start_to_start_interval_sec": 14.999854,
+        "latency_ms": 159,
+        "http_status": 429,
+        "prompt_tokens": null,
+        "completion_tokens": null,
+        "finish_reason": null,
+        "Nvcf-Reqid": null,
+        "Nvcf-Status": null,
+        "Retry-After": null,
+        "rate_limit_and_quota_headers": {},
+        "all_response_headers": {
+          "Date": "Wed, 07 Oct 2026 18:35:30 GMT",
+          "Content-Type": "application/problem+json",
+          "Content-Length": "42",
+          "Connection": "close",
+          "Vary": "Origin"
+        }
+      }
+    ]
+  },
+  "C_phase_e_20s": {
+    "result": "NOT RUN",
+    "reason": "Phase D did not complete 10/10 successfully. Per protocol, do not test 20s after a failed 15s phase in the same execution."
+  },
+  "D_headers": {
+    "Retry-After_exposed": false,
+    "RPM_limit_exposed": false,
+    "TPM_limit_exposed": false,
+    "remaining_quota_exposed": false,
+    "reset_time_exposed": false,
+    "NVCF_request_IDs_exposed": true,
+    "NVCF_request_IDs": [
+      "984a0f1b-9a16-43ca-adb5-23b107defd41",
+      "50bc685f-f0f4-4305-83df-1f1c0f138b54",
+      "0ed0d781-e945-45f3-b55b-3637feee42f7",
+      "c54366eb-cba2-4889-a9c7-1649897b73bc"
+    ],
+    "all_header_names_seen": [
+      "Access-Control-Expose-Headers",
+      "Connection",
+      "Content-Length",
+      "Content-Type",
+      "Date",
+      "Nvcf-Reqid",
+      "Nvcf-Status",
+      "Transfer-Encoding",
+      "Vary"
+    ]
+  },
+  "E_comparison": {
+    "dense_Exp0_traffic": "repeated mid-episode HTTP 429 on e0_20261007T132027Z",
+    "prior_30s": "5/5 success",
+    "prior_60s": "5/5 success",
+    "current_15s": "PHASE_D_15S_PACING_STOPPED_ON_429",
+    "current_20s": "NOT RUN",
+    "no_specific_unpublished_quota_claimed": true
+  },
+  "F_pacing_recommendation": {
+    "shortest_interval_supported_by_diagnostic_evidence_sec": 30,
+    "status": "observed_safe_in_limited_diagnostic",
+    "not_guaranteed_safe": true,
+    "notes": "15s did not fully succeed; 20s NOT RUN. Shortest fully successful paced evidence remains 30s from prior Phase B. Observed safe in limited diagnostic \u2014 not guaranteed safe.",
+    "do_not_apply_to_started_exp0": true,
+    "do_not_resume_exp0": true
+  }
+}
