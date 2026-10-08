@@ -1,0 +1,21 @@
+{
+  "diagnostic": "nvidia_free_nim_endurance_screen_60s",
+  "run_id": "nim_endurance_20261008T055334Z",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "base_url": "https://integrate.api.nvidia.com/v1",
+  "max_attempts": 40,
+  "target_start_to_start_sec": 60.0,
+  "max_tokens": 1,
+  "retries": 0,
+  "fixture_rotation": [
+    "worst_case_actor",
+    "worst_case_witness",
+    "short_actor_t1",
+    "short_witness",
+    "multi_message_actor",
+    "revision_shaped_actor"
+  ],
+  "scientific": false,
+  "free_entitlement_note": "Same integrate.api.nvidia.com NIM path used for prior free-tier Exp0/diagnostics; no paid provider configured. Account billing portal not queried; stop if charges are later discovered.",
+  "started_utc": "2026-10-08T05:53:34.438882Z"
+}

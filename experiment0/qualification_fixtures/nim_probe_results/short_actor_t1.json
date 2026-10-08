@@ -1,0 +1,42 @@
+{
+  "fixture_id": "short_actor_t1",
+  "timestamp_utc": "2026-10-08T04:40:12.137898Z",
+  "fixture_body_sha256": "02467b41470e20a63cb41ff2bed2f793fcf146131b5811da45633c508dede968",
+  "local_prompt_tokens": 168008,
+  "local_token_trust": "unverified",
+  "fixture_stored_local_prompt_tokens": 168008,
+  "tokenizer_revision": "2dc98e2afe4face0e4ce40972a915c45368bd34a",
+  "chat_template_sha256": "575fb74f54ed264df9047d0ecce3c98938aae953fb4f50356675706264cbb68a",
+  "probe_max_tokens": 1,
+  "enable_thinking": false,
+  "provider_profile": "nvidia-nim",
+  "base_url": "https://integrate.api.nvidia.com/v1",
+  "retries": 0,
+  "provider_prompt_tokens": 168008,
+  "delta": 0,
+  "provider_meta": {
+    "prompt_tokens": 168008,
+    "completion_tokens": 1,
+    "total_tokens": 168009,
+    "prompt_tokens_details": {
+      "audio_tokens": null,
+      "cached_tokens": 0
+    },
+    "completion_tokens_details": {
+      "accepted_prediction_tokens": null,
+      "audio_tokens": null,
+      "reasoning_tokens": 0,
+      "rejected_prediction_tokens": null
+    },
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "id": "chatcmpl-d5ab73e3-0d0d-4dfb-a185-f3548fab858a",
+    "system_fingerprint": null,
+    "finish_reason": "length",
+    "assistant_content_len": 3,
+    "reasoning_content_present": false
+  },
+  "cached_tokens": 0,
+  "model_returned": "nvidia/nemotron-3-super-120b-a12b",
+  "request_id": "chatcmpl-d5ab73e3-0d0d-4dfb-a185-f3548fab858a",
+  "status": "PASS"
+}

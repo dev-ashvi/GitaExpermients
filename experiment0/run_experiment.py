@@ -23,16 +23,30 @@ EXP1 = REPO / "experiment1"
 sys.path.insert(0, str(EXP1))
 sys.path.insert(0, str(REPO))
 
+from experiment0 import engineering_config as eng
 from experiment0._e0_config import load_experiment0_config
+from experiment0.archival import ArchivedRunError, assert_not_archived_for_resume
 from experiment0.capacity import run_capacity_preflight
+from experiment0.capacity_gate import (
+    CapacityGatingAnthropicClient,
+    LiveProviderTokenCounter,
+    UnavailableTokenCounter,
+    gate_from_provider_profile,
+)
+from experiment0.local_nemotron_counter import LocalNemotronChatTokenCounter
 from experiment0.episode_runner import (
     EpisodeFailedError,
     Experiment0EpisodeRunner,
     UnsafeResumeError,
     make_episode_id,
 )
+from experiment0.http_pacing import GlobalHttpPacer
 from experiment0.providers.base import ProviderError
 from experiment0.providers.nim_provider import NimAnthropicCompatClient, NimChatProvider
+from experiment0.retry_amendment import (
+    TerminalOperationalError,
+    amendment_provenance,
+)
 from experiment0.script_loader import Experiment0ScriptLoader
 from src.actor import Actor, build_actor_system_prompt, validate_actor_system_prompt
 from src.buddhi import Buddhi
@@ -62,6 +76,37 @@ def _utc_now() -> str:
 
 def _sha256_path(path: Path) -> str:
     return sha256_file(path)
+
+
+def build_nim_http_pacer(
+    *,
+    runs_root: Optional[Path] = None,
+    run_dir: Optional[Path] = None,
+    clock: Any = None,
+    enabled: Optional[bool] = None,
+) -> Optional[GlobalHttpPacer]:
+    """Construct the process-wide NIM HTTP pacer (ops state under RUNS_DIR/_nim_ops).
+
+    When run_dir is provided, also tee attempt logs into that run for provenance.
+    """
+    if enabled is None:
+        enabled = bool(eng.NIM_HTTP_PACING_ENABLED)
+    if not enabled:
+        return None
+    root = Path(runs_root) if runs_root is not None else Path(e0.RUNS_DIR)
+    ops_dir = root / eng.NIM_HTTP_PACING_OPS_DIRNAME
+    ops_dir.mkdir(parents=True, exist_ok=True)
+    attempt_log = ops_dir / eng.NIM_HTTP_ATTEMPT_LOG_FILENAME
+    if run_dir is not None:
+        # Prefer per-run attempt log when a scientific run directory exists.
+        attempt_log = Path(run_dir) / eng.NIM_HTTP_ATTEMPT_LOG_FILENAME
+    return GlobalHttpPacer(
+        state_path=ops_dir / eng.NIM_HTTP_PACING_STATE_FILENAME,
+        attempt_log_path=attempt_log,
+        min_interval_sec=float(eng.NIM_HTTP_MIN_START_TO_START_SEC),
+        clock=clock,
+        enabled=True,
+    )
 
 
 def _redact_secrets(text: str) -> str:
@@ -320,13 +365,65 @@ def episode_complete(ledger_path: Path) -> bool:
     return turns == set(range(1, e0.TOTAL_TURNS + 1))
 
 
+def build_capacity_clients(
+    *,
+    provider: Any,
+    actor_inner: Any,
+    witness_inner: Any,
+    token_counter: Any = None,
+    provider_profile: Optional[str] = None,
+) -> tuple[Any, Any, Any]:
+    """Wrap Anthropic-shaped clients with per-request capacity hard gates.
+
+    Uses the exact serialized create() payload and each role's max_tokens as the
+    output budget. Default token counter is UnavailableTokenCounter (fail closed)
+    unless a verified counter is injected or live_provider_count mode is enabled.
+    """
+    profile = provider_profile or eng.ACTIVE_PROVIDER_PROFILE
+    gate = gate_from_provider_profile(
+        profile, fraction=e0.CONTEXT_CAPACITY_FRACTION
+    )
+    counter = token_counter
+    if counter is None:
+        mode = eng.PER_REQUEST_TOKEN_COUNT_MODE
+        if mode == "live_provider_count":
+            counter = LiveProviderTokenCounter(
+                provider,
+                model=e0.ACTOR_MODEL,
+                enable_thinking=e0.ENABLE_THINKING,
+            )
+        elif mode == "local_hf":
+            # Stage A: returns UNVERIFIED until Stage-B evidence authorizes;
+            # capacity gate still fail-closed for scientific requests.
+            counter = LocalNemotronChatTokenCounter(
+                provider_profile=profile,
+                model_id=e0.ACTOR_MODEL,
+                enable_thinking=e0.ENABLE_THINKING,
+            )
+        else:
+            # unavailable / unknown → fail closed (no approximate authorization;
+            # no silent extra live counts without separate rate-limit approval).
+            counter = UnavailableTokenCounter()
+    actor_client = CapacityGatingAnthropicClient(
+        actor_inner, gate=gate, token_counter=counter, role="actor"
+    )
+    witness_client = CapacityGatingAnthropicClient(
+        witness_inner, gate=gate, token_counter=counter, role="witness"
+    )
+    return actor_client, witness_client, gate
+
+
 def run_one_episode(
     *,
     run_dir: Path,
     run_id: str,
     slot: dict[str, Any],
     manifest: dict[str, Any],
-    provider: NimChatProvider,
+    provider: Any,
+    token_counter: Any = None,
+    actor_client: Any = None,
+    witness_client: Any = None,
+    constitution_text: Optional[str] = None,
 ) -> dict[str, Any]:
     condition = int(slot["condition"])
     seed = int(slot["seed"])
@@ -354,13 +451,26 @@ def run_one_episode(
         )
 
     sources = build_source_packet(e0.SOURCES_DIR)
-    constitution = load_text(e0.DOCUMENTS_DIR / "actor_constitution_v1.md")
+    constitution = constitution_text or load_text(
+        e0.DOCUMENTS_DIR / "actor_constitution_v1.md"
+    )
     system_prompt = build_actor_system_prompt(
         constitution, sources, task_framing=e0.ACTOR_TASK_FRAMING
     )
 
-    actor_client = NimAnthropicCompatClient(provider, enable_thinking=e0.ENABLE_THINKING)
-    witness_client = NimAnthropicCompatClient(provider, enable_thinking=e0.ENABLE_THINKING)
+    if actor_client is None or witness_client is None:
+        inner_a = NimAnthropicCompatClient(
+            provider, enable_thinking=e0.ENABLE_THINKING, purpose="actor"
+        )
+        inner_w = NimAnthropicCompatClient(
+            provider, enable_thinking=e0.ENABLE_THINKING, purpose="witness"
+        )
+        actor_client, witness_client, _gate = build_capacity_clients(
+            provider=provider,
+            actor_inner=inner_a,
+            witness_inner=inner_w,
+            token_counter=token_counter,
+        )
 
     actor = Actor(
         actor_client,
@@ -399,19 +509,58 @@ def run_one_episode(
     t0 = time.time()
     try:
         runner.run()
+        # Never mark complete unless ledger actually has all turns.
+        if not episode_complete(ledger_path):
+            return {
+                "status": "failed",
+                "episode_id": episode_id,
+                "error": "runner returned without complete ledger — fail closed",
+                "elapsed_sec": round(time.time() - t0, 2),
+                "operational_stop": True,
+                "failure_class": "incomplete_ledger",
+            }
         return {
             "status": "completed",
             "episode_id": episode_id,
             "elapsed_sec": round(time.time() - t0, 2),
         }
+    except TerminalOperationalError as exc:
+        return {
+            "status": "failed",
+            "episode_id": episode_id,
+            "error": _redact_secrets(str(exc)),
+            "elapsed_sec": round(time.time() - t0, 2),
+            "operational_stop": True,
+            "stop_reason": exc.stop_reason,
+            "failure_class": exc.failure_class,
+            "amendment_id": exc.amendment_id,
+            "http_status": exc.status_code,
+            "traceback": _redact_secrets(traceback.format_exc()[-2000:]),
+        }
+    except KeyboardInterrupt:
+        # Must not be classified as ordinary operational stop / 429.
+        raise
     except (EpisodeFailedError, ProviderError, UnsafeResumeError, Exception) as exc:
+        # EpisodeFailedError may wrap TerminalOperationalError from the runner.
+        cause = exc.__cause__
+        ops: dict[str, Any] = {}
+        if isinstance(cause, TerminalOperationalError):
+            ops = {
+                "operational_stop": True,
+                "stop_reason": cause.stop_reason,
+                "failure_class": cause.failure_class,
+                "amendment_id": cause.amendment_id,
+                "http_status": cause.status_code,
+            }
         return {
             "status": "failed",
             "episode_id": episode_id,
             "error": _redact_secrets(str(exc)),
             "elapsed_sec": round(time.time() - t0, 2),
             "traceback": _redact_secrets(traceback.format_exc()[-2000:]),
+            **ops,
         }
+    # Other BaseExceptions (SystemExit, GeneratorExit, etc.) must propagate.
 
 
 def main(argv: Optional[list[str]] = None) -> int:
@@ -454,6 +603,12 @@ def main(argv: Optional[list[str]] = None) -> int:
             print("RUN_BLOCKED_PRE_EXECUTION_INTEGRITY", flush=True)
             print("resume target missing run_manifest", flush=True)
             return 2
+        try:
+            assert_not_archived_for_resume(run_dir)
+        except ArchivedRunError as exc:
+            print("RUN_BLOCKED_ARCHIVED_EXCLUDED", flush=True)
+            print(str(exc), flush=True)
+            return 5
         gate["prior_episode_artifacts"] = []  # allowed when resuming
         # Re-check config/hashes still
         if not gate["ok"] and any(
@@ -486,6 +641,28 @@ def main(argv: Optional[list[str]] = None) -> int:
         return 2
 
     print("=== Capacity preflight (provider-exact) ===", flush=True)
+    # Global HTTP pacing attaches before any NIM call (preflight counts included).
+    http_pacer = build_nim_http_pacer(runs_root=e0.RUNS_DIR)
+    if http_pacer is not None:
+        print(
+            json.dumps(
+                {
+                    "nim_http_pacing": True,
+                    "min_start_to_start_sec": eng.NIM_HTTP_MIN_START_TO_START_SEC,
+                    "state_path": str(
+                        Path(e0.RUNS_DIR)
+                        / eng.NIM_HTTP_PACING_OPS_DIRNAME
+                        / eng.NIM_HTTP_PACING_STATE_FILENAME
+                    ),
+                    "retry_amendment_v1_enabled": eng.RETRY_AMENDMENT_V1_ENABLED,
+                    "token_count_mode": eng.PER_REQUEST_TOKEN_COUNT_MODE,
+                    "prelaunch_recommended_token_mode": eng.PRELAUNCH_RECOMMENDED_TOKEN_COUNT_MODE,
+                    "prelaunch_token_mode_activated": eng.PRELAUNCH_TOKEN_COUNT_MODE_ACTIVATED,
+                },
+                indent=2,
+            ),
+            flush=True,
+        )
     provider = NimChatProvider(
         api_key_env=e0.NIM_API_KEY_ENV,
         base_url=e0.NIM_BASE_URL,
@@ -493,6 +670,7 @@ def main(argv: Optional[list[str]] = None) -> int:
         retry_base_delay_sec=e0.API_RETRY_BASE_DELAY_SEC,
         send_top_p=e0.SEND_TOP_P,
         send_sampling_seed=e0.SEND_SAMPLING_SEED,
+        http_pacer=http_pacer,
     )
     try:
         capacity = run_capacity_preflight(provider)
@@ -535,10 +713,33 @@ def main(argv: Optional[list[str]] = None) -> int:
         manifest["capacity_preflight"] = capacity
         manifest["status"] = "RUNNING"
         manifest["started_utc"] = _utc_now()
+        manifest["ops"] = {
+            "nim_http_pacing_enabled": eng.NIM_HTTP_PACING_ENABLED,
+            "nim_http_min_start_to_start_sec": eng.NIM_HTTP_MIN_START_TO_START_SEC,
+            "retry_amendment_v1": amendment_provenance(),
+            "per_request_token_count_mode": eng.PER_REQUEST_TOKEN_COUNT_MODE,
+            "active_provider_profile": eng.ACTIVE_PROVIDER_PROFILE,
+        }
         (run_dir / RUN_MANIFEST_NAME).write_text(
             json.dumps(manifest, indent=2), encoding="utf-8"
         )
         print(f"Created run_id={run_id}", flush=True)
+
+    # Tee HTTP attempt log into the scientific run directory (state remains global).
+    if http_pacer is not None:
+        http_pacer.attempt_log_path = run_dir / eng.NIM_HTTP_ATTEMPT_LOG_FILENAME
+        append_ops(
+            run_dir,
+            {
+                "event": "nim_http_pacing_attached",
+                "min_start_to_start_sec": eng.NIM_HTTP_MIN_START_TO_START_SEC,
+                "state_path": str(
+                    Path(e0.RUNS_DIR)
+                    / eng.NIM_HTTP_PACING_OPS_DIRNAME
+                    / eng.NIM_HTTP_PACING_STATE_FILENAME
+                ),
+            },
+        )
 
     append_ops(run_dir, {"event": "collection_start", "run_id": run_id})
 
@@ -609,6 +810,17 @@ def main(argv: Optional[list[str]] = None) -> int:
             manifest["status"] = "STOPPED_FOR_REVIEW"
             manifest["stop_reason"] = result.get("error")
             manifest["stopped_utc"] = _utc_now()
+            if result.get("operational_stop"):
+                manifest["operational_stop"] = {
+                    "failure_class": result.get("failure_class"),
+                    "amendment_id": result.get("amendment_id"),
+                    "http_status": result.get("http_status"),
+                    "stop_reason": result.get("stop_reason"),
+                    "episode_id": result.get("episode_id"),
+                    "schedule_index": slot["schedule_index"],
+                    # condition logged for ops identity only — not used to adapt pauses
+                    "condition": slot["condition"],
+                }
             (run_dir / RUN_MANIFEST_NAME).write_text(
                 json.dumps(manifest, indent=2), encoding="utf-8"
             )

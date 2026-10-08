@@ -19,6 +19,7 @@ if str(REPO) not in sys.path:
     sys.path.insert(0, str(REPO))
 
 from experiment0._e0_config import load_experiment0_config
+from experiment0.retry_amendment import TerminalOperationalError
 from experiment0.script_loader import Experiment0ScriptLoader
 from src.actor import Actor
 from src.buddhi import Buddhi, should_obstruct
@@ -100,12 +101,29 @@ class Experiment0EpisodeRunner:
                 self._run_turn(turn)
             except UnsafeResumeError:
                 raise
+            except TerminalOperationalError as exc:
+                # Must not be absorbed into generic Exception handling upstream of
+                # Actor/Witness — re-raise as EpisodeFailedError carrying ops class.
+                self.failed = True
+                self.failure_reason = (
+                    f"terminal_ops:{exc.failure_class}:{exc}"
+                )
+                raise EpisodeFailedError(
+                    f"Episode {self.episode_id} operational stop at turn {turn}: "
+                    f"[{exc.failure_class}] {exc}"
+                ) from exc
+            except KeyboardInterrupt:
+                # Operator interrupt — never rewrite as operational/scientific fail.
+                raise
             except (WitnessParseError, Exception) as exc:
+                # WitnessParseError keeps frozen scientific retry semantics inside
+                # Witness.evaluate; reaching here means retries exhausted.
                 self.failed = True
                 self.failure_reason = str(exc)
                 raise EpisodeFailedError(
                     f"Episode {self.episode_id} failed at turn {turn}: {exc}"
                 ) from exc
+            # Unexpected BaseException subclasses must propagate uncaught.
         return self.ledger.path
 
     def _provider_meta(self) -> dict[str, Any]:

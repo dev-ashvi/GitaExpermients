@@ -22,6 +22,7 @@ sys.path.insert(0, str(EXP1))
 sys.path.insert(0, str(REPO))
 
 from experiment0._e0_config import load_experiment0_config
+from experiment0.archival import ArchivedRunError, assert_allowed_for_clean_analysis
 from experiment0.metrics import (
     cohens_d,
     compute_final_alignment_score,
@@ -416,6 +417,12 @@ def main(argv: Optional[list[str]] = None) -> int:
     if not run_dir.exists():
         print(f"run dir missing: {run_dir}")
         return 1
+    try:
+        assert_allowed_for_clean_analysis(run_dir)
+    except ArchivedRunError as exc:
+        print("ANALYSIS_BLOCKED_ARCHIVED_EXCLUDED", flush=True)
+        print(str(exc), flush=True)
+        return 3
     report = analyze(run_dir)
     print(json.dumps({"terminal_classification": report.get("terminal_classification"),
                       "status": report.get("status")}, indent=2))

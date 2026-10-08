@@ -1,0 +1,8 @@
+ABORTED mid-run before completing 24 attempts.
+
+Reason: Witness-shaped requests replaced the final user message, which in
+Witness fixtures IS the large source packet. Observed provider prompt_tokens
+collapsed to ~3167 instead of the required ~168k–208k input envelope.
+
+No scientific Experiment 0 was launched. This partial diagnostic is not a
+qualification result. A corrected freeze + full re-run follows.

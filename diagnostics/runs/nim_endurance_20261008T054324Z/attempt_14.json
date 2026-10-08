@@ -1,0 +1,22 @@
+{
+  "attempt_index": 14,
+  "fixture_id": "worst_case_witness",
+  "fixture_body_sha256": "0f31ec51eed895af3bbb4405ffa7c30b97257c42bfa7f642c2557653342724ef",
+  "fixture_local_prompt_tokens": 170414,
+  "scheduled_start_utc": "2026-10-08T05:56:24.241409Z",
+  "actual_start_utc": "2026-10-08T05:56:24.241409Z",
+  "actual_inter_request_interval_sec": 60.0,
+  "target_start_to_start_sec": 60.0,
+  "drift_from_schedule_sec": 0.0,
+  "http_status": 200,
+  "duration_sec": 1.562,
+  "status": "OK",
+  "request_id": "chatcmpl-3b3d474e-c8b8-4be4-8fb5-ba8e500ee1d2",
+  "input_tokens": 170414,
+  "cached_tokens": 169312,
+  "output_tokens": 1,
+  "model_returned": "nvidia/nemotron-3-super-120b-a12b",
+  "finish_reason": "length",
+  "cumulative_accepted_input_tokens": 2481552,
+  "cumulative_wall_clock_sec": 781.578
+}

@@ -1,0 +1,74 @@
+{
+  "archival_label": "ABORTED_OPERATIONAL_RATE_LIMIT_PRE_ANALYSIS",
+  "run_id": "e0_20261007T132027Z",
+  "archived_utc": "2026-10-08T03:57:59.521362Z",
+  "prior_status": "STOPPED_FOR_REVIEW",
+  "completed_episodes": 19,
+  "total_episodes_planned": 60,
+  "excluded_from_clean_n60": true,
+  "excluded_from_primary_dataset": true,
+  "scientific_analysis_performed": false,
+  "scientific_outcomes_inspected": false,
+  "inspection_forbidden_fields": [
+    "actor_output_initial",
+    "actor_output_final",
+    "witness_raw scores/verdict/reasoning",
+    "witness_final scores/verdict/reasoning",
+    "RCVR",
+    "BUD",
+    "AlignmentScore",
+    "condition-wise scientific outcomes"
+  ],
+  "preserve": {
+    "ledgers": true,
+    "schedule": true,
+    "hashes": true,
+    "run_metadata": true,
+    "diagnostics": true,
+    "do_not_overwrite_or_delete": true,
+    "do_not_regenerate_schedule": true
+  },
+  "stop_reason_ops": "HTTP 429 after frozen retries (operational; pre-analysis)",
+  "artifact_inventory": {
+    "present": {
+      "run_manifest.json": true,
+      "assignment_schedule.json": true,
+      "operational_progress.json": true,
+      "operational_log.jsonl": true
+    },
+    "episode_jsonl_count": 20,
+    "episode_jsonl_names": [
+      "e0_e0_20261007T132027Z_c1_s13478_i04_c3c3cfbe.jsonl",
+      "e0_e0_20261007T132027Z_c1_s38657_i14_e5537c48.jsonl",
+      "e0_e0_20261007T132027Z_c1_s46048_i08_e4116e5b.jsonl",
+      "e0_e0_20261007T132027Z_c1_s81482_i00_71cdf58a.jsonl",
+      "e0_e0_20261007T132027Z_c1_s87236_i12_e07c3e2f.jsonl",
+      "e0_e0_20261007T132027Z_c1_s87397_i09_3487db21.jsonl",
+      "e0_e0_20261007T132027Z_c1_s88907_i11_586478a6.jsonl",
+      "e0_e0_20261007T132027Z_c1_s93810_i01_4f21ffdc.jsonl",
+      "e0_e0_20261007T132027Z_c2_s10851_i05_343db201.jsonl",
+      "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.jsonl",
+      "e0_e0_20261007T132027Z_c2_s30926_i03_0463eb5b.jsonl",
+      "e0_e0_20261007T132027Z_c2_s38221_i15_e3f6aa15.jsonl",
+      "e0_e0_20261007T132027Z_c2_s44671_i02_472b85bd.jsonl",
+      "e0_e0_20261007T132027Z_c2_s55082_i07_9e9fa690.jsonl",
+      "e0_e0_20261007T132027Z_c2_s65392_i13_30972ff6.jsonl",
+      "e0_e0_20261007T132027Z_c2_s80284_i10_336da0ad.jsonl",
+      "e0_e0_20261007T132027Z_c2_s82357_i18_da0253dc.jsonl",
+      "e0_e0_20261007T132027Z_c2_s89131_i17_879474f2.jsonl",
+      "e0_e0_20261007T132027Z_c2_s91070_i16_9dea9e36.jsonl",
+      "e0_e0_20261007T132027Z_c2_s92397_i06_aaadf7ea.jsonl"
+    ],
+    "partial_quarantine_bak_names": [
+      "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791385190.jsonl.bak",
+      "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791385885.jsonl.bak",
+      "e0_e0_20261007T132027Z_c2_s19116_i19_8cb36c28.partial_1791391344.jsonl.bak"
+    ]
+  },
+  "guards": {
+    "resume_blocked": true,
+    "clean_n60_analysis_blocked": true,
+    "replacement_schedule_not_created": true
+  },
+  "note": "ABORTED_OPERATIONAL_RATE_LIMIT_PRE_ANALYSIS. 19 completed episodes excluded from future clean N=60 primary dataset. No scientific outcomes inspected."
+}

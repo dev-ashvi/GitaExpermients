@@ -1,0 +1,44 @@
+{
+  "created_utc": "2026-10-08T04:34:37.802820Z",
+  "stage": "A_OFFLINE_ONLY",
+  "hosted_probes_executed": false,
+  "local_trust": "unverified",
+  "fixtures": [
+    {
+      "fixture_id": "short_actor_t1",
+      "local_prompt_tokens": 168008,
+      "body_sha256": "02467b41470e20a63cb41ff2bed2f793fcf146131b5811da45633c508dede968",
+      "output_budget_max_tokens": 800
+    },
+    {
+      "fixture_id": "short_witness",
+      "local_prompt_tokens": 168823,
+      "body_sha256": "0dcdc9c510874252f8320fb946a66fcdad736006e8d6c81093873839aa4a53d3",
+      "output_budget_max_tokens": 1600
+    },
+    {
+      "fixture_id": "multi_message_actor",
+      "local_prompt_tokens": 168244,
+      "body_sha256": "edcc6577bdc2142356a148067a971b438226c61a03b49816682b15123907b059",
+      "output_budget_max_tokens": 800
+    },
+    {
+      "fixture_id": "revision_shaped_actor",
+      "local_prompt_tokens": 168266,
+      "body_sha256": "92e05997b6957d112d149a9bbced94fc70678ca3b558c2e80ec631b662f0c62a",
+      "output_budget_max_tokens": 800
+    },
+    {
+      "fixture_id": "worst_case_actor",
+      "local_prompt_tokens": 207876,
+      "body_sha256": "7525c890045f9148b8ca06bf11c371a6efb910d1f99a711de1da3a5495a81a47",
+      "output_budget_max_tokens": 800
+    },
+    {
+      "fixture_id": "worst_case_witness",
+      "local_prompt_tokens": 170414,
+      "body_sha256": "0f31ec51eed895af3bbb4405ffa7c30b97257c42bfa7f642c2557653342724ef",
+      "output_budget_max_tokens": 1600
+    }
+  ]
+}

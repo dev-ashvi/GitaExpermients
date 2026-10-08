@@ -1,0 +1,45 @@
+{
+  "fixture_id": "minimal_synthetic",
+  "role": "synthetic",
+  "notes": "Truly minimal short system+user for Stage B (not 168k history-short fixtures)",
+  "non_scientific": true,
+  "expected_provider_profile": "nvidia-nim",
+  "model_id": "nvidia/nemotron-3-super-120b-a12b",
+  "output_budget_max_tokens": 1,
+  "temperature": 0.0,
+  "enable_thinking": false,
+  "add_generation_prompt": true,
+  "message_shape": {
+    "has_system": true,
+    "n_messages": 2,
+    "roles": [
+      "system",
+      "user"
+    ]
+  },
+  "provider_facing_request_body": {
+    "model": "nvidia/nemotron-3-super-120b-a12b",
+    "messages": [
+      {
+        "role": "system",
+        "content": "Qualification synthetic system."
+      },
+      {
+        "role": "user",
+        "content": "Say one word: ping."
+      }
+    ],
+    "max_tokens": 1,
+    "temperature": 0.0,
+    "chat_template_kwargs": {
+      "enable_thinking": false
+    }
+  },
+  "provider_facing_request_body_sha256": "67cf9d06ab22c87131fd1e910612e088c917736db7b27a477f51d4bb446b2afc",
+  "local_prompt_tokens": 27,
+  "local_token_trust": "unverified",
+  "tokenizer_revision": "2dc98e2afe4face0e4ce40972a915c45368bd34a",
+  "chat_template_sha256": "575fb74f54ed264df9047d0ecce3c98938aae953fb4f50356675706264cbb68a",
+  "stage_b_compare_field": "usage.prompt_tokens",
+  "stage_b_required_delta": 0
+}

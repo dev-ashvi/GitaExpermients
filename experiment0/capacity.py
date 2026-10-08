@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import sys
 from pathlib import Path
-from typing import Any
+from typing import Any, Optional
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 EXP1 = REPO_ROOT / "experiment1"
@@ -13,7 +13,13 @@ if str(EXP1) not in sys.path:
 if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
+from experiment0 import engineering_config as eng  # noqa: E402
 from experiment0._e0_config import load_experiment0_config  # noqa: E402
+from experiment0.capacity_gate import (  # noqa: E402
+    CapacityGate,
+    TokenCountTrust,
+    gate_from_provider_profile,
+)
 from experiment0.providers.base import ProviderRequest  # noqa: E402
 from experiment0.providers.nim_provider import NimChatProvider  # noqa: E402
 from experiment0.script_loader import Experiment0ScriptLoader  # noqa: E402
@@ -91,45 +97,69 @@ def build_witness_worst_case_request() -> ProviderRequest:
 
 
 def evaluate_capacity(
-    prompt_tokens: int, reserved_output: int, *, context_limit: int, fraction: float
+    prompt_tokens: int,
+    reserved_output: int,
+    *,
+    context_limit: int,
+    fraction: float,
+    context_limit_verified: bool = True,
+    provider_profile: str = "explicit",
+    token_count_trust: TokenCountTrust = TokenCountTrust.VERIFIED,
 ) -> dict[str, Any]:
-    lhs = prompt_tokens + reserved_output
-    rhs = int(context_limit * fraction)
-    return {
-        "prompt_tokens": prompt_tokens,
-        "reserved_output": reserved_output,
-        "lhs": lhs,
-        "rhs": rhs,
-        "pass": lhs <= rhs,
-        "context_limit": context_limit,
-        "fraction": fraction,
-    }
+    """Arithmetic helper; raises CapacityGateError / CapacityConfigurationError on fail-closed."""
+    gate = CapacityGate(
+        verified_context_limit=context_limit,
+        fraction=fraction,
+        context_limit_verified=context_limit_verified,
+        provider_profile=provider_profile,
+    )
+    return gate.evaluate(
+        prompt_tokens=prompt_tokens,
+        reserved_output_tokens=reserved_output,
+        token_count_trust=token_count_trust,
+    )
 
 
-def run_capacity_preflight(provider: NimChatProvider) -> dict[str, Any]:
+def run_capacity_preflight(
+    provider: NimChatProvider,
+    *,
+    provider_profile: Optional[str] = None,
+) -> dict[str, Any]:
+    profile = provider_profile or eng.ACTIVE_PROVIDER_PROFILE
+    gate = gate_from_provider_profile(
+        profile, fraction=e0.CONTEXT_CAPACITY_FRACTION
+    )
+    # Fail closed before any counting if the active profile is unqualified.
+    try:
+        _ = gate.budget_tokens()
+    except CapacityConfigurationError:
+        raise
+
     actor_req = build_actor_worst_case_request()
     witness_req = build_witness_worst_case_request()
     actor_pt = provider.count_prompt_tokens(actor_req)
     witness_pt = provider.count_prompt_tokens(witness_req)
-    actor = evaluate_capacity(
-        actor_pt,
-        e0.MAX_TOKENS_ACTOR,
-        context_limit=e0.MODEL_CONTEXT_LIMIT,
-        fraction=e0.CONTEXT_CAPACITY_FRACTION,
+    actor = gate.evaluate(
+        prompt_tokens=actor_pt,
+        reserved_output_tokens=e0.MAX_TOKENS_ACTOR,
+        token_count_trust=TokenCountTrust.VERIFIED,
     )
-    witness = evaluate_capacity(
-        witness_pt,
-        e0.MAX_TOKENS_WITNESS,
-        context_limit=e0.MODEL_CONTEXT_LIMIT,
-        fraction=e0.CONTEXT_CAPACITY_FRACTION,
+    witness = gate.evaluate(
+        prompt_tokens=witness_pt,
+        reserved_output_tokens=e0.MAX_TOKENS_WITNESS,
+        token_count_trust=TokenCountTrust.VERIFIED,
     )
     return {
         "ok": bool(actor["pass"] and witness["pass"]),
         "actor": actor,
         "witness": witness,
+        "provider_profile": profile,
         "diagnostic_reference": {
-            "actor_prompt_tokens_approx": 207820,
-            "witness_prompt_tokens_approx": 170414,
-            "note": "Reference from pre-implementation diagnostic; not hardcoded as answer.",
+            "actor_prompt_tokens_nvidia_prior": 207876,
+            "witness_prompt_tokens_nvidia_prior": 170414,
+            "note": (
+                "NVIDIA-derived prior counts only; not DeepInfra-verified. "
+                "Do not treat as provider qualification for alternate backends."
+            ),
         },
     }

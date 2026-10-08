@@ -1,0 +1,7 @@
+{
+  "diagnostic": "nvidia_free_nim_generation_screen_60s",
+  "run_id": "nim_generation_20261008T071640Z",
+  "model": "nvidia/nemotron-3-super-120b-a12b",
+  "started_utc": "2026-10-08T07:16:40.762341Z",
+  "free_entitlement_note": "Same integrate.api.nvidia.com NIM path used for prior free-tier Exp0/diagnostics and the passed large-input endurance screen; no OpenRouter/DeepInfra/paid provider configured for this task. Account billing portal not queried; stop if charges are later discovered."
+}

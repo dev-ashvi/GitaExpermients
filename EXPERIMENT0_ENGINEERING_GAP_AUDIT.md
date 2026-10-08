@@ -169,11 +169,23 @@ These unit/integration tests use mocks/fixtures only; they do not write into `e0
 
 | Item | Risk |
 |---|---|
-| OpenRouter / DeepInfra **262,144** window | Offline: Actor ~208k+800 and Witness ~170k+1600 **exceed 0.85×262144≈222,822** for Actor worst-case. **Must re-qualify or reduce packet before that backend.** |
+| OpenRouter / DeepInfra **262,144** window | See **CORRECTION** below. Arithmetic fit is provisional; **tokenization is not DeepInfra-verified**. Provider qualification still required before that backend. |
 | Tokenizer mismatch | Counting is provider-specific NIM usage; switching providers without re-measure can mis-gate |
 | Mid-episode growth | History grows; only worst-case preflight at start — no per-turn gate |
 | `enable_thinking=False` | Sent as `chat_template_kwargs` on NIM; OpenAI-compatible mapping must be re-verified per provider |
 | Backend pin / no fallback | Not implemented for OpenRouter-style routers |
+
+### CORRECTION (2026-10-08) — 262,144 capacity arithmetic
+
+The audit draft incorrectly stated that the prior Actor token estimate exceeds 85% of a 262,144-token context.
+
+Correct arithmetic:
+
+- \(262{,}144 \times 0.85 = 222{,}822.4\)
+- Actor: \(207{,}876 + 800 = 208{,}676\) → **provisionally fits** (\(\le 222{,}822\))
+- Witness: \(170{,}414 + 1{,}600 = 172{,}014\) → **provisionally fits**
+
+**Important:** These are **NVIDIA-derived** `usage.prompt_tokens` counts, **not** verified DeepInfra (or other provider) counts. Provisional arithmetic fit **does not** establish provider qualification. Tokenizer/template differences can change the measured prompt size; re-measure on the target provider before authorizing scientific traffic.
 
 ### Offline vs live qualification
 
@@ -196,11 +208,11 @@ These unit/integration tests use mocks/fixtures only; they do not write into `e0
 | Status | **`STOPPED_FOR_REVIEW`** |
 | Completed episodes | **19** (indices 0–18) |
 | Scientific analysis | **None** (`analysis_report.json` absent) |
-| Permanent archival label | **NOT APPLIED** (pending) |
+| Permanent archival label | Applied in P0 engineering pass: `ABORTED_OPERATIONAL_RATE_LIMIT_PRE_ANALYSIS` via additive `ARCHIVAL_MANIFEST.json` (see P0 implementation report) |
 | Ledger / schedule / manifest | Present under `experiment0/runs/e0_20261007T132027Z/` |
 | Stop cause (ops) | HTTP 429 after frozen retries (documented in ops log / stop_reason) |
 
-**Pending action (do not do in this audit):** apply a permanent archival label stating aborted pre-analysis; exclude from clean N=60 dataset.
+**Status update:** archival exclusion + fail-closed resume/analysis guards are implemented in the P0 engineering pass (additive; original ledgers preserved).
 
 No Witness scores, RCVR/BUD/Alignment, or condition-wise outcomes were read for this section.
 
